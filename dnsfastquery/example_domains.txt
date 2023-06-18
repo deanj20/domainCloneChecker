@@ -1,0 +1,5 @@
+_dmarc.yahoo.com
+_dmarc.web.de
+_dmarc.ameblo.jp
+_dmarc.gmail.com
+_dmarc.whereispost.com
