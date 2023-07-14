@@ -27,7 +27,7 @@ class Main:
         self.logger.info(f"App running...")
 
         # Define the base URLs to check
-        base_urls = ["tamucc", "tamu-cc"]
+        base_urls = ["jdotek", "jdo-tek"]
 
         # Create the _output directory if it doesn't exist
         os.makedirs(self.outputDir, exist_ok=True)
