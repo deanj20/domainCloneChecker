@@ -1,70 +1,74 @@
-# CloneDomainCheckerService.py
-
 import itertools
 from datetime import datetime
+import subprocess
 import pydig
+import logging
+import os
+import json
+import socket
 
 
 class CloneDomainChecker:
-    def __init__(self, tests, outputFile):
-        self.tests = tests
+    def __init__(self, configFile, outputFile, logger):
+        self.configFile = configFile
         self.outputFile = outputFile
         self.checked = []
-        self.substitutions = {
-            '1': ['i', 'l'],
-            '2': ['s', 'z'],
-            '3': ['e'],
-            '4': ['a'],
-            '5': ['s', 'z'],
-            '6': ['g'],
-            '7': ['t'],
-            '8': ['b'],
-            '9': ['p'],
-            '0': ['0'],
-            'a': ['4'],
-            'b': ['8'],
-            'd': ['cl'],
-            'e': ['3'],
-            'g': ['6', '9'],
-            'i': ['1', 'l'],
-            'l': ['1', 'i'],
-            'm': ['nn'],
-            'o': ['0'],
-            'p': ['9'],
-            'q': ['g'],
-            's': ['5', 'z'],
-            't': ['7'],
-            'w': ['vv'],
-            'z': ['2', 's']
-        }
+        self.substitutions = {}
+        self.suffixes = []
+        self.verification_counts = {}
+
+        # Initialize the logger
+        self.logger = logger
+
+
+    def load_base_strings(self):
+        with open(self.configFile, 'r') as config_file:
+            config_data = json.load(config_file)
+            return config_data.get('base_strings', [])
+
+    def load_substitutions(self):
+        with open(self.configFile, 'r') as config_file:
+            config_data = json.load(config_file)
+            return config_data.get('substitutions', {})
+
+    def load_suffixes(self):
+        with open(self.configFile, 'r') as config_file:
+            config_data = json.load(config_file)
+            return config_data.get('suffixes', [])
 
     def run(self):
-        total_elements = 0
+        self.tests = self.load_base_strings()
+        self.substitutions = self.load_substitutions()
+        self.suffixes = self.load_suffixes()
+        total_elements = self.get_total_elements()
 
-        print("Number of base strings to check: " + str(len(self.tests)))
-        print("Number of char substitutions coded: " + str(len(self.substitutions)))
-        for arr in self.substitutions:
-            for items in self.substitutions[arr]:
-                total_elements += 1
-        print("Number of possibilities for char substitutions coded: " + str(total_elements))
-        print("")
+        self.logger.info("Number of base strings to check: " + str(len(self.tests)))
+        self.logger.info("Number of char substitutions coded: " + str(len(self.substitutions)))
+        self.logger.info("Number of possibilities for char substitutions coded: " + str(total_elements))
 
         for x in self.tests:
-            self.process_orig_urls(x)
+            #self.process_orig_urls(x)
             self.generate_2_deep(x)
+            
 
         ct = datetime.now()
         ct = str(ct)
-        file1 = open(self.outputFile, "a")  # append mode
-        file1.write("\n\nTimeStamp: " + ct)
-        file1.write("\n############# END OF RUN #############\n")
-        file1.write("\n\nSites found: ")
-        file1.write(str(self.checked))
-        file1.close()
-        print("End of Run. Sites found:")
-        print(self.checked)
+        with open(self.outputFile, "a") as file1:  # append mode
+            file1.write("\n\nTimeStamp: " + ct)
+            file1.write("\n############# END OF RUN #############\n")
+            file1.write("\n\nSites found: ")
+            if self.checked:
+                file1.write(str(self.checked))
+            else:
+                file1.write("No sites found")
+
+        # Add this line to print the final list
+        self.logger.info("End of Run. Sites found:")
+        self.logger.info(self.checked)
+
 
     def generate_substitutions(self, word):
+        yield word  # Always start with the original word (0 substitutions)
         for i in range(len(word)):
             if word[i].lower() in self.substitutions:
                 for sub in self.substitutions[word[i].lower()]:
@@ -73,47 +77,110 @@ class CloneDomainChecker:
     def generate_combinations(self, word):
         for i in range(len(word) + 1):
             for subset in itertools.combinations(range(len(word)), i):
-                yield ''.join(word[j] if j not in subset else 'xxx' for j in range(len(word)))
+                combo = ''.join(word[j] if j not in subset else 'xxx' for j in range(len(word)))
+                if 'xxx' not in combo:
+                    yield combo
 
     def generate_urls(self, word):
-        for combo in self.generate_combinations(word):
-            for sub in self.generate_substitutions(combo):
-                for suffix in [".net", ".com", ".org", ".edu", ".io", ".tv", ".co", ".biz"]:
-                    yield sub + suffix
+        all_combinations = list(self.generate_combinations(word))
+        all_substitutions = list(self.generate_substitutions(word))
+        for combo in all_combinations:
+            for sub in all_substitutions:
+                for suffix in self.suffixes:
+                    url = sub + suffix
+                    if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
+                        yield url
 
+
+
+    def check_and_add_positive(self, domain):
+        if self.check_domain(domain):
+            if domain not in self.verification_counts:
+                self.verification_counts[domain] = 1
+            else:
+                self.verification_counts[domain] += 1
+            if self.verification_counts[domain] == 3:
+#                self.checked.append(domain)
+                self.logger.info(domain + "--found")
+
+                # Log the positive domain to the output file
+                ct = datetime.now()
+                ct = str(ct)
+                with open(self.outputFile, "a") as file1:  # append mode
+                    file1.write("\n\nTimeStamp: " + ct)
+                    file1.write("\nDomain found: " + domain + " - Verified 3 times")
+
+
+    # Modified process_orig_urls method
     def process_orig_urls(self, word):
-        for suffix in [".net", ".com", ".org", ".edu", ".io", ".tv", ".co", ".biz"]:
+        for suffix in self.suffixes:
             url = (word + suffix)
             if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
-                print("Checking " + url)
-                whois_result = pydig.query(url, 'NS')
-                if len(whois_result) > 0:
-                    ct = datetime.now()
-                    ct = str(ct)
-                    file1 = open(self.outputFile, "a")  # append mode
-                    file1.write("\n\nTimeStamp: " + ct)
-                    file1.write("\nDomain found: " + url + " - Entries: " + str(len(whois_result)))
-                    file1.write(str(whois_result))
-                    file1.close()
-                    self.checked.append(url)
-                    print(self.checked)
-                else:
-                    print("[Transform URL - outer loop] NO MATCH OR SKIPPED: " + url +
-                          ". URL in checked list: " + str(url in self.checked))
+                self.logger.info(url) #output url being checked
+                self.check_and_add_positive(url)  # Use the new check_and_add_positive method
 
+  
     def generate_2_deep(self, word):
         for url in self.generate_urls(word):
             if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
                 if url != word:
-                    print("Checking " + url)
-                    whois_result = pydig.query(url, 'NS')
-                    print(len(whois_result))
-                    if len(whois_result) > 0:
-                        ct = datetime.now()
-                        ct = str(ct)
-                        file1 = open(self.outputFile, "a")  # append mode
-                        file1.write("\n\nTimeStamp: " + ct)
-                        file1.write("\nDomain found: " + url + " - Entries: " + str(len(whois_result)))
-                        file1.write(str(whois_result))
-                        file1.close()
-                        self.checked.append(url)
+                    #self.logger.info(url) #output url being checked
+                    #self.logger.debug("Checking URL: " + url)  # Add a debug log to print the URL
+                    self.check_and_add_positive(url)  # Use the new check_and_add_positive method
+
+
+
+    def check_domain(self, domain):
+        #self.logger.debug(f"Checking domain: {domain}")
+
+        try:
+            # Check for A record
+            a_records = pydig.query(domain, 'A')
+            for record in a_records:
+                self.logger.debug(f"{domain} --found (A record): {record}")
+                self.checked.append(domain)
+                return True
+
+            # Check for AAAA record
+            aaaa_records = pydig.query(domain, 'AAAA')
+            for record in aaaa_records:
+                self.logger.debug(f"{domain} --found (AAAA record): {record}")
+                self.checked.append(domain)
+                return True
+
+            # Check for MX record
+            mx_records = pydig.query(domain, 'MX')
+            for record in mx_records:
+                self.logger.debug(f"{domain} --found (MX record): {record}")
+                self.checked.append(domain)
+                return True
+
+            # Check for authoritative answers
+            auth_answers = pydig.query(domain, 'SOA')
+            for record in auth_answers:
+                self.logger.debug(f"{domain} --found (Authoritative answers): {record}")
+                self.checked.append(domain)
+                return True
+
+            self.logger.debug(f"{domain} --not found")
+            return False
+        except Exception as e:
+            self.logger.debug("[Transform URL - inner loop] EXCEPTION THROWN on " + domain + " - " + str(e))
+            return False
+                    
+
+    def get_total_elements(self):
+        total_elements = 0
+
+        # Case 1: No substitutions
+        total_elements += 1
+
+        # Case 2: One substitution
+        for character in self.substitutions:
+            total_elements += len(self.substitutions[character])
+
+        # Case 3: Two substitutions
+        for character1, character2 in itertools.combinations(self.substitutions.keys(), 2):
+            total_elements += len(self.substitutions[character1]) * len(self.substitutions[character2])
+
+        return total_elements
