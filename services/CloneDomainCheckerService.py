@@ -82,7 +82,22 @@ class CloneDomainChecker:
                     url = sub + suffix
                     if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
                         yield url
-
+                    """
+                    FUTURE IMPROVEMENTS
+                        Add tons of additional mutations, which can be turned on/off in the config.json file
+                            -one hyphen, two hyphen (twit-ter.com, c-n-n.com)
+                            -one extra letter (faceboook.com)
+                            -one extra number (facebook1.com)
+                            -flip two letters (marsahlls.com)
+                            -flip two sets two letters (fudurckres.com)
+                            -warning on launch if any of these are turned on as it will increase processing exponentially
+                        -colorize ascii art
+                        -colorize last line of log
+                        -html teport
+                        -remember past scans, only alert on new
+                        -indepth look at imposter URLs - whois info, date
+                    """ 
+                    
     def check_and_add_positive(self, domain):
         if self.check_domain(domain):
             if domain not in self.verification_counts:
