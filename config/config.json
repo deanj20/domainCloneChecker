@@ -28,7 +28,9 @@
         "z": ["2", "s"]
     },
     "base_strings": [
-        "citgo"
+        "facebook"
     ],
-    "suffixes": [".com", ".net", ".org", ".edu", ".io", ".tv", ".co", ".biz"]
+    "suffixes": [".com", ".net", ".org", ".edu", ".io", ".tv", ".co", ".biz"],
+    "enable_hyphens": false,
+    "enable_extra_letters": false
 }

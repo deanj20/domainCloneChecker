@@ -1,10 +1,10 @@
+#CloneDomainCheckerService.py
 import itertools
 from datetime import datetime
 import pydig
-import logging
-import os
 import json
-import socket
+import time
+import sys
 
 class CloneDomainChecker:
     def __init__(self, configFile, outputFile, logger):
@@ -54,8 +54,9 @@ class CloneDomainChecker:
                 file1.write(str(self.checked))
             else:
                 file1.write("No sites found")
+        sys.stdout.write("\r\033[1K")  # Clear from the beginning of the line
 
-        self.logger.info("End of Run. Sites found:")
+        self.logger.info("\nEnd of Run. Sites found:")
         self.logger.info(self.checked)
 
     def generate_substitutions(self, word):
@@ -101,38 +102,59 @@ class CloneDomainChecker:
             if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
                 if url != word:
                     self.check_and_add_positive(url)
-
+            
     def check_domain(self, domain):
         try:
             a_records = pydig.query(domain, 'A')
             for record in a_records:
-                self.logger.debug(f"{domain} --found (A record): {record}")
+                self.logger.debug(f"\r{self.colorize_output(domain)} --found (A record): {record}")
                 self.checked.append(domain)
                 return True
 
             aaaa_records = pydig.query(domain, 'AAAA')
             for record in aaaa_records:
-                self.logger.debug(f"{domain} --found (AAAA record): {record}")
+                self.logger.debug(f"\r{self.colorize_output(domain)} --found (AAAA record): {record}")
                 self.checked.append(domain)
                 return True
 
             mx_records = pydig.query(domain, 'MX')
             for record in mx_records:
-                self.logger.debug(f"{domain} --found (MX record): {record}")
+                self.logger.debug(f"\r{self.colorize_output(domain)} --found (MX record): {record}")
                 self.checked.append(domain)
                 return True
 
             auth_answers = pydig.query(domain, 'SOA')
             for record in auth_answers:
-                self.logger.debug(f"{domain} --found (Authoritative answers): {record}")
+                self.logger.debug(f"\r{self.colorize_output(domain)} --found (Authoritative answers): {record}")
                 self.checked.append(domain)
                 return True
 
-            self.logger.debug(f"{domain} --not found")
+            # Simulate not found case with line overwriting
+            message = f"\r{domain} --not found"
+            buffer_size = max(len(message), 15)
+            sys.stdout.write("\033[1K")  # Clear from the beginning of the line
+            sys.stdout.write(message[:buffer_size] + " " * (buffer_size - len(message)))  # Pad with spaces
+            sys.stdout.flush()
+            time.sleep(0.1)
+
             return False
         except Exception as e:
-            self.logger.debug("[Transform URL - inner loop] EXCEPTION THROWN on " + domain + " - " + str(e))
+            self.logger.debug(f"\r[Transform URL - inner loop] EXCEPTION THROWN on {domain} - {str(e)}")
             return False
+
+    def colorize_output(self, domain):
+        base_strings = self.load_base_strings()
+        standard_suffixes = [".com", ".net", ".org", ".edu", ".gov"]
+
+        if any(domain.endswith(suffix) for suffix in standard_suffixes) and any(base in domain for base in base_strings):
+            return f"\033[1;32m{domain}\033[0m"  # Bright green for exact match and standard suffixes
+        elif any(base in domain for base in base_strings):
+            return f"\033[1;93m{domain}\033[0m"  # Bright yellow for exact match and non-standard suffixes
+        else:
+            return f"\033[1;91m{domain}\033[0m"  # Bright red for other cases
+
+
+
 
     def get_total_elements(self):
         total_elements = 0

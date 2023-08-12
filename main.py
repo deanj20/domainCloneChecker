@@ -1,4 +1,3 @@
-#main.py
 import sys
 import time
 from services.LoggingService import LoggingService
@@ -25,20 +24,21 @@ class Main:
         return getattr(logging, self.config.get("logLevel", "INFO").upper(), logging.INFO)
 
     def run(self):
-        config_file = os.path.join("config", "config.json")  # Update the config file path
-        checker = CloneDomainChecker(config_file, os.path.join(self.outputDir, "output.log"), self.logger)  # Pass the correct parameters to the constructor
-        base_urls = checker.load_base_strings()
+        config_file = os.path.join("config", "config.json")
+        self.checker = CloneDomainChecker(config_file, os.path.join(self.outputDir, "output.log"), self.logger)
+        base_urls = self.checker.load_base_strings()
         
         if not base_urls:
             self.logger.error("No base strings found in config.json.")
             return
 
         self.logger.info("Number of base strings to check: " + str(len(base_urls)))
-        self.logger.info("Number of char substitutions coded: " + str(checker.get_total_elements()))
-        self.logger.info("Number of possibilities for char substitutions coded: " + str(checker.get_total_elements()))
+        self.logger.info("Number of char substitutions coded: " + str(self.checker.get_total_elements()))
+        self.logger.info("Number of possibilities for char substitutions coded: " + str(self.checker.get_total_elements()))
 
-        self.print_dynamic_output(checker, base_urls)
-        checker.run()
+        self.print_dynamic_output(self.checker, base_urls)
+        self.checker.run()
+
 
     def print_dynamic_output(self, checker, base_urls):
         manager = Manager()
@@ -46,13 +46,20 @@ class Main:
 
         def check_domains(domains_to_check):
             for domain in domains_to_check:
-                if checker.check_domain(domain):  # Call the check_domain method to verify if the domain is valid
+                if checker.check_domain(domain):
                     shared_domains_found.append(domain)
 
-        def print_domains(domains):
-            self.logger.info("\nEnd of Run. Sites found:")
-            for domain in domains:
-                self.logger.info(domain + "--found")
+    def print_domains(self, domains):
+        self.logger.info("\nEnd of Run. Sites found:")
+        colored_domains = [
+            self.checker.colorize_output(domain) + "--found" for domain in domains
+        ]
+        colored_line = " ".join(colored_domains)
+        self.logger.info(colored_line)
+
+
+
+
 
         total_urls = len(base_urls)
 
@@ -70,8 +77,7 @@ class Main:
         self.logger.info("Number of char substitutions coded: {}".format(len(checker.substitutions)))
         self.logger.info("Number of possibilities for char substitutions coded: {}".format(checker.get_total_elements()))
 
-        print_domains(shared_domains_found)
-
+        self.print_domains(shared_domains_found)
 
 # Create an instance of the Main class and run the program
 myApp = Main()
