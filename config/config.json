@@ -28,7 +28,7 @@
         "z": ["2", "s"]
     },
     "base_strings": [
-        "facebook"
+        "warriortankmfg","warriortank","odessa-tx", "matadorresources", "keyenergy", "fourhourworkweek"
     ],
     "suffixes": [".com", ".net", ".org", ".edu", ".io", ".tv", ".co", ".biz"],
     "enable_hyphens": false,

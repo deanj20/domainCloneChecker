@@ -1,10 +1,18 @@
-#CloneDomainCheckerService.py
+# CloneDomainCheckerService.py
 import itertools
 from datetime import datetime
+from itertools import combinations
 import pydig
 import json
 import time
 import sys
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet
+
+# Download NLTK punkt resources if not already downloaded
+nltk.download('punkt')
+nltk.download('wordnet')
 
 class CloneDomainChecker:
     def __init__(self, configFile, outputFile, logger):
@@ -19,7 +27,66 @@ class CloneDomainChecker:
     def load_base_strings(self):
         with open(self.configFile, 'r') as config_file:
             config_data = json.load(config_file)
-            return config_data.get('base_strings', [])
+            base_strings = config_data.get('base_strings', [])            
+            #self.logger.info("Grabbed Base Strings from config data" + str(base_strings))
+            expanded_base_strings = []
+            for word in base_strings:
+                #self.logger.info("Finding root words" + str(base_strings))
+                root_words = self.find_root_words(word)
+                #self.logger.info("Adding root words strings to final base strings list" + str(base_strings))
+                expanded_base_strings.extend(root_words)
+
+            return expanded_base_strings
+
+
+    def find_root_words(self, word):
+        root_words = [word]
+        min_word_length = 3
+
+        for i in range(min_word_length, min(len(word), min_word_length + 2)):
+            #self.logger.info("Checking word. root_words = " + str(root_words))
+            ##self.logger.info("In Find Root Words Outer loop, min length of main string" + len(word))
+            temp_list = []
+            
+            for j in range(0, len(word) - i + 1):
+                current_combination = word[j:j + i]
+                #self.logger.info("Testing current_combination = word[j:j + i]=" + str(current_combination))
+                if current_combination.lower() in nltk.corpus.words.words():
+                    current_remaining_combination = word[len(current_combination):len(word)]
+                    #self.logger.info("Testing current_remaining_combination = word[len(current_combination):len(word)] = " + str(current_remaining_combination))
+                    firstWordPass=False
+                    secondWordPass=False
+                    if ((len(current_remaining_combination)>2)&(current_remaining_combination.lower() in nltk.corpus.words.words())):
+                        #self.logger.info("We have a potential combo------------------------------------"+ "i=" + str(i) + "j=" + str(j) + current_combination.lower() + " and " + current_remaining_combination.lower())    
+                        testWord = current_combination.lower()+'s'
+                        #self.logger.info("Check Front Word:"+testWord)
+                        #if (testWord in nltk.corpus.words.words()):
+                        if(wordnet.synsets(testWord)):
+                            firstWordPass=True
+                            #self.logger.info("Pass:"+testWord)
+                            #self.logger.info("found valid------------------------------------"+testWord)
+                            plural = testWord+current_remaining_combination.lower()
+                            hyphen_plural = testWord+'-'+current_remaining_combination.lower()
+                            root_words.extend([plural,hyphen_plural])                                                    
+                        testWord = current_remaining_combination.lower()+'s'
+                        #self.logger.info("Check Back Word:"+testWord)
+                        #if (testWord in nltk.corpus.words.words()):
+                        if(wordnet.synsets(testWord)):                            
+                            secondWordPass=True
+                            #self.logger.info("Pass:"+testWord)
+                            #self.logger.info("found valid------------------------------------"+testWord)
+                            plural = current_combination.lower()+testWord
+                            hyphen_plural = current_combination.lower()+'-'+testWord
+                            root_words.extend([plural,hyphen_plural])                                                                                                   
+                        #if ((current_combination.lower()+'s' in nltk.corpus.words.words())&(current_remaining_combination.lower()+'s' in nltk.corpus.words.words())):
+                        if(firstWordPass & secondWordPass):                            
+                            #self.logger.info("found valid------------------------------------"+current_combination.lower()+'s'+'-'+current_remaining_combination.lower()+'s')
+                            plural = current_combination.lower()+'s'+current_remaining_combination.lower()+'s'
+                            hyphen_plural = current_combination.lower()+'s-'+current_remaining_combination.lower()+'s'
+                            root_words.extend([plural,hyphen_plural])    
+        return root_words
+
+
 
     def load_substitutions(self):
         with open(self.configFile, 'r') as config_file:
@@ -36,10 +103,6 @@ class CloneDomainChecker:
         self.substitutions = self.load_substitutions()
         self.suffixes = self.load_suffixes()
         total_elements = self.get_total_elements()
-
-        self.logger.info("Number of base strings to check: " + str(len(self.tests)))
-        self.logger.info("Number of char substitutions coded: " + str(len(self.substitutions)))
-        self.logger.info("Number of possibilities for char substitutions coded: " + str(total_elements))
 
         for x in self.tests:
             self.generate_2_deep(x)
@@ -82,22 +145,7 @@ class CloneDomainChecker:
                     url = sub + suffix
                     if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
                         yield url
-                    """
-                    FUTURE IMPROVEMENTS
-                        Add tons of additional mutations, which can be turned on/off in the config.json file
-                            -one hyphen, two hyphen (twit-ter.com, c-n-n.com)
-                            -one extra letter (faceboook.com)
-                            -one extra number (facebook1.com)
-                            -flip two letters (marsahlls.com)
-                            -flip two sets two letters (fudurckres.com)
-                            -warning on launch if any of these are turned on as it will increase processing exponentially
-                        -colorize ascii art
-                        -colorize last line of log
-                        -html teport
-                        -remember past scans, only alert on new
-                        -indepth look at imposter URLs - whois info, date
-                    """ 
-                    
+
     def check_and_add_positive(self, domain):
         if self.check_domain(domain):
             if domain not in self.verification_counts:
@@ -117,7 +165,7 @@ class CloneDomainChecker:
             if ((".." not in url) and ("xxx" not in url) and (url not in self.checked)):
                 if url != word:
                     self.check_and_add_positive(url)
-            
+
     def check_domain(self, domain):
         try:
             a_records = pydig.query(domain, 'A')
@@ -143,16 +191,15 @@ class CloneDomainChecker:
                 self.logger.debug(f"\r{self.colorize_output(domain)} --found (Authoritative answers): {record}")
                 self.checked.append(domain)
                 return True
-
-            # Simulate not found case with line overwriting
+        # Simulate not found case with line overwriting
             message = f"\r{domain} --not found"
             buffer_size = max(len(message), 15)
             sys.stdout.write("\033[1K")  # Clear from the beginning of the line
             sys.stdout.write(message[:buffer_size] + " " * (buffer_size - len(message)))  # Pad with spaces
             sys.stdout.flush()
             time.sleep(0.1)
-
             return False
+        
         except Exception as e:
             self.logger.debug(f"\r[Transform URL - inner loop] EXCEPTION THROWN on {domain} - {str(e)}")
             return False
@@ -167,9 +214,6 @@ class CloneDomainChecker:
             return f"\033[1;93m{domain}\033[0m"  # Bright yellow for exact match and non-standard suffixes
         else:
             return f"\033[1;91m{domain}\033[0m"  # Bright red for other cases
-
-
-
 
     def get_total_elements(self):
         total_elements = 0
