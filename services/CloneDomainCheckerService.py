@@ -10,9 +10,13 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import wordnet
 
+
 # Download NLTK punkt resources if not already downloaded
 nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('words')
+nltk.download('omw-1.4')
+
 
 class CloneDomainChecker:
     def __init__(self, configFile, outputFile, logger):
@@ -42,13 +46,14 @@ class CloneDomainChecker:
     def find_root_words(self, word):
         root_words = [word]
         min_word_length = 3
+        max_word_length = len(word)
 
-        for i in range(min_word_length, min(len(word), min_word_length + 2)):
+        for i in range(min_word_length, min(len(word), max_word_length)):
             #self.logger.info("Checking word. root_words = " + str(root_words))
             ##self.logger.info("In Find Root Words Outer loop, min length of main string" + len(word))
             temp_list = []
             
-            for j in range(0, len(word) - i + 1):
+            for j in range(0, len(word), max_word_length):
                 current_combination = word[j:j + i]
                 #self.logger.info("Testing current_combination = word[j:j + i]=" + str(current_combination))
                 if current_combination.lower() in nltk.corpus.words.words():
@@ -56,34 +61,34 @@ class CloneDomainChecker:
                     #self.logger.info("Testing current_remaining_combination = word[len(current_combination):len(word)] = " + str(current_remaining_combination))
                     firstWordPass=False
                     secondWordPass=False
-                    if ((len(current_remaining_combination)>2)&(current_remaining_combination.lower() in nltk.corpus.words.words())):
-                        #self.logger.info("We have a potential combo------------------------------------"+ "i=" + str(i) + "j=" + str(j) + current_combination.lower() + " and " + current_remaining_combination.lower())    
-                        testWord = current_combination.lower()+'s'
-                        #self.logger.info("Check Front Word:"+testWord)
-                        #if (testWord in nltk.corpus.words.words()):
-                        if(wordnet.synsets(testWord)):
-                            firstWordPass=True
-                            #self.logger.info("Pass:"+testWord)
-                            #self.logger.info("found valid------------------------------------"+testWord)
-                            plural = testWord+current_remaining_combination.lower()
-                            hyphen_plural = testWord+'-'+current_remaining_combination.lower()
-                            root_words.extend([plural,hyphen_plural])                                                    
-                        testWord = current_remaining_combination.lower()+'s'
-                        #self.logger.info("Check Back Word:"+testWord)
-                        #if (testWord in nltk.corpus.words.words()):
-                        if(wordnet.synsets(testWord)):                            
-                            secondWordPass=True
-                            #self.logger.info("Pass:"+testWord)
-                            #self.logger.info("found valid------------------------------------"+testWord)
-                            plural = current_combination.lower()+testWord
-                            hyphen_plural = current_combination.lower()+'-'+testWord
-                            root_words.extend([plural,hyphen_plural])                                                                                                   
-                        #if ((current_combination.lower()+'s' in nltk.corpus.words.words())&(current_remaining_combination.lower()+'s' in nltk.corpus.words.words())):
-                        if(firstWordPass & secondWordPass):                            
-                            #self.logger.info("found valid------------------------------------"+current_combination.lower()+'s'+'-'+current_remaining_combination.lower()+'s')
-                            plural = current_combination.lower()+'s'+current_remaining_combination.lower()+'s'
-                            hyphen_plural = current_combination.lower()+'s-'+current_remaining_combination.lower()+'s'
-                            root_words.extend([plural,hyphen_plural])    
+                    #if ((len(current_remaining_combination)>min_word_length)&(current_remaining_combination.lower() in nltk.corpus.words.words())):
+                    #self.logger.info("We have a potential combo------------------------------------"+ "i=" + str(i) + "j=" + str(j) + current_combination.lower() + " and " + current_remaining_combination.lower())    
+                    testWord = current_combination.lower()+'s'
+                    #self.logger.info("Check Front Word:"+testWord)
+                    #if (testWord in nltk.corpus.words.words()):
+                    if(wordnet.synsets(testWord)):
+                        firstWordPass=True
+                        #self.logger.info("Pass:"+testWord)
+                        #self.logger.info("found valid------------------------------------"+testWord)
+                        plural = testWord+current_remaining_combination.lower()
+                        hyphen_plural = testWord+'-'+current_remaining_combination.lower()
+                        root_words.extend([plural,hyphen_plural])                                                    
+                    testWord = current_remaining_combination.lower()+'s'
+                    #self.logger.info("Check Back Word:"+testWord)
+                    #if (testWord in nltk.corpus.words.words()):
+                    if(wordnet.synsets(testWord)):                            
+                        secondWordPass=True
+                        #self.logger.info("Pass:"+testWord)
+                        #self.logger.info("found valid------------------------------------"+testWord)
+                        plural = current_combination.lower()+testWord
+                        hyphen_plural = current_combination.lower()+'-'+testWord
+                        root_words.extend([plural,hyphen_plural])                                                                                                   
+                    #if ((current_combination.lower()+'s' in nltk.corpus.words.words())&(current_remaining_combination.lower()+'s' in nltk.corpus.words.words())):
+                    if(firstWordPass & secondWordPass):                            
+                        #self.logger.info("found valid------------------------------------"+current_combination.lower()+'s'+'-'+current_remaining_combination.lower()+'s')
+                        plural = current_combination.lower()+'s'+current_remaining_combination.lower()+'s'
+                        hyphen_plural = current_combination.lower()+'s-'+current_remaining_combination.lower()+'s'
+                        root_words.extend([plural,hyphen_plural])    
         return root_words
 
 
@@ -119,8 +124,8 @@ class CloneDomainChecker:
                 file1.write("No sites found")
         sys.stdout.write("\r\033[1K")  # Clear from the beginning of the line
 
-        self.logger.info("\nEnd of Run. Sites found:")
-        self.logger.info(self.checked)
+        #self.logger.info("\nEnd of Run. Sites found:")
+        #self.logger.info(self.checked)
 
     def generate_substitutions(self, word):
         yield word
@@ -153,7 +158,7 @@ class CloneDomainChecker:
             else:
                 self.verification_counts[domain] += 1
             if self.verification_counts[domain] == 3:
-                self.logger.info(domain + "--found")
+                #self.logger.info(domain + "--found")
                 ct = datetime.now()
                 ct = str(ct)
                 with open(self.outputFile, "a") as file1:  # append mode
