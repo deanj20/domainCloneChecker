@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:51:43.676669
+
+lifestart.com: A Record: 3.33.152.147 15.197.142.173,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns63.domaincontrol.com. dns.jomax.net. 2021101600 28800 7200 604800 3600
+
+lifestart.net: A Record: 52.176.106.136,,MX Record: 0 lifestart-net.mail.protection.outlook.com.,SOA Record: pdns11.domaincontrol.com. dns.jomax.net. 2022022205 28800 7200 604800 600
+
+lifestart.org: A Record: 3.33.152.147 15.197.142.173,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2021101600 28800 7200 604800 3600
+
+lifestart.tv: A Record: 15.197.142.173 3.33.152.147,,,SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2021102100 28800 7200 604800 600
+
+lifestart.biz: A Record: 162.241.148.11,,MX Record: 0 lifestart.biz.,SOA Record: ns1.md-ht-6.webhostbox.net. cpanel.webhostbox.net. 2023102900 3600 7200 1209600 86400
+
+lifestarts.org: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns41.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+
+Sites found: ['lifestart.com', 'lifestart.net', 'lifestart.org', 'lifestart.tv', 'lifestart.biz', 'lifestarts.org']
+
+
+
+TimeStamp: 2023-12-20 12:00:04.274484
+############# END OF RUN #############

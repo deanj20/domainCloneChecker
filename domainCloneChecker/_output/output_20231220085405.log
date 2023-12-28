@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:54:10.262517
+
+coastalimaging.com: A Record: 44.205.186.8 3.217.63.100,,,SOA Record: ns1.domain-is-4-sale-at-domainmarket.com. hostmaster.domainmarket.com. 0 10800 3600 604800 3600
+
+coastalimaging.net: A Record: 162.241.24.140,,MX Record: 0 coastalimaging-net.mail.protection.outlook.com.,SOA Record: ns1.bluehost.com. root.box5876.bluehost.com. 2023082601 86400 7200 3600000 300
+
+coastalimaging.org: A Record: 3.33.130.190 15.197.148.33,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023121700 28800 7200 604800 3600
+
+
+Sites found: ['coastalimaging.com', 'coastalimaging.net', 'coastalimaging.org']
+
+
+
+TimeStamp: 2023-12-20 09:03:13.453475
+############# END OF RUN #############

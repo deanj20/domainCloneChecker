@@ -1,0 +1,25 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:08:22.005260
+
+optivision.com: A Record: 70.36.102.203,,MX Record: 5 mail.optivision.com.,SOA Record: ns1.dnsowl.com. hostmaster.dnsowl.com. 1703099100 7200 1800 1209600 600
+
+optivision.net: A Record: 76.223.54.146 13.248.169.48,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+optivision.org: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+optivision.io: A Record: 23.227.38.32,,MX Record: 1 mx.optivision.io.cust.b.hostedemail.com.,SOA Record: ns-cloud-b1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+optivision.tv: A Record: 103.224.212.211,,MX Record: 10 park-mx.above.com.,SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023122101 10800 3600 604800 3600
+
+optivision.co: A Record: 15.197.142.173 3.33.152.147,,MX Record: 0 optivision-co.mail.protection.outlook.com.,SOA Record: ns49.domaincontrol.com. dns.jomax.net. 2021102000 28800 7200 604800 3600
+
+optivision.biz: A Record: 217.160.0.148,AAAA Record: 2001:8d8:100f:f000::28d,MX Record: 10 mx00.ionos.co.uk. 10 mx01.ionos.co.uk.,SOA Record: ns1062.ui-dns.de. hostmaster.1und1.com. 2017060104 28800 7200 604800 600
+
+
+Sites found: ['optivision.com', 'optivision.net', 'optivision.org', 'optivision.io', 'optivision.tv', 'optivision.co', 'optivision.biz']
+
+
+
+TimeStamp: 2023-12-20 13:11:57.836697
+############# END OF RUN #############

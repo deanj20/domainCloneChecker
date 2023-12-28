@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:31:29.894211
+
+climatecomfort.com: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns5.afternic.com. dns.jomax.net. 2023042600 28800 7200 604800 300
+
+climatecomfort.org: A Record: 23.227.38.65,,MX Record: 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1679254902 43200 3600 604800 3601
+
+climatecomforts.com: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+
+Sites found: ['climatecomfort.com', 'climatecomfort.org', 'climatecomforts.com']
+
+
+
+TimeStamp: 2023-12-20 08:40:32.066032
+############# END OF RUN #############

@@ -1,0 +1,25 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:58:34.469869
+
+seniorcompanion.com: A Record: 157.230.161.221,,,SOA Record: ns1.fabulous.com. hostmaster.ns1.fabulous.com. 2019030905 28800 14400 604800 86400
+
+seniorcompanion.org: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+seniorscompanion.com: A Record: 104.247.81.54,,MX Record: 5 mail.h-email.net.,SOA Record: ns1.parkingcrew.net. hostmaster.seniorscompanion.com. 1703102000 28800 7200 604800 86400
+
+seniorcompanions.com: A Record: 103.224.182.246,,MX Record: 10 park-mx.above.com.,SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023122101 10800 3600 604800 3600
+
+seniorcompanions.org: A Record: 76.223.54.146 13.248.169.48,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+senior-companions.com: A Record: 216.239.32.21 216.239.38.21 216.239.36.21 216.239.34.21,AAAA Record: 2001:4860:4802:36::15 2001:4860:4802:32::15 2001:4860:4802:34::15 2001:4860:4802:38::15,,SOA Record: ns-cloud-c1.googledomains.com. cloud-dns-hostmaster.google.com. 5 21600 3600 259200 300
+
+seniorscompanions.com: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+
+
+Sites found: ['seniorcompanion.com', 'seniorcompanion.org', 'seniorscompanion.com', 'seniorcompanions.com', 'seniorcompanions.org', 'senior-companions.com', 'seniorscompanions.com']
+
+
+
+TimeStamp: 2023-12-20 14:10:36.591409
+############# END OF RUN #############

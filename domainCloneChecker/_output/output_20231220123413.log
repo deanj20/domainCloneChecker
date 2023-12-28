@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:34:18.342897
+
+mentalhealthtx.com: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+mentalhealthtx.net: A Record: 205.178.189.129,,,SOA Record: NS53.WORLDNIC.COM. namehost.WORLDNIC.COM. 117062811 10800 3600 604800 3600
+
+mentalhealthtx.org: A Record: 35.238.57.18,,,SOA Record: NS51.WORLDNIC.COM. namehost.WORLDNIC.COM. 121122210 10800 3600 604800 3600
+
+
+Sites found: ['mentalhealthtx.com', 'mentalhealthtx.net', 'mentalhealthtx.org']
+
+
+
+TimeStamp: 2023-12-20 12:37:47.067124
+############# END OF RUN #############

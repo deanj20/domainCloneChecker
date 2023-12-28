@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:54:38.906937
+
+cbwellness.com: A Record: traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 3.140.13.188 18.119.154.66,AAAA Record: traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+cbwellness.net: A Record: 216.92.201.145,,MX Record: 50 mail1.g4.pair.com.,SOA Record: dns.pair.com. root.pair.com. 2022122017 3600 300 604800 3600
+
+cbwellness.org: A Record: 65.254.227.224,,MX Record: 10 cbwellness.org.1.0001.arsmtp.com. 20 cbwellness.org.2.0001.arsmtp.com.,SOA Record: ns1.fatcow.com. dnsadmin.fatcow.com. 2012100564 10800 3600 604800 86400
+
+cbwellness.co: ,,MX Record: 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 3 21600 3600 259200 300
+
+
+Sites found: ['cbwellness.com', 'cbwellness.net', 'cbwellness.org', 'cbwellness.co']
+
+
+
+TimeStamp: 2023-12-20 09:55:43.108030
+############# END OF RUN #############

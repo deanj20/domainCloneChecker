@@ -1,0 +1,21 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:05:50.157762
+
+homecaresolutions.com: A Record: 208.97.147.88,,MX Record: 0 mx1.mailchannels.net. 0 mx2.mailchannels.net.,SOA Record: ns1.dreamhost.com. hostmaster.dreamhost.com. 2023102300 14464 600 1814400 300
+
+homecaresolutions.net: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns11.domaincontrol.com. dns.jomax.net. 2023050400 28800 7200 604800 600
+
+homecaresolutions.org: A Record: 35.186.223.180,,,SOA Record: ns1.verification-hold.suspended-domain.com. admin.suspended-domain.com. 2012022012 7200 7200 172800 7200
+
+homecaresolutions.co: A Record: 3.33.130.190 15.197.148.33,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns03.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+
+homecaresolutions.biz: A Record: 185.230.63.107 185.230.63.186 185.230.63.171,,MX Record: 40 alt3.aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 10 aspmx.l.google.com. 30 alt2.aspmx.l.google.com. 50 alt4.aspmx.l.google.com.,SOA Record: ns4.wixdns.net. support.wix.com. 2019011914 10800 3600 604800 3600
+
+
+Sites found: ['homecaresolutions.com', 'homecaresolutions.net', 'homecaresolutions.org', 'homecaresolutions.co', 'homecaresolutions.biz']
+
+
+
+TimeStamp: 2023-12-20 11:10:32.067031
+############# END OF RUN #############

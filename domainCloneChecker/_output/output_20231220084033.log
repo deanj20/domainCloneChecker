@@ -1,0 +1,41 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:40:38.628487
+
+questdiagnostics.com: A Record: 52.232.227.90,,MX Record: 20 cluster4a.us.messagelabs.com. 10 cluster4.us.messagelabs.com.,SOA Record: ib-grid.qdx.com. domain-tech.questdiagnostics.com. 2019013626 10800 3600 2419200 900
+
+questdiagnostics.net: A Record: 165.160.15.20 165.160.13.20,,,SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019031103 28800 7200 604800 14400
+
+questdiagnostics.org: A Record: 165.160.15.20 165.160.13.20,,,SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019031103 28800 7200 604800 14400
+
+questdiagnostics.co: A Record: 104.247.81.52,,MX Record: 5 mail.h-email.net.,SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnostics.co. 1703083000 28800 7200 604800 86400
+
+guestdiagnostics.com: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+queztdiagnostics.com: A Record: 216.245.213.76,,MX Record: 1 mail.h-email.net.,SOA Record: ns1.redfoxdns.com. admin.queztdiagnostics.com. 2023112105 86400 10800 604800 300
+
+questdlagnostics.com: A Record: 103.224.182.251,,MX Record: 10 park-mx.above.com.,SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023122101 10800 3600 604800 3600
+
+questdi4gnostics.com: A Record: 81.17.18.198,,MX Record: 1 mail.h-email.net.,SOA Record: ns1.panamans.com. admin.questdi4gnostics.com. 2023112702 86400 10800 604800 300
+
+questdiagn0stics.com: A Record: 170.178.183.18,,MX Record: 10 park-mx.above.com.,SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023122101 10800 3600 604800 3600
+
+questdiagnoztics.com: A Record: 104.247.82.174,,,SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnoztics.com. 1703083000 28800 7200 604800 86400
+
+questsdiagnostics.com: A Record: 185.107.56.205,,,SOA Record: ns1.domainmx.com. admin.questsdiagnostics.com. 2023121402 86400 10800 604800 300
+
+questsdlagnostics.com: A Record: 192.187.111.222,,MX Record: 1 mail.h-email.net.,SOA Record: ns1.panamans.com. admin.questsdlagnostics.com. 2023112702 86400 10800 604800 300
+
+questdiagnosticss.com: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+questdiagnosticzs.com: A Record: 104.247.82.173,,,SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnosticzs.com. 1703083000 28800 7200 604800 86400
+
+questdiagnosticsz.com: A Record: 104.247.82.173,,,SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnosticsz.com. 1703083000 28800 7200 604800 86400
+
+
+Sites found: ['questdiagnostics.com', 'questdiagnostics.net', 'questdiagnostics.org', 'questdiagnostics.co', 'guestdiagnostics.com', 'queztdiagnostics.com', 'questdlagnostics.com', 'questdi4gnostics.com', 'questdiagn0stics.com', 'questdiagnoztics.com', 'questsdiagnostics.com', 'questsdlagnostics.com', 'questdiagnosticss.com', 'questdiagnosticzs.com', 'questdiagnosticsz.com']
+
+
+
+TimeStamp: 2023-12-20 08:54:03.847798
+############# END OF RUN #############

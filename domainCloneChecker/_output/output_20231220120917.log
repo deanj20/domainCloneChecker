@@ -1,0 +1,21 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:09:17.583531
+
+bcbstx.com: A Record: 52.177.30.255,,MX Record: 10 mxb-00239701.gslb.pphosted.com. 10 mxa-00239701.gslb.pphosted.com.,SOA Record: pdns166.ultradns.com. burget1.bcbsil.com. 2017081531 10800 3600 2592000 7205
+
+bcbstx.net: A Record: 204.74.99.100,,,SOA Record: pdns166.ultradns.com. sgreaney.bcbsil.com. 2015031608 86400 86400 86400 86400
+
+bcbstx.org: A Record: 205.172.134.52,,,SOA Record: NS59.WORLDNIC.COM. namehost.WORLDNIC.COM. 122022517 10800 3600 604800 3600
+
+bcbstx.tv: A Record: 204.74.99.100,,,SOA Record: pdns166.ultradns.com. sgreaney.bcbsil.com. 2015030407 86400 86400 86400 86400
+
+bcbstx.co: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+
+Sites found: ['bcbstx.com', 'bcbstx.net', 'bcbstx.org', 'bcbstx.tv', 'bcbstx.co']
+
+
+
+TimeStamp: 2023-12-20 12:09:45.479861
+############# END OF RUN #############

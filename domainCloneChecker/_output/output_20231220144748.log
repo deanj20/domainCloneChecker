@@ -1,0 +1,29 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 14:47:52.524560
+
+sportwell.com: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+sportwell.net: A Record: 80.247.72.111,,MX Record: 10 mx01.sportwell.net. 20 mx02.sportwell.net.,SOA Record: dns1.it-service.bz.it. hostmaster.it-service.bz.it. 2019121421 3600 600 1209600 86400
+
+sportwell.org: ,,MX Record: 5 alt2.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 1 aspmx.l.google.com. 5 alt1.aspmx.l.google.com.,SOA Record: ns-cloud-a1.googledomains.com. cloud-dns-hostmaster.google.com. 5 21600 3600 259200 300
+
+sportwell.co: A Record: 23.227.38.36,,MX Record: 1 mx.sportwell.co.cust.b.hostedemail.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+sportswell.com: A Record: 75.2.0.44 99.83.248.72,,,SOA Record: ns1.hosting.co.kr. admin.sportswell.com. 2 21600 1800 1209600 180
+
+sportswell.net: A Record: 139.99.131.65,,MX Record: 0 sportswell.net.,SOA Record: ns1.nslentertainment.systems. nick.aisake.nslentertainment.com. 2022071404 3600 1800 1209600 86400
+
+sports-well.com: A Record: 212.109.197.43,,MX Record: 10 mx.yandex.net.,SOA Record: ns1.reg.ru. hostmaster.ns1.reg.ru. 1701420230 14400 3600 604800 10800
+
+sportz-well.com: A Record: 3.33.130.190 15.197.148.33,,MX Record: 0 sportzwell-com01e.mail.protection.outlook.com.,SOA Record: ns39.domaincontrol.com. dns.jomax.net. 2023100903 28800 7200 604800 600
+
+sportwells.com: A Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 34.205.242.146 54.161.222.85,AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
+
+
+Sites found: ['sportwell.com', 'sportwell.net', 'sportwell.org', 'sportwell.co', 'sportswell.com', 'sportswell.net', 'sports-well.com', 'sportz-well.com', 'sportwells.com']
+
+
+
+TimeStamp: 2023-12-20 14:56:38.763557
+############# END OF RUN #############

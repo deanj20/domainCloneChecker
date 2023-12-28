@@ -1,0 +1,43 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:05:06.859331
+
+hhs.com: A Record: 172.67.193.241 104.21.44.18,AAAA Record: 2606:4700:3035::6815:2c12 2606:4700:3037::ac43:c1f1,MX Record: 15 hhs-com.mail.protection.outlook.com.,SOA Record: hugh.ns.cloudflare.com. dns.cloudflare.com. 2328513027 10000 2400 604800 1800
+
+hhs.net: A Record: 205.166.61.194,,MX Record: 10 mx.ctinetworks.com.,SOA Record: ns0.winbeam.com. dnsadmin.winbeam.com. 2023112800 1800 600 600 7200
+
+hhs.org: A Record: 209.17.116.163,,MX Record: 0 d293193a.ess.barracudanetworks.com. 5 d293193b.ess.barracudanetworks.com.,SOA Record: NS23.WORLDNIC.COM. namehost.WORLDNIC.COM. 123121516 10800 3600 604800 3600
+
+hhs.edu: A Record: 35.184.219.30,,MX Record: 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com.,SOA Record: ns1.siteground.net. dnsadmin.giow1.siteground.us. 2020061765 86400 7200 3600000 86400
+
+hhs.io: A Record: 44.225.139.181,,,SOA Record: ns1.name.com. hostmaster.nsone.net. 1636683564 7200 3600 604800 300
+
+hhs.tv: A Record: 185.230.63.186 185.230.63.171 185.230.63.107,,MX Record: 10 hhs-tv.mail.protection.outlook.com.,SOA Record: ns0.wixdns.net. support.wix.com. 2021042614 10800 3600 604800 3600
+
+hhs.co: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+hhs.biz: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+hh5.com: A Record: 104.21.71.79 172.67.143.246,AAAA Record: 2606:4700:3037::6815:474f 2606:4700:3030::ac43:8ff6,,SOA Record: amber.ns.cloudflare.com. dns.cloudflare.com. 2327112834 10000 2400 604800 1800
+
+hh5.org: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+hh5.co: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+hhz.net: A Record: 103.239.246.45,,MX Record: 10 mxw.mxhichina.com.,SOA Record: ns1.hwclouds-dns.com. hwclouds\.cs.huawei.com. 1 7200 900 1209600 300
+
+hhz.org: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+hhz.io: A Record: 15.197.148.33 3.33.130.190,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns73.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+hhz.tv: A Record: 3.64.163.50,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+hhz.co: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+
+Sites found: ['hhs.com', 'hhs.net', 'hhs.org', 'hhs.edu', 'hhs.io', 'hhs.tv', 'hhs.co', 'hhs.biz', 'hh5.com', 'hh5.org', 'hh5.co', 'hhz.net', 'hhz.org', 'hhz.io', 'hhz.tv', 'hhz.co']
+
+
+
+TimeStamp: 2023-12-20 11:05:43.741600
+############# END OF RUN #############

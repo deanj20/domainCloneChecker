@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 15:32:07.730211
+
+telecareconnect.com: A Record: 203.82.214.248,,MX Record: 10 mail.telecareconnect.com.,SOA Record: ns1.partnerconsole.net. hostmaster.partnerconsole.net. 2022100407 14400 7200 3600000 172800
+
+telecareconnect.org: A Record: 203.82.214.248,,MX Record: 10 mail.telecareconnect.org.,SOA Record: ns1.partnerconsole.net. hostmaster.partnerconsole.net. 2022100407 14400 7200 3600000 172800
+
+
+Sites found: ['telecareconnect.com', 'telecareconnect.org']
+
+
+
+TimeStamp: 2023-12-20 15:33:06.864802
+############# END OF RUN #############

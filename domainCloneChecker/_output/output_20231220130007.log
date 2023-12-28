@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:00:11.963102
+
+nourishmart.com: A Record: 204.197.250.10,,MX Record: 0 nourishmart.com.,SOA Record: ns1.rooted.com. dns.nourishmart.com. 2023102501 3600 7200 1209600 86400
+
+nourishsmart.com: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+
+Sites found: ['nourishmart.com', 'nourishsmart.com']
+
+
+
+TimeStamp: 2023-12-20 13:06:38.628875
+############# END OF RUN #############

@@ -1,0 +1,33 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:48:36.478278
+
+fitvibe.com: A Record: 212.178.198.70,,MX Record: 100 mail.global.frontbridge.com. 300 mx2.bgc.be. 30 fitvibe-com.mail.eo.outlook.com.,SOA Record: ns1.openprovider.nl. dns.openprovider.eu. 2015041600 10800 3600 604800 3600
+
+fitvibe.net: A Record: 35.212.4.47,,MX Record: 30 mx30.antispam.mailspamprotection.com. 20 mx20.antispam.mailspamprotection.com. 10 mx10.antispam.mailspamprotection.com.,SOA Record: ns1.siteground.net. admins.siteground.com. 47 86400 7200 3600000 86400
+
+fitvibe.org: A Record: 23.227.38.67,,MX Record: 20 mx2.zoho.eu. 10 mx.zoho.eu. 50 mx3.zoho.eu. 20 mx2.zoho.com. 10 mx.zoho.com. 50 mx3.zoho.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+fitvibe.io: A Record: 3.33.243.145 15.197.204.56,,MX Record: 0 .,SOA Record: ns01.cashparking.com. dns.jomax.net. 2023060100 28800 7200 604800 86400
+
+fitvibe.co: A Record: 23.227.38.36,,MX Record: 10 mx.zoho.eu. 20 mx2.zoho.eu. 50 mx3.zoho.eu.,SOA Record: ns-cloud-c1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+fitvibes.com: A Record: 15.197.148.33 3.33.130.190,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023051000 28800 7200 604800 600
+
+fitvibes.net: A Record: 3.64.163.50,,,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+fitvibes.org: A Record: 15.197.148.33 3.33.130.190,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+fitvibez.com: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212,AAAA Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com.
+
+fit-vibes.com: A Record: 172.67.146.213 104.21.79.176,AAAA Record: 2606:4700:3032::ac43:92d5 2606:4700:3033::6815:4fb0,MX Record: 45 route3.mx.cloudflare.net. 60 route1.mx.cloudflare.net. 21 route2.mx.cloudflare.net.,SOA Record: bella.ns.cloudflare.com. dns.cloudflare.com. 2326913118 10000 2400 604800 1800
+
+fitsvibes.com: A Record: 23.227.38.65,,MX Record: 10 alt4.aspmx.l.google.com. 10 lt3.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 1 aspmx.l.google.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1690254069 43200 3600 604800 3601
+
+
+Sites found: ['fitvibe.com', 'fitvibe.net', 'fitvibe.org', 'fitvibe.io', 'fitvibe.co', 'fitvibes.com', 'fitvibes.net', 'fitvibes.org', 'fitvibez.com', 'fit-vibes.com', 'fitsvibes.com']
+
+
+
+TimeStamp: 2023-12-20 09:54:36.191260
+############# END OF RUN #############

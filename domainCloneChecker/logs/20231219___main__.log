@@ -1,0 +1,1371 @@
+2023-12-18 20:38:12,917 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 20:38:12,919 [INFO][run] Domain specified via command line: acubalance.com
+2023-12-18 20:38:12,919 [INFO][run] Root: acubalance
+2023-12-18 20:38:13,926 [INFO][run] Number of base strings to check: 1
+2023-12-18 20:38:13,927 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 20:38:13,928 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 20:38:15,837 [DEBUG][check_domain] acubalance.com --found: A Record: 15.197.142.173 3.33.152.147  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns45.domaincontrol.com. dns.jomax.net. 2021101500 28800 7200 604800 3600
+2023-12-18 20:38:16,478 [DEBUG][check_domain] acubalance.net --found: A Record: 185.230.63.171 185.230.63.186 185.230.63.107  MX Record: 30 alt2.aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 40 aspmx2.googlemail.com. 10 aspmx.l.google.com. 50 aspmx3.googlemail.com. SOA Record: ns10.wixdns.net. support.wix.com. 2014121923 10800 3600 604800 3600
+2023-12-18 20:38:18,328 [DEBUG][check_domain] acubalance.org --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns19.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 3600
+2023-12-18 20:38:57,890 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 20:38:57,893 [INFO][run] Domain specified via command line: alliedwell.com
+2023-12-18 20:38:57,893 [INFO][run] Root: alliedwell
+2023-12-18 20:39:02,821 [INFO][run] Number of base strings to check: 3
+2023-12-18 20:39:02,822 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 20:39:02,823 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 20:39:04,599 [DEBUG][check_domain] alliedwell.com --found: A Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 54.161.222.85 34.205.242.146 AAAA Record: traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 20:39:06,034 [DEBUG][check_domain] alliedwell.net --found: A Record: 59.188.3.132  MX Record: 10 mail.alliedwell.net. 0 alliedwell-net.mail.protection.outlook.com. SOA Record: ns1.hkbn.net. sysadm.ns1.hkbn.net. 2200602163 3600 1800 1209600 3600
+2023-12-18 20:40:44,754 [DEBUG][check_domain] alliedwells.com --found: A Record: 99.83.190.102 75.2.70.75  MX Record: 5 alt1.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com. SOA Record: ns37.domaincontrol.com. dns.jomax.net. 2021042806 28800 7200 604800 600
+2023-12-18 20:43:53,702 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 20:43:53,704 [INFO][run] Domain specified via command line: asthmaandallergy.com
+2023-12-18 20:43:53,705 [INFO][run] Root: asthmaandallergy
+2023-12-18 20:43:58,626 [INFO][run] Number of base strings to check: 3
+2023-12-18 20:43:58,627 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 20:43:58,627 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 20:44:01,446 [DEBUG][check_domain] asthmaandallergy.com --found: A Record: 208.43.88.227  MX Record: 10 mx1-us1.ppe-hosted.com. 20 mx2-us1.ppe-hosted.com. SOA Record: NS47.WORLDNIC.com. namehost.WORLDNIC.com. 123092512 10800 3600 604800 3600
+2023-12-18 20:44:03,552 [DEBUG][check_domain] asthmaandallergy.org --found: A Record: 104.21.62.63 172.67.220.167   SOA Record: boyd.ns.cloudflare.com. dns.cloudflare.com. 2324845962 10000 2400 604800 1800
+2023-12-18 20:48:38,737 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 20:48:38,740 [INFO][run] Domain specified via command line: audiosphere.com
+2023-12-18 20:48:38,740 [INFO][run] Root: audiosphere
+2023-12-18 20:48:42,943 [INFO][run] Number of base strings to check: 7
+2023-12-18 20:48:42,944 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 20:48:42,945 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 20:48:44,861 [DEBUG][check_domain] audiosphere.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 0 audiosphere-com.mail.protection.outlook.com. SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+2023-12-18 20:48:45,588 [DEBUG][check_domain] audiosphere.net --found: A Record: 34.102.136.180  MX Record: 0 audiosphere-net.mail.protection.outlook.com. SOA Record: ns09.domaincontrol.com. dns.jomax.net. 2022011715 28800 7200 604800 600
+2023-12-18 20:48:46,838 [DEBUG][check_domain] audiosphere.org --found: A Record: 15.197.148.33 3.33.130.190  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns11.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+2023-12-18 20:48:49,045 [DEBUG][check_domain] audiosphere.io --found: A Record: 89.31.143.90  MX Record: 20 mx01.udag.de. 10 mx00.udag.de. SOA Record: ns.udag.de. hostmaster.united-domains.de. 2023120500 10800 3600 604800 3600
+2023-12-18 20:48:50,088 [DEBUG][check_domain] audiosphere.co --found: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 54.236.141.185 34.226.10.90 AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+2023-12-18 20:51:48,411 [DEBUG][check_domain] audiospheres.com --found: A Record: 185.230.63.171 185.230.63.186 185.230.63.107  MX Record: 10 mx00.ionos.fr. 10 mx01.ionos.fr. SOA Record: ns8.wixdns.net. support.wix.com. 2019120211 10800 3600 604800 3600
+2023-12-18 20:51:49,023 [DEBUG][check_domain] audiospheres.net --found: A Record: 192.168.1.40  MX Record: 30 alt3.gmr-smtp-in.l.google.com. 5 gmr-smtp-in.l.google.com. 40 alt4.gmr-smtp-in.l.google.com. 10 alt1.gmr-smtp-in.l.google.com. 20 alt2.gmr-smtp-in.l.google.com. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 26 21600 3600 259200 300
+2023-12-18 20:56:46,933 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 20:56:46,936 [INFO][run] Domain specified via command line: beautysculpt.com
+2023-12-18 20:56:46,936 [INFO][run] Root: beautysculpt
+2023-12-18 20:56:51,276 [INFO][run] Number of base strings to check: 9
+2023-12-18 20:56:51,277 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 20:56:51,278 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 20:56:53,185 [DEBUG][check_domain] beautysculpt.com --found: A Record: 13.248.169.48 76.223.54.146   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-18 20:56:53,911 [DEBUG][check_domain] beautysculpt.net --found: A Record: 35.212.68.15  MX Record: 20 mx20.mailspamprotection.com. 10 mx10.mailspamprotection.com. 30 mx30.mailspamprotection.com. SOA Record: ns1.siteground.net. admins.siteground.com. 93 86400 7200 3600000 86400
+2023-12-18 20:56:57,281 [DEBUG][check_domain] beautysculpt.co --found: A Record: 23.227.38.71  MX Record: 1 mx.beautysculpt.co.cust.b.hostedemail.com. SOA Record: ns-cloud-a1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-18 21:06:55,764 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:06:55,767 [INFO][run] Domain specified via command line: rogerspharmacy.com
+2023-12-18 21:06:55,767 [INFO][run] Root: rogerspharmacy
+2023-12-18 21:07:00,384 [INFO][run] Number of base strings to check: 3
+2023-12-18 21:07:00,385 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:07:00,385 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:07:02,706 [DEBUG][check_domain] rogerspharmacy.com --found: A Record: 45.33.25.192  MX Record: 5 alt1.aspmx.l.google.com. 10 aspmx3.googlemail.com. 1 aspmx.l.google.com. 10 aspmx2.googlemail.com. 5 alt2.aspmx.l.google.com. SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2021011103 28800 7200 604800 600
+2023-12-18 21:07:03,296 [DEBUG][check_domain] rogerspharmacy.net --found: A Record: 208.147.67.115   SOA Record: ddc1-nmgt-ins.mckesson.com. noreply.mckesson.com. 2006103027 3600 900 2592000 60
+2023-12-18 21:10:12,467 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:10:12,470 [INFO][run] Domain specified via command line: cardiovista.com
+2023-12-18 21:10:12,471 [INFO][run] Root: cardiovista
+2023-12-18 21:10:16,738 [INFO][run] Number of base strings to check: 5
+2023-12-18 21:10:16,739 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:10:16,740 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:10:18,544 [DEBUG][check_domain] cardiovista.com --found: A Record: 13.248.169.48 76.223.54.146   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-18 21:16:10,589 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:16:10,591 [INFO][run] Domain specified via command line: ccentsinus.com
+2023-12-18 21:16:10,592 [INFO][run] Root: ccentsinus
+2023-12-18 21:16:11,637 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:16:11,638 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:16:11,638 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:16:13,396 [DEBUG][check_domain] ccentsinus.com --found: A Record: 67.227.170.172  MX Record: 0 ccentsinus-com.mail.protection.outlook.com. SOA Record: ns1.bluehost.com. root.box5820.bluehost.com. 2023080101 86400 7200 3600000 300
+2023-12-18 21:16:54,270 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:16:54,272 [INFO][run] Domain specified via command line: corpusfp.us
+2023-12-18 21:16:54,273 [INFO][run] Root: corpusfp
+2023-12-18 21:16:58,013 [INFO][run] Number of base strings to check: 9
+2023-12-18 21:16:58,014 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:16:58,015 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:17:01,527 [DEBUG][check_domain] corpusfp.com --found: A Record: 177.154.191.136  MX Record: 5 alt1.aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. SOA Record: ns1.luke9050.com.br. noc.luke9050.com.br. 2023121201 3600 1800 1209600 86400
+2023-12-18 21:23:34,743 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:23:34,746 [INFO][run] Domain specified via command line: ccmedicalcenter.com
+2023-12-18 21:23:34,747 [INFO][run] Root: ccmedicalcenter
+2023-12-18 21:23:36,513 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:23:36,513 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:23:36,514 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:23:39,030 [DEBUG][check_domain] ccmedicalcenter.com --found: A Record: 165.214.41.39  MX Record: 10 smtpd.mail.medcity.net. 10 smtpb.mail.medcity.net. 20 smtpa.mail.medcity.net. 10 smtpc.mail.medcity.net. SOA Record: ns1.medcity.net. ehchostmaster.hcahealthcare.com. 668960774 1200 180 1209600 3600
+2023-12-18 21:24:37,038 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:24:37,040 [INFO][run] Domain specified via command line: cimarronplacenursing.com
+2023-12-18 21:24:37,041 [INFO][run] Root: cimarronplacenursing
+2023-12-18 21:24:39,512 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:24:39,512 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:24:39,513 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:24:50,563 [DEBUG][check_domain] cimarronplacenursing.com --found: A Record: 162.241.170.175  MX Record: 10 mail.mmcinc.com. SOA Record: dns1.name-services.com. info.name-services.com. 1613074547 172800 900 1814400 3600
+2023-12-18 21:24:51,256 [DEBUG][check_domain] cimarronplacenursing.net --found: A Record: 15.197.172.60   SOA Record: dns1.name-services.com. info.name-services.com. 1681954987 172800 900 1814400 300
+2023-12-18 21:26:10,077 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:26:10,079 [INFO][run] Domain specified via command line: abcpeds.net
+2023-12-18 21:26:10,080 [INFO][run] Root: abcpeds
+2023-12-18 21:26:10,699 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:26:10,699 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:26:10,700 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:26:11,980 [DEBUG][check_domain] abcpeds.com --found: A Record: 76.223.67.189 13.248.213.45   SOA Record: ns41.domaincontrol.com. dns.jomax.net. 2023121800 28800 7200 604800 3600
+2023-12-18 21:26:12,537 [DEBUG][check_domain] abcpeds.net --found: A Record: 104.21.94.61 172.67.220.80 AAAA Record: 2606:4700:3031::ac43:dc50 2606:4700:3036::6815:5e3d MX Record: 10 plsmtp1.hushmail.com. 10 plsmtp2.hushmail.com. SOA Record: jim.ns.cloudflare.com. dns.cloudflare.com. 2300790877 10000 2400 604800 3600
+2023-12-18 21:26:51,826 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:26:51,829 [INFO][run] Domain specified via command line: cctexas.com
+2023-12-18 21:26:51,830 [INFO][run] Root: cctexas
+2023-12-18 21:26:52,407 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:26:52,408 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:26:52,409 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:26:53,738 [DEBUG][check_domain] cctexas.com --found: A Record: 18.220.36.83  MX Record: 20 mx2.hc4332-1.iphmx.com. 10 mx1.hc4332-1.iphmx.com. SOA Record: NS87.WORLDNIC.com. namehost.WORLDNIC.com. 123111516 10800 3600 604800 3600
+2023-12-18 21:26:54,308 [DEBUG][check_domain] cctexas.net --found: A Record: 192.64.119.177  MX Record: 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1622161056 43200 3600 604800 3601
+2023-12-18 21:26:55,356 [DEBUG][check_domain] cctexas.org --found: A Record: 34.74.254.27  MX Record: 20 cctexas-org.mail.protection.outlook.com. 30 cctexas.org.1.arsmtp.com. 40 cctexas.org.2.arsmtp.com. 10 in.hes.trendmicro.com. SOA Record: ns37.domaincontrol.com. dns.jomax.net. 2022030100 28800 7200 604800 600
+2023-12-18 21:26:57,399 [DEBUG][check_domain] cctexas.co --found: A Record: 3.33.152.147 15.197.142.173  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2021101900 28800 7200 604800 3600
+2023-12-18 21:27:27,968 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:27:27,974 [INFO][run] Domain specified via command line: ccurgentcare.com
+2023-12-18 21:27:27,975 [INFO][run] Root: ccurgentcare
+2023-12-18 21:27:29,290 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:27:29,291 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:27:29,291 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:27:31,257 [DEBUG][check_domain] ccurgentcare.com --found: A Record: 3.33.152.147 15.197.142.173  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2021102000 28800 7200 604800 3600
+2023-12-18 21:28:09,401 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:28:09,403 [INFO][run] Domain specified via command line: ccwomensclinic.com
+2023-12-18 21:28:09,404 [INFO][run] Root: ccwomensclinic
+2023-12-18 21:28:11,024 [INFO][run] Number of base strings to check: 1
+2023-12-18 21:28:11,024 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:28:11,025 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:28:13,467 [DEBUG][check_domain] ccwomensclinic.com --found: A Record: 205.178.189.131   SOA Record: DNS105.REGISTER.com. root.REGISTER.com. 120111313 10800 3600 604800 3600
+2023-12-18 21:29:17,048 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:29:17,051 [INFO][run] Domain specified via command line: cleansweep.com
+2023-12-18 21:29:17,051 [INFO][run] Root: cleansweep
+2023-12-18 21:29:21,198 [INFO][run] Number of base strings to check: 7
+2023-12-18 21:29:21,199 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:29:21,200 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:29:23,303 [DEBUG][check_domain] cleansweep.com --found: A Record: 86.105.245.69   SOA Record: ns1.eftydns.com. hostmaster.cleansweep.com. 2023121401 10800 3600 604800 3600
+2023-12-18 21:29:23,916 [DEBUG][check_domain] cleansweep.net --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-18 21:29:25,104 [DEBUG][check_domain] cleansweep.org --found: A Record: 72.14.185.43 45.33.18.44 45.33.2.79 45.33.30.197 72.14.178.174 45.33.20.235 45.79.19.196 173.255.194.134 45.33.23.183 45.56.79.23 198.58.118.167 96.126.123.244  MX Record: 1 mail.mailerhost.net. SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+2023-12-18 21:29:27,284 [DEBUG][check_domain] cleansweep.io --found: A Record: 15.197.148.33 3.33.130.190   SOA Record: pdns01.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+2023-12-18 21:29:28,410 [DEBUG][check_domain] cleansweep.co --found: A Record: 74.220.219.195  MX Record: 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1698631062 43200 3600 604800 3601
+2023-12-18 21:29:29,131 [DEBUG][check_domain] cleansweep.biz --found: A Record: 54.164.57.121  MX Record: 10 ALT4.ASPMX.L.GOOGLE.COM. 10 ALT3.ASPMX.L.GOOGLE.COM. 5 ALT2.ASPMX.L.GOOGLE.COM. 5 ALT1.ASPMX.L.GOOGLE.COM. 1 ASPMX.L.GOOGLE.COM. SOA Record: ns1.mywahosting.com. admin.mywahosting.com. 1 14400 120 1814400 600
+2023-12-18 21:29:54,412 [DEBUG][check_domain] cleanzweep.com --found: A Record: 205.235.26.22  MX Record: 5 park01.gkg.net. SOA Record: ns3.gkg.net. root.cleanzweep.com. 1322592687 28800 7200 604800 7200
+2023-12-18 21:30:19,066 [DEBUG][check_domain] cleanssweep.com --found: A Record: 162.241.216.155  MX Record: 0 mail.cleanssweep.com. SOA Record: ns1.bluehost.com. root.box5413.bluehost.com. 2023112000 86400 7200 3600000 300
+2023-12-18 21:32:28,519 [DEBUG][check_domain] cleansweeps.com --found: A Record: 104.196.196.12  MX Record: 10 mx1.emailsrvr.com. 20 mx2.emailsrvr.com. SOA Record: ivy.ns.cloudflare.com. dns.cloudflare.com. 2325728243 10000 2400 604800 1800
+2023-12-18 21:32:29,100 [DEBUG][check_domain] cleansweeps.net --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 0 cleansweeps-net.mail.protection.outlook.com. SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-18 21:32:30,900 [DEBUG][check_domain] cleansweeps.org --found: A Record: 208.43.88.227  MX Record: 10 mailserver.cleansweeps.org. SOA Record: ns1.livedns.co.uk. admin.cleansweeps.org. 1523031000 10800 3600 604800 3600
+2023-12-18 21:32:33,732 [DEBUG][check_domain] cleansweeps.co --found: A Record: 23.227.38.32  MX Record: 1 mx.cleansweeps.co.cust.b.hostedemail.com. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-18 21:33:33,485 [DEBUG][check_domain] cleansweepz.com --found: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212 AAAA Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 21:33:38,289 [DEBUG][check_domain] clean-sweeps.com --found: A Record: 85.92.91.22   SOA Record: ns57.domaincontrol.com. dns.jomax.net. 2023012307 28800 7200 604800 600
+2023-12-18 21:34:42,671 [DEBUG][check_domain] cleanssweeps.com --found: A Record: 23.227.38.32  MX Record: 10 mx01.ionos.com. 10 mx00.ionos.com. SOA Record: ns1080.ui-dns.biz. hostmaster.1und1.com. 2017060116 28800 7200 604800 600
+2023-12-18 21:37:16,059 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:37:16,062 [INFO][run] Domain specified via command line: climatecomfort.com
+2023-12-18 21:37:16,062 [INFO][run] Root: climatecomfort
+2023-12-18 21:37:20,761 [INFO][run] Number of base strings to check: 7
+2023-12-18 21:37:20,762 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:37:20,763 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:37:23,079 [DEBUG][check_domain] climatecomfort.com --found: A Record: 76.223.54.146 13.248.169.48  MX Record: 0 . SOA Record: ns5.afternic.com. dns.jomax.net. 2023042600 28800 7200 604800 300
+2023-12-18 21:37:24,600 [DEBUG][check_domain] climatecomfort.org --found: A Record: 23.227.38.65  MX Record: 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1679254902 43200 3600 604800 3601
+2023-12-18 21:41:29,161 [DEBUG][check_domain] climatecomforts.com --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-18 21:47:13,983 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 21:47:13,986 [INFO][run] Domain specified via command line: questdiagnostics.com
+2023-12-18 21:47:13,986 [INFO][run] Root: questdiagnostics
+2023-12-18 21:47:18,939 [INFO][run] Number of base strings to check: 7
+2023-12-18 21:47:18,941 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 21:47:18,941 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 21:47:21,655 [DEBUG][check_domain] questdiagnostics.com --found: A Record: 52.232.227.90  MX Record: 10 cluster4.us.messagelabs.com. 20 cluster4a.us.messagelabs.com. SOA Record: ib-grid.qdx.com. domain-tech.questdiagnostics.com. 2019013626 10800 3600 2419200 900
+2023-12-18 21:47:22,280 [DEBUG][check_domain] questdiagnostics.net --found: A Record: 165.160.13.20 165.160.15.20   SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019031103 28800 7200 604800 14400
+2023-12-18 21:47:23,308 [DEBUG][check_domain] questdiagnostics.org --found: A Record: 165.160.13.20 165.160.15.20   SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019031103 28800 7200 604800 14400
+2023-12-18 21:47:25,908 [DEBUG][check_domain] questdiagnostics.co --found: A Record: 104.247.81.52  MX Record: 5 mail.h-email.net. SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnostics.co. 1702957000 28800 7200 604800 86400
+2023-12-18 21:47:26,945 [DEBUG][check_domain] guestdiagnostics.com --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-18 21:47:43,015 [DEBUG][check_domain] queztdiagnostics.com --found: A Record: 77.247.182.246  MX Record: 1 mail.h-email.net. SOA Record: ns1.redfoxdns.com. admin.queztdiagnostics.com. 2023112105 86400 10800 604800 300
+2023-12-18 21:48:02,377 [DEBUG][check_domain] questdlagnostics.com --found: A Record: 103.224.182.251  MX Record: 10 park-mx.above.com. SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023121901 10800 3600 604800 3600
+2023-12-18 21:48:08,154 [DEBUG][check_domain] questdi4gnostics.com --found: A Record: 81.17.29.148  MX Record: 1 mail.h-email.net. SOA Record: ns1.panamans.com. admin.questdi4gnostics.com. 2023112702 86400 10800 604800 300
+2023-12-18 21:48:22,939 [DEBUG][check_domain] questdiagn0stics.com --found: A Record: 170.178.183.18  MX Record: 10 park-mx.above.com. SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023121901 10800 3600 604800 3600
+2023-12-18 21:48:32,669 [DEBUG][check_domain] questdiagnoztics.com --found: A Record: 104.247.82.174   SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnoztics.com. 1702957000 28800 7200 604800 86400
+2023-12-18 21:49:02,013 [DEBUG][check_domain] questsdiagnostics.com --found: A Record: 185.107.56.203   SOA Record: ns1.domainmx.com. admin.questsdiagnostics.com. 2023121402 86400 10800 604800 300
+2023-12-18 21:49:53,549 [DEBUG][check_domain] questsdlagnostics.com --found: A Record: 192.187.111.222  MX Record: 1 mail.h-email.net. SOA Record: ns1.panamans.com. admin.questsdlagnostics.com. 2023112702 86400 10800 604800 300
+2023-12-18 21:52:59,544 [DEBUG][check_domain] questdiagnosticss.com --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-18 21:54:40,447 [DEBUG][check_domain] questdiagnosticzs.com --found: A Record: 104.247.82.173   SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnosticzs.com. 1702958000 28800 7200 604800 86400
+2023-12-18 21:54:52,747 [DEBUG][check_domain] questdiagnosticsz.com --found: A Record: 104.247.82.173   SOA Record: ns1.parkingcrew.net. hostmaster.questdiagnosticsz.com. 1702958000 28800 7200 604800 86400
+2023-12-18 22:01:04,933 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:01:04,935 [INFO][run] Domain specified via command line: coastalimaging.com
+2023-12-18 22:01:04,936 [INFO][run] Root: coastalimaging
+2023-12-18 22:01:09,537 [INFO][run] Number of base strings to check: 5
+2023-12-18 22:01:09,538 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:01:09,539 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:01:13,205 [DEBUG][check_domain] coastalimaging.com --found: A Record: 3.217.63.100 23.20.154.105   SOA Record: ns1.domain-is-4-sale-at-domainmarket.com. hostmaster.domainmarket.com. 0 10800 3600 604800 3600
+2023-12-18 22:01:13,886 [DEBUG][check_domain] coastalimaging.net --found: A Record: 162.241.24.140  MX Record: 0 coastalimaging-net.mail.protection.outlook.com. SOA Record: ns1.bluehost.com. root.box5876.bluehost.com. 2023082601 86400 7200 3600000 300
+2023-12-18 22:01:15,347 [DEBUG][check_domain] coastalimaging.org --found: A Record: 15.197.148.33 3.33.130.190  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023121700 28800 7200 604800 3600
+2023-12-18 22:09:54,933 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:09:54,935 [INFO][run] Domain specified via command line: cushmanwakefield.com
+2023-12-18 22:09:54,936 [INFO][run] Root: cushmanwakefield
+2023-12-18 22:09:59,656 [INFO][run] Number of base strings to check: 1
+2023-12-18 22:09:59,657 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:09:59,658 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:10:02,385 [DEBUG][check_domain] cushmanwakefield.com --found: A Record: 52.237.134.214   SOA Record: pdns67.ultradns.net. dnsadmin.cushwake.com. 2007011224 3600 1800 1209600 900
+2023-12-18 22:10:06,002 [DEBUG][check_domain] cushmanwakefield.org --found: A Record: 217.19.248.132   SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2022083101 28800 1800 604800 3600
+2023-12-18 22:10:08,153 [DEBUG][check_domain] cushmanwakefield.tv --found: A Record: 217.19.248.132  MX Record: 10 mail.idp365.net. SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2016082403 28800 1800 604800 3600
+2023-12-18 22:10:09,128 [DEBUG][check_domain] cushmanwakefield.co --found: A Record: 217.19.248.132  MX Record: 10 mail.idp365.net. SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2016082403 28800 1800 604800 3600
+2023-12-18 22:11:16,687 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:11:16,690 [INFO][run] Domain specified via command line: dentacare.com
+2023-12-18 22:11:16,690 [INFO][run] Root: dentacare
+2023-12-18 22:11:20,635 [INFO][run] Number of base strings to check: 5
+2023-12-18 22:11:20,640 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:11:20,641 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:11:22,161 [DEBUG][check_domain] dentacare.com --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-18 22:11:22,901 [DEBUG][check_domain] dentacare.net --found: A Record: 66.96.149.1  MX Record: 30 mx.dentacare.net. SOA Record: ns1.ipower.com. dnsadmin.ipower.com. 2008011156 10800 3600 604800 3600
+2023-12-18 22:11:25,037 [DEBUG][check_domain] dentacare.org --found: A Record: 66.96.149.1  MX Record: 30 mx.dentacare.org. SOA Record: ns1.ipower.com. dnsadmin.ipower.com. 2008011156 10800 3600 604800 3600
+2023-12-18 22:11:27,972 [DEBUG][check_domain] dentacare.biz --found: A Record: 15.197.142.173 3.33.152.147  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns65.domaincontrol.com. dns.jomax.net. 2022070800 28800 7200 604800 600
+2023-12-18 22:15:04,986 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:15:04,989 [INFO][run] Domain specified via command line: dentalsuppliesplus.com
+2023-12-18 22:15:04,989 [INFO][run] Root: dentalsuppliesplus
+2023-12-18 22:15:10,186 [INFO][run] Number of base strings to check: 7
+2023-12-18 22:15:10,187 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:15:10,188 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:15:14,667 [DEBUG][check_domain] dentalsuppliesplus.com --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns09.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-18 22:30:28,895 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:30:28,897 [INFO][run] Domain specified via command line: dshs.texas.gov
+2023-12-18 22:30:28,898 [INFO][run] Root: dshs
+2023-12-18 22:30:29,053 [INFO][run] Number of base strings to check: 1
+2023-12-18 22:30:29,054 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:30:29,055 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:30:30,179 [DEBUG][check_domain] dshs.com --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+2023-12-18 22:30:31,048 [DEBUG][check_domain] dshs.net --found: A Record: expired.namebright.com. cdl-lb-1356093980.us-east-1.elb.amazonaws.com. 44.195.169.152 34.236.104.175 AAAA Record: expired.namebright.com. cdl-lb-1356093980.us-east-1.elb.amazonaws.com. MX Record: 10 mail2.namebrightmail.com. 10 mail1.namebrightmail.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 22:30:32,720 [DEBUG][check_domain] dshs.org --found: A Record: 15.197.204.56 3.33.243.145  MX Record: 0 . SOA Record: ns01.cashparking.com. dns.jomax.net. 2023060100 28800 7200 604800 86400
+2023-12-18 22:30:35,248 [DEBUG][check_domain] dshs.co --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+2023-12-18 22:30:36,494 [DEBUG][check_domain] clshs.com --found: A Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 3.94.41.167 52.86.6.113 AAAA Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 22:30:39,133 [DEBUG][check_domain] clshs.org --found: A Record: 199.193.141.131  MX Record: 30 alt2.aspmx.l.google.com. 40 aspmx2.googlemail.com. 70 aspmx5.googlemail.com. 50 aspmx3.googlemail.com. 20 alt1.aspmx.l.google.com. 60 aspmx4.googlemail.com. 10 aspmx.l.google.com. SOA Record: ns05.domaincontrol.com. dns.jomax.net. 2019060409 28800 7200 604800 600
+2023-12-18 22:30:46,871 [DEBUG][check_domain] dzhs.com --found: A Record: 76.223.67.189 13.248.213.45   SOA Record: ns39.domaincontrol.com. dns.jomax.net. 2023121101 28800 7200 604800 600
+2023-12-18 22:30:48,160 [DEBUG][check_domain] dzhs.net --found: A Record: 47.115.12.144   SOA Record: dns9.hichina.com. hostmaster.hichina.com. 2022052002 3600 1200 86400 600
+2023-12-18 22:30:54,181 [DEBUG][check_domain] dsh5.com --found: A Record: 3xin4.zhanghonghong.com. 198.44.248.187 AAAA Record: 3xin4.zhanghonghong.com. MX Record: 3xin4.zhanghonghong.com. SOA Record: 3xin4.zhanghonghong.com.
+2023-12-18 22:30:58,821 [DEBUG][check_domain] dshz.com --found:   MX Record: 10 route1.mx.cloudflare.net. 75 route3.mx.cloudflare.net. 82 route2.mx.cloudflare.net. SOA Record: christian.ns.cloudflare.com. dns.cloudflare.com. 2324124950 10000 2400 604800 1800
+2023-12-18 22:31:00,345 [DEBUG][check_domain] dshz.net --found: A Record: 202.75.223.23  MX Record: 2 mxn.mxhichina.com. 1 mxw.mxhichina.com. SOA Record: dns15.hichina.com. hostmaster.hichina.com. 2023121513 3600 1200 86400 600
+2023-12-18 22:31:04,965 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:31:04,967 [INFO][run] Domain specified via command line: southtxendo.com
+2023-12-18 22:31:04,968 [INFO][run] Root: southtxendo
+2023-12-18 22:31:09,080 [INFO][run] Number of base strings to check: 5
+2023-12-18 22:31:09,081 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:31:09,081 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:31:10,905 [DEBUG][check_domain] southtxendo.com --found: A Record: 162.159.135.42  MX Record: 1 mxa-00188301.gslb.pphosted.com. 1 mxb-00188301.gslb.pphosted.com. SOA Record: brynne.ns.cloudflare.com. dns.cloudflare.com. 2326722275 10000 2400 604800 1800
+2023-12-18 22:35:30,862 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:35:30,865 [INFO][run] Domain specified via command line: eyeview.com
+2023-12-18 22:35:30,866 [INFO][run] Root: eyeview
+2023-12-18 22:35:34,494 [INFO][run] Number of base strings to check: 7
+2023-12-18 22:35:34,495 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:35:34,495 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:35:35,726 [DEBUG][check_domain] eyeview.com --found: A Record: 104.21.89.42 172.67.156.88 AAAA Record: 2606:4700:3036::6815:592a 2606:4700:3032::ac43:9c58  SOA Record: augustus.ns.cloudflare.com. dns.cloudflare.com. 2327878537 10000 2400 604800 1800
+2023-12-18 22:35:36,929 [DEBUG][check_domain] eyeview.net --found: A Record: 185.53.178.54  MX Record: 5 mail.h-email.net. SOA Record: ns1.parkingcrew.net. hostmaster.eyeview.net. 1702960000 28800 7200 604800 86400
+2023-12-18 22:35:38,513 [DEBUG][check_domain] eyeview.org --found: A Record: 207.148.248.143   
+2023-12-18 22:35:40,569 [DEBUG][check_domain] eyeview.tv --found: A Record: 35.241.18.84   SOA Record: 208.91.197.91. hostmaster.eyeview.tv. 1702960540 10800 3600 604800 3600
+2023-12-18 22:35:41,182 [DEBUG][check_domain] eyeview.co --found: A Record: 206.188.193.191   SOA Record: NS25.WORLDNIC.COM. namehost.WORLDNIC.COM. 120042012 10800 3600 604800 3600
+2023-12-18 22:35:41,730 [DEBUG][check_domain] eyeview.biz --found: A Record: 208.91.197.27   SOA Record: NS29.WORLDNIC.COM. namehost.WORLDNIC.COM. 112021822 10800 3600 604800 3600
+2023-12-18 22:36:11,347 [DEBUG][check_domain] eyesview.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns13.domaincontrol.com. dns.jomax.net. 2023091802 28800 7200 604800 3600
+2023-12-18 22:37:41,468 [DEBUG][check_domain] eyeviews.com --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-18 22:40:56,561 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:40:56,563 [INFO][run] Domain specified via command line: familyfulfill.com
+2023-12-18 22:40:56,564 [INFO][run] Root: familyfulfill
+2023-12-18 22:41:00,965 [INFO][run] Number of base strings to check: 7
+2023-12-18 22:41:00,965 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:41:00,966 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:41:03,673 [DEBUG][check_domain] familyfulfill.com --found: A Record: 185.20.205.54   SOA Record: ns1.simply.com. hostmaster.simply.com. 2022101704 14400 3600 1209600 3600
+2023-12-18 22:51:27,434 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:51:27,437 [INFO][run] Domain specified via command line: fertilehope.com
+2023-12-18 22:51:27,437 [INFO][run] Root: fertilehope
+2023-12-18 22:51:31,593 [INFO][run] Number of base strings to check: 3
+2023-12-18 22:51:31,594 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:51:31,594 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:51:33,473 [DEBUG][check_domain] fertilehope.com --found: A Record: 64.37.120.101   SOA Record: dns018.a.register.com. root.register.com. 2006080308 28800 7200 604800 14400
+2023-12-18 22:51:35,044 [DEBUG][check_domain] fertilehope.org --found: A Record: 3.33.152.147 15.197.142.173  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2021102000 28800 7200 604800 600
+2023-12-18 22:52:29,657 [DEBUG][check_domain] fertilehopes.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 3600
+2023-12-18 22:52:30,263 [DEBUG][check_domain] fertilehopes.net --found: A Record: 15.197.148.33 3.33.130.190  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-18 22:52:32,024 [DEBUG][check_domain] fertilehopes.org --found: A Record: 162.144.18.93  MX Record: 0 mail.fertilehopes.org. SOA Record: cns2065.hostgator.com. root.cloud1033.hostgator.com. 2023111701 86400 7200 3600000 86400
+2023-12-18 22:52:34,834 [DEBUG][check_domain] fertilehopes.biz --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-18 22:54:53,682 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 22:54:53,684 [INFO][run] Domain specified via command line: fitvibe.com
+2023-12-18 22:54:53,685 [INFO][run] Root: fitvibe
+2023-12-18 22:54:57,278 [INFO][run] Number of base strings to check: 7
+2023-12-18 22:54:57,279 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 22:54:57,279 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 22:54:59,625 [DEBUG][check_domain] fitvibe.com --found: A Record: 212.178.198.70  MX Record: 30 fitvibe-com.mail.eo.outlook.com. 100 mail.global.frontbridge.com. 300 mx2.bgc.be. SOA Record: ns1.openprovider.nl. dns.openprovider.eu. 2015041600 10800 3600 604800 3600
+2023-12-18 22:55:00,323 [DEBUG][check_domain] fitvibe.net --found: A Record: 35.212.4.47  MX Record: 30 mx30.antispam.mailspamprotection.com. 20 mx20.antispam.mailspamprotection.com. 10 mx10.antispam.mailspamprotection.com. SOA Record: ns1.siteground.net. admins.siteground.com. 47 86400 7200 3600000 86400
+2023-12-18 22:55:01,428 [DEBUG][check_domain] fitvibe.org --found: A Record: 23.227.38.67  MX Record: 50 mx3.zoho.com. 50 mx3.zoho.eu. 20 mx2.zoho.eu. 20 mx2.zoho.com. 10 mx.zoho.com. 10 mx.zoho.eu. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-18 22:55:03,807 [DEBUG][check_domain] fitvibe.io --found: A Record: 3.33.243.145 15.197.204.56  MX Record: 0 . SOA Record: ns01.cashparking.com. dns.jomax.net. 2023060100 28800 7200 604800 86400
+2023-12-18 22:55:04,898 [DEBUG][check_domain] fitvibe.co --found: A Record: 23.227.38.36  MX Record: 10 mx.zoho.eu. 50 mx3.zoho.eu. 20 mx2.zoho.eu. SOA Record: ns-cloud-c1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-18 22:57:16,461 [DEBUG][check_domain] fitvibes.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023051000 28800 7200 604800 600
+2023-12-18 22:57:17,139 [DEBUG][check_domain] fitvibes.net --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-18 22:57:18,388 [DEBUG][check_domain] fitvibes.org --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-18 22:58:01,775 [DEBUG][check_domain] fitvibez.com --found: A Record: traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 18.119.154.66 3.140.13.188 AAAA Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 22:58:06,414 [DEBUG][check_domain] fit-vibes.com --found: A Record: 104.21.79.176 172.67.146.213 AAAA Record: 2606:4700:3032::ac43:92d5 2606:4700:3033::6815:4fb0 MX Record: 60 route1.mx.cloudflare.net. 21 route2.mx.cloudflare.net. 45 route3.mx.cloudflare.net. SOA Record: bella.ns.cloudflare.com. dns.cloudflare.com. 2326913118 10000 2400 604800 1800
+2023-12-18 22:58:53,655 [DEBUG][check_domain] fitsvibes.com --found: A Record: 23.227.38.65  MX Record: 5 alt2.aspmx.l.google.com. 1 aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 10 lt3.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1690254069 43200 3600 604800 3601
+2023-12-18 23:00:55,550 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:00:55,553 [INFO][run] Domain specified via command line: cbwellness.org
+2023-12-18 23:00:55,553 [INFO][run] Root: cbwellness
+2023-12-18 23:00:56,596 [INFO][run] Number of base strings to check: 1
+2023-12-18 23:00:56,597 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:00:56,598 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:00:58,470 [DEBUG][check_domain] cbwellness.com --found: A Record: traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com. 3.140.13.188 18.119.154.66 AAAA Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-18 23:00:59,401 [DEBUG][check_domain] cbwellness.net --found: A Record: 216.92.201.145  MX Record: 50 mail1.g4.pair.com. SOA Record: dns.pair.com. root.pair.com. 2022122017 3600 300 604800 3600
+2023-12-18 23:00:59,909 [DEBUG][check_domain] cbwellness.org --found: A Record: 65.254.227.224  MX Record: 10 cbwellness.org.1.0001.arsmtp.com. 20 cbwellness.org.2.0001.arsmtp.com. SOA Record: ns1.fatcow.com. dnsadmin.fatcow.com. 2012100564 10800 3600 604800 86400
+2023-12-18 23:01:02,291 [DEBUG][check_domain] cbwellness.co --found:   MX Record: 10 alt3.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 3 21600 3600 259200 300
+2023-12-18 23:02:00,036 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:02:00,039 [INFO][run] Domain specified via command line: southtexassinusinstitute.com
+2023-12-18 23:02:00,039 [INFO][run] Root: southtexassinusinstitute
+2023-12-18 23:02:05,975 [INFO][run] Number of base strings to check: 5
+2023-12-18 23:02:05,976 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:02:05,976 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:04:44,245 [DEBUG][check_domain] southtexassinusinstitute.com --found: A Record: 107.180.2.127  MX Record: 0 mail.southtexassinusinstitute.com. SOA Record: ns23.domaincontrol.com. dns.jomax.net. 2021041907 28800 7200 604800 600
+2023-12-18 23:50:24,121 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:50:24,124 [INFO][run] Domain specified via command line: gastrovital.com
+2023-12-18 23:50:24,125 [INFO][run] Root: gastrovital
+2023-12-18 23:50:28,309 [INFO][run] Number of base strings to check: 3
+2023-12-18 23:50:28,310 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:50:28,311 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:50:30,395 [DEBUG][check_domain] gastrovital.com --found: A Record: 198.49.23.145 198.49.23.144 198.185.159.145 198.185.159.144  MX Record: 100 mx3.mail.ovh.net. 5 mx2.mail.ovh.net. 1 mx1.mail.ovh.net. SOA Record: dns104.ovh.net. tech.ovh.net. 2023112801 86400 3600 3600000 300
+2023-12-18 23:54:28,758 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:54:28,760 [INFO][run] Domain specified via command line: genoinsight.com
+2023-12-18 23:54:28,761 [INFO][run] Root: genoinsight
+2023-12-18 23:54:32,909 [INFO][run] Number of base strings to check: 3
+2023-12-18 23:54:32,910 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:54:32,911 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:54:34,609 [DEBUG][check_domain] genoinsight.com --found: A Record: 192.0.78.25 192.0.78.24   SOA Record: ns1.wordpress.com. hostmaster.wordpress.com. 2005071858 14400 7200 604800 300
+2023-12-18 23:58:21,406 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:58:21,409 [INFO][run] Domain specified via command line: geripsych.com
+2023-12-18 23:58:21,409 [INFO][run] Root: geripsych
+2023-12-18 23:58:25,187 [INFO][run] Number of base strings to check: 1
+2023-12-18 23:58:25,188 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:58:25,189 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:58:26,772 [DEBUG][check_domain] geripsych.com --found: A Record: 208.91.197.27  MX Record: 10 aspmx.l.google.com. 50 aspmx3.googlemail.com. 40 aspmx2.googlemail.com. 30 alt2.aspmx.l.google.com. 20 alt1.aspmx.l.google.com. SOA Record: NS23.WORLDNIC.com. namehost.WORLDNIC.com. 111071713 10800 3600 604800 3600
+2023-12-18 23:58:27,496 [DEBUG][check_domain] geripsych.net --found: A Record: 208.91.197.27   SOA Record: NS67.WORLDNIC.COM. namehost.WORLDNIC.COM. 120032922 10800 3600 604800 3600
+2023-12-18 23:58:29,384 [DEBUG][check_domain] geripsych.org --found: A Record: 208.91.197.23   SOA Record: NS23.WORLDNIC.COM. namehost.WORLDNIC.COM. 107112903 10800 3600 604800 3600
+2023-12-18 23:59:12,598 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-18 23:59:12,601 [INFO][run] Domain specified via command line: geriwell.com
+2023-12-18 23:59:12,601 [INFO][run] Root: geriwell
+2023-12-18 23:59:16,222 [INFO][run] Number of base strings to check: 1
+2023-12-18 23:59:16,223 [INFO][run] Number of char substitutions coded: 1
+2023-12-18 23:59:16,223 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-18 23:59:18,169 [DEBUG][check_domain] geriwell.com --found: A Record: 23.20.154.105 3.217.63.100   SOA Record: ns1.domain-is-4-sale-at-domainmarket.com. hostmaster.domainmarket.com. 0 10800 3600 604800 3600
+2023-12-19 00:00:23,358 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:00:23,360 [INFO][run] Domain specified via command line: globalpharm.co
+2023-12-19 00:00:23,361 [INFO][run] Root: globalpharm
+2023-12-19 00:00:27,435 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:00:27,436 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:00:27,436 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:00:29,384 [DEBUG][check_domain] globalpharm.com --found: A Record: 104.247.81.54  MX Record: 5 mail.h-email.net. SOA Record: ns1.parkingcrew.net. hostmaster.globalpharm.com. 1702965000 28800 7200 604800 86400
+2023-12-19 00:00:30,089 [DEBUG][check_domain] globalpharm.net --found: A Record: 74.208.215.68  MX Record: 11 mx01.1and1.com. 10 mx00.1and1.com. SOA Record: ns1074.ui-dns.biz. hostmaster.1and1.com. 2017060508 28800 7200 604800 300
+2023-12-19 00:00:31,209 [DEBUG][check_domain] globalpharm.org --found: A Record: 74.208.215.68  MX Record: 10 mx01.1and1.com. 10 mx00.1and1.com. SOA Record: ns1031.ui-dns.org. hostmaster.1and1.com. 2017060502 28800 7200 604800 300
+2023-12-19 00:00:33,722 [DEBUG][check_domain] globalpharm.co --found: A Record: 74.208.236.66 AAAA Record: 2607:f1c0:100f:f000::25b MX Record: 0 globalpharm-co.mail.protection.outlook.com. SOA Record: ns1080.ui-dns.org. hostmaster.1und1.com. 2017060109 28800 7200 604800 600
+2023-12-19 00:01:33,209 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:01:33,212 [INFO][run] Domain specified via command line: cbcil.org
+2023-12-19 00:01:33,213 [INFO][run] Root: cbcil
+2023-12-19 00:01:33,516 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:01:33,517 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:01:33,518 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:01:34,441 [DEBUG][check_domain] cbcil.com --found: A Record: 15.197.148.33 3.33.130.190   SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 00:01:36,539 [DEBUG][check_domain] cbcil.org --found: A Record: 107.180.25.236  MX Record: 0 cbcil-org.mail.protection.outlook.com. SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2020021902 28800 7200 604800 600
+2023-12-19 00:01:58,728 [DEBUG][check_domain] cbcii.com --found: A Record: 38.26.140.249   SOA Record: ns1.gname.net. admin.gname.net. 1679476617 7200 3600 1209600 1800
+2023-12-19 00:02:03,896 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:02:03,899 [INFO][run] Domain specified via command line: aadihomehealth.com
+2023-12-19 00:02:03,899 [INFO][run] Root: aadihomehealth
+2023-12-19 00:02:05,516 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:02:05,517 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:02:05,518 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:02:07,846 [DEBUG][check_domain] aadihomehealth.com --found: A Record: 162.255.119.136  MX Record: 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573422660 43200 3600 604800 3601
+2023-12-19 00:03:13,707 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:03:13,710 [INFO][run] Domain specified via command line: healthride.com
+2023-12-19 00:03:13,710 [INFO][run] Root: healthride
+2023-12-19 00:03:17,818 [INFO][run] Number of base strings to check: 9
+2023-12-19 00:03:17,819 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:03:17,819 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:03:19,420 [DEBUG][check_domain] healthride.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 20 alt1.aspmx.l.google.com. 20 alt2.aspmx.l.google.com. 10 aspmx.l.google.com. 30 aspmx2.googlemail.com. 30 aspmx3.googlemail.com. SOA Record: ns03.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+2023-12-19 00:03:21,083 [DEBUG][check_domain] healthride.org --found: A Record: 91.195.240.12  MX Record: 1 mail.eye-mail.net. SOA Record: ns1.dnsowl.com. hostmaster.dnsowl.com. 1702965290 7200 1800 1209600 600
+2023-12-19 00:08:04,438 [DEBUG][check_domain] healthrides.com --found: A Record: 76.223.54.146 13.248.169.48  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 00:09:03,650 [DEBUG][check_domain] health-rides.com --found: A Record: 208.91.197.27   SOA Record: NS77.WORLDNIC.com. namehost.WORLDNIC.com. 117042622 10800 3600 604800 3600
+2023-12-19 00:12:17,558 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:12:17,561 [INFO][run] Domain specified via command line: healthscripts.com
+2023-12-19 00:12:17,562 [INFO][run] Root: healthscripts
+2023-12-19 00:12:22,054 [INFO][run] Number of base strings to check: 9
+2023-12-19 00:12:22,055 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:12:22,055 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:12:24,194 [DEBUG][check_domain] healthscripts.com --found: A Record: 141.193.213.10  MX Record: 0 healthscripts-com.mail.protection.outlook.com. SOA Record: ns63.domaincontrol.com. dns.jomax.net. 2023082901 28800 7200 604800 600
+2023-12-19 00:12:24,761 [DEBUG][check_domain] healthscripts.net --found: A Record: 15.197.148.33 3.33.130.190  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns35.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 00:12:25,750 [DEBUG][check_domain] healthscripts.org --found: A Record: 141.193.213.10  MX Record: 0 healthscripts-org.mail.protection.outlook.com. SOA Record: ns65.domaincontrol.com. dns.jomax.net. 2022111700 28800 7200 604800 600
+2023-12-19 00:12:38,721 [DEBUG][check_domain] healthscripts.biz --found: A Record: 31.3.65.15   
+2023-12-19 00:24:33,722 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:24:33,725 [INFO][run] Domain specified via command line: healthybite.com
+2023-12-19 00:24:33,726 [INFO][run] Root: healthybite
+2023-12-19 00:24:37,871 [INFO][run] Number of base strings to check: 7
+2023-12-19 00:24:37,872 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:24:37,872 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:24:39,702 [DEBUG][check_domain] healthybite.com --found: A Record: 52.20.84.62  MX Record: 10 mx1-forward.squadhelp.com. 10 mx2-forward.squadhelp.com. SOA Record: ns1.squadhelp.com. admin.squadhelp.com. 2008080300 1800 3600 604800 3600
+2023-12-19 00:24:40,357 [DEBUG][check_domain] healthybite.net --found: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212 AAAA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
+2023-12-19 00:24:41,659 [DEBUG][check_domain] healthybite.org --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 00:24:43,982 [DEBUG][check_domain] healthybite.co --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 00:30:02,615 [DEBUG][check_domain] healthybites.com --found: A Record: 13.248.213.45 76.223.67.189   SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+2023-12-19 00:30:03,658 [DEBUG][check_domain] healthybites.net --found: A Record: 66.81.203.196   SOA Record: ns.buydomains.com. bd-operations.namemedia.com. 2023091212 86400 7200 604800 300
+2023-12-19 00:30:04,728 [DEBUG][check_domain] healthybites.org --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 00:30:07,810 [DEBUG][check_domain] healthybites.co --found: A Record: 161.97.64.22  MX Record: 10 mx.yandex.net. 10 mail.healthybites.co. SOA Record: ns1.contabo.net. hostmaster.contabo.de. 2021030803 3600 7200 2419200 10800
+2023-12-19 00:31:14,633 [DEBUG][check_domain] healthybitez.com --found: A Record: 23.227.38.32   SOA Record: ns35.domaincontrol.com. dns.jomax.net. 2020111302 28800 7200 604800 600
+2023-12-19 00:31:19,629 [DEBUG][check_domain] healthy-bites.com --found: A Record: 162.241.218.97  MX Record: 0 mail.healthy-bites.com. SOA Record: ns1.bluehost.com. root.box5553.bluehost.com. 2023102300 86400 7200 3600000 300
+2023-12-19 00:32:23,311 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:32:23,313 [INFO][run] Domain specified via command line: bfmtx.com
+2023-12-19 00:32:23,314 [INFO][run] Root: bfmtx
+2023-12-19 00:32:23,608 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:32:23,609 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:32:23,609 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:32:24,419 [DEBUG][check_domain] bfmtx.com --found: A Record: 198.185.159.145 198.185.159.144 198.49.23.145 198.49.23.144  MX Record: 0 bfmtx-com.mail.protection.outlook.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1699633651 43200 3600 604800 3601
+2023-12-19 00:32:43,431 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:32:43,433 [INFO][run] Domain specified via command line: hearwell.com
+2023-12-19 00:32:43,434 [INFO][run] Root: hearwell
+2023-12-19 00:32:47,238 [INFO][run] Number of base strings to check: 7
+2023-12-19 00:32:47,239 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:32:47,239 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:32:48,733 [DEBUG][check_domain] hearwell.com --found: A Record: 44.237.15.52 44.226.124.146 52.36.112.217 52.39.104.83   SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2023043000 28800 7200 604800 600
+2023-12-19 00:32:49,510 [DEBUG][check_domain] hearwell.net --found: A Record: traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com. 3.130.204.160 3.130.253.23 AAAA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-19 00:32:51,985 [DEBUG][check_domain] hearwell.org --found: A Record: 109.68.33.18  MX Record: 1 mx.emailconfig.com. SOA Record: ns1.domainmonster.com. hostmaster.hearwell.org. 0 7200 1800 1209600 7200
+2023-12-19 00:32:54,768 [DEBUG][check_domain] hearwell.co --found: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 34.226.10.90 54.236.141.185 AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+2023-12-19 00:32:55,333 [DEBUG][check_domain] hearwell.biz --found: A Record: 209.141.38.71 107.161.23.204 198.251.81.30  MX Record: 30 mx6.emailowl.com. 10 mx4.emailowl.com. 20 mx5.emailowl.com. SOA Record: ns1.dnsowl.com. hostmaster.dnsowl.com. 1702967089 7200 1800 1209600 600
+2023-12-19 00:33:33,982 [DEBUG][check_domain] hearswell.com --found: A Record: 192.138.16.80  MX Record: 0 hearswell.com. SOA Record: ns100.ragesw.com. paul.ragesw.com. 2023102801 3600 1800 1209600 86400
+2023-12-19 00:39:12,229 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:39:12,232 [INFO][run] Domain specified via command line: hhs.texas.gov
+2023-12-19 00:39:12,232 [INFO][run] Root: hhs
+2023-12-19 00:39:12,234 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:39:12,235 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:39:12,235 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:39:12,875 [DEBUG][check_domain] hhs.com --found: A Record: 172.67.193.241 104.21.44.18 AAAA Record: 2606:4700:3035::6815:2c12 2606:4700:3037::ac43:c1f1 MX Record: 15 hhs-com.mail.protection.outlook.com. SOA Record: hugh.ns.cloudflare.com. dns.cloudflare.com. 2327055760 10000 2400 604800 1800
+2023-12-19 00:39:13,904 [DEBUG][check_domain] hhs.net --found: A Record: 205.166.61.194  MX Record: 10 mx.ctinetworks.com. SOA Record: ns0.winbeam.com. dnsadmin.winbeam.com. 2023112800 1800 600 600 7200
+2023-12-19 00:39:15,164 [DEBUG][check_domain] hhs.org --found: A Record: 209.17.116.163  MX Record: 5 d293193b.ess.barracudanetworks.com. 0 d293193a.ess.barracudanetworks.com. SOA Record: NS23.WORLDNIC.COM. namehost.WORLDNIC.COM. 123121516 10800 3600 604800 3600
+2023-12-19 00:39:15,837 [DEBUG][check_domain] hhs.edu --found: A Record: 35.184.219.30  MX Record: 5 alt2.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. SOA Record: ns1.siteground.net. dnsadmin.giow1.siteground.us. 2020061765 86400 7200 3600000 86400
+2023-12-19 00:39:17,505 [DEBUG][check_domain] hhs.io --found: A Record: 44.225.139.181   SOA Record: ns1.name.com. hostmaster.nsone.net. 1636683564 7200 3600 604800 300
+2023-12-19 00:39:18,038 [DEBUG][check_domain] hhs.tv --found: A Record: 185.230.63.107 185.230.63.186 185.230.63.171  MX Record: 10 hhs-tv.mail.protection.outlook.com. SOA Record: ns0.wixdns.net. support.wix.com. 2021042614 10800 3600 604800 3600
+2023-12-19 00:39:18,561 [DEBUG][check_domain] hhs.co --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 00:39:19,157 [DEBUG][check_domain] hhs.biz --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 00:39:19,664 [DEBUG][check_domain] hh5.com --found: A Record: 172.67.143.246 104.21.71.79 AAAA Record: 2606:4700:3030::ac43:8ff6 2606:4700:3037::6815:474f  SOA Record: amber.ns.cloudflare.com. dns.cloudflare.com. 2327112834 10000 2400 604800 1800
+2023-12-19 00:39:37,713 [DEBUG][check_domain] [Transform URL - inner loop] EXCEPTION THROWN on hh5.net - Command '['dig', 'hh5.net', 'A', '+short']' returned non-zero exit status 9.
+2023-12-19 00:39:39,168 [DEBUG][check_domain] hh5.org --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 00:39:41,776 [DEBUG][check_domain] hh5.co --found: A Record: 76.223.54.146 13.248.169.48  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 00:39:44,748 [DEBUG][check_domain] hhz.net --found: A Record: 103.239.246.45  MX Record: 5 mxn.mxhichina.com. SOA Record: ns1.hwclouds-dns.com. hwclouds\.cs.huawei.com. 1 7200 900 1209600 300
+2023-12-19 00:39:45,779 [DEBUG][check_domain] hhz.org --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-19 00:39:47,660 [DEBUG][check_domain] hhz.io --found: A Record: 15.197.148.33 3.33.130.190  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns73.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 00:39:48,602 [DEBUG][check_domain] hhz.tv --found: A Record: 3.64.163.50   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 00:39:49,191 [DEBUG][check_domain] hhz.co --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 00:39:50,804 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:39:50,806 [INFO][run] Domain specified via command line: homecaresolutions.com
+2023-12-19 00:39:50,807 [INFO][run] Root: homecaresolutions
+2023-12-19 00:39:55,961 [INFO][run] Number of base strings to check: 3
+2023-12-19 00:39:55,962 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:39:55,963 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:39:59,531 [DEBUG][check_domain] homecaresolutions.com --found: A Record: 208.97.147.88  MX Record: 0 mx1.mailchannels.net. 0 mx2.mailchannels.net. SOA Record: ns1.dreamhost.com. hostmaster.dreamhost.com. 2023102300 14464 600 1814400 300
+2023-12-19 00:40:00,157 [DEBUG][check_domain] homecaresolutions.net --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns11.domaincontrol.com. dns.jomax.net. 2023050400 28800 7200 604800 600
+2023-12-19 00:40:01,823 [DEBUG][check_domain] homecaresolutions.org --found: A Record: 35.186.223.180   SOA Record: ns1.verification-hold.suspended-domain.com. admin.suspended-domain.com. 2012022012 7200 7200 172800 7200
+2023-12-19 00:40:04,366 [DEBUG][check_domain] homecaresolutions.co --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns03.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+2023-12-19 00:40:04,877 [DEBUG][check_domain] homecaresolutions.biz --found: A Record: 185.230.63.171 185.230.63.107 185.230.63.186  MX Record: 50 alt4.aspmx.l.google.com. 40 alt3.aspmx.l.google.com. 30 alt2.aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 10 aspmx.l.google.com. SOA Record: ns4.wixdns.net. support.wix.com. 2019011914 10800 3600 604800 3600
+2023-12-19 00:44:39,973 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:44:39,975 [INFO][run] Domain specified via command line: homewellcare.com
+2023-12-19 00:44:39,976 [INFO][run] Root: homewellcare
+2023-12-19 00:44:44,292 [INFO][run] Number of base strings to check: 3
+2023-12-19 00:44:44,293 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:44:44,294 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:44:46,171 [DEBUG][check_domain] homewellcare.com --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 00:48:09,855 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:48:09,858 [INFO][run] Domain specified via command line: hopecure.com
+2023-12-19 00:48:09,858 [INFO][run] Root: hopecure
+2023-12-19 00:48:13,629 [INFO][run] Number of base strings to check: 9
+2023-12-19 00:48:13,630 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:48:13,630 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:48:15,056 [DEBUG][check_domain] hopecure.com --found: A Record: 207.148.248.143   SOA Record: ns.buydomains.com. hostmaster.buydomains.com. 115003009 86400 7200 604800 300
+2023-12-19 00:53:35,283 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:53:35,286 [INFO][run] Domain specified via command line: imagingtechsolutions.com
+2023-12-19 00:53:35,286 [INFO][run] Root: imagingtechsolutions
+2023-12-19 00:53:37,723 [INFO][run] Number of base strings to check: 1
+2023-12-19 00:53:37,724 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:53:37,724 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:53:48,656 [DEBUG][check_domain] imagingtechsolutions.com --found: A Record: 50.87.249.237  MX Record: 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. SOA Record: ns1.bluehost.com. root.box2085.bluehost.com. 2023112400 86400 7200 3600000 300
+2023-12-19 00:55:47,217 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 00:55:47,219 [INFO][run] Domain specified via command line: implantdent.com
+2023-12-19 00:55:47,220 [INFO][run] Root: implantdent
+2023-12-19 00:55:51,395 [INFO][run] Number of base strings to check: 9
+2023-12-19 00:55:51,396 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 00:55:51,397 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 00:55:53,560 [DEBUG][check_domain] implantdent.com --found: A Record: 66.45.246.141   SOA Record: ns1.domainrecover.com. hostmaster.domainreover.com. 1623031840 3600 600 6048000 600
+2023-12-19 00:55:55,526 [DEBUG][check_domain] implantdent.net --found: A Record: 81.88.57.68  MX Record: 5 mail-fr.securemail.pro. 9 mail-fr.securemail.pro. SOA Record: paris.amen.fr. root.amen.fr. 2018010302 86400 7200 2592000 300
+2023-12-19 00:55:56,930 [DEBUG][check_domain] implantdent.org --found: A Record: 104.21.3.130 172.67.130.184 AAAA Record: 2606:4700:3037::ac43:82b8 2606:4700:3037::6815:382  SOA Record: carlane.ns.cloudflare.com. dns.cloudflare.com. 2327241325 10000 2400 604800 1800
+2023-12-19 00:55:59,379 [DEBUG][check_domain] implantdent.co --found: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 34.226.10.90 54.236.141.185 AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+2023-12-19 00:59:16,155 [DEBUG][check_domain] implantsdent.com --found: A Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 34.205.242.146 54.161.222.85 AAAA Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121801 28800 5000 1209600 10800
+2023-12-19 01:06:28,795 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:06:28,797 [INFO][run] Domain specified via command line: coastalbendpain.com
+2023-12-19 01:06:28,798 [INFO][run] Root: coastalbendpain
+2023-12-19 01:06:33,518 [INFO][run] Number of base strings to check: 3
+2023-12-19 01:06:33,519 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:06:33,519 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:06:36,060 [DEBUG][check_domain] coastalbendpain.com --found: A Record: 185.230.63.171 185.230.63.186 185.230.63.107  MX Record: 0 coastalbendpain-com.mail.protection.outlook.com. SOA Record: ns4.wixdns.net. support.wix.com. 2018041200 10800 3600 604800 3600
+2023-12-19 01:11:06,989 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:11:06,992 [INFO][run] Domain specified via command line: kimberly-clark.com
+2023-12-19 01:11:06,992 [INFO][run] Root: kimberly-clark
+2023-12-19 01:11:11,438 [INFO][run] Number of base strings to check: 1
+2023-12-19 01:11:11,438 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:11:11,439 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:11:13,650 [DEBUG][check_domain] kimberly-clark.com --found: A Record: 165.28.216.53 165.28.242.53  MX Record: 10 mxb-002d0701.gslb.pphosted.com. 10 mxa-002d0701.gslb.pphosted.com. SOA Record: ns1.kcc.com. hostmaster.kcc.com. 2023121501 10800 2400 864000 3600
+2023-12-19 01:11:14,523 [DEBUG][check_domain] kimberly-clark.net --found: A Record: 205.203.71.250   SOA Record: ns7.kcc.com. hostmaster.kcc.com. 2018101902 10800 3600 1209600 86400
+2023-12-19 01:11:15,595 [DEBUG][check_domain] kimberly-clark.org --found: A Record: 192.64.119.213  MX Record: 10 mx2.privateemail.com. 10 mx1.privateemail.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1685464767 43200 3600 604800 3601
+2023-12-19 01:11:18,085 [DEBUG][check_domain] kimberly-clark.co --found: A Record: 70.32.1.32  MX Record: 10 park-mx.above.com. SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023121901 10800 3600 604800 3600
+2023-12-19 01:11:18,686 [DEBUG][check_domain] kimberly-clark.biz --found:    SOA Record: ns1.digitalocean.com. hostmaster.kimberly-clark.biz. 1614781860 10800 3600 604800 1800
+2023-12-19 01:11:48,519 [DEBUG][check_domain] kimberiy-clark.com --found:    SOA Record: dns21.hichina.com. hostmaster.hichina.com. 2023030408 3600 1200 86400 600
+2023-12-19 01:12:08,507 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:12:08,510 [INFO][run] Domain specified via command line: labconnect.com
+2023-12-19 01:12:08,510 [INFO][run] Root: labconnect
+2023-12-19 01:12:12,515 [INFO][run] Number of base strings to check: 7
+2023-12-19 01:12:12,516 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:12:12,517 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:12:14,101 [DEBUG][check_domain] labconnect.com --found: A Record: 35.239.44.108  MX Record: 20 d193973b.ess.barracudanetworks.com. 10 d193973a.ess.barracudanetworks.com. SOA Record: ns1-02.azure-dns.com. azuredns-hostmaster.microsoft.com. 2020062305 3600 300 2419200 300
+2023-12-19 01:12:17,100 [DEBUG][check_domain] labconnect.org --found: A Record: 52.20.84.62  MX Record: 10 mx2-forward.squadhelp.com. 10 mx1-forward.squadhelp.com. SOA Record: ns1.squadhelp.com. admin.squadhelp.com. 2008080300 1800 3600 604800 3600
+2023-12-19 01:12:19,111 [DEBUG][check_domain] labconnect.io --found: A Record: 162.255.119.132  MX Record: 10 eforward3.registrar-servers.com. 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1650076727 43200 3600 604800 3601
+2023-12-19 01:12:26,223 [DEBUG][check_domain] iabconnect.com --found: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212 AAAA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121901 28800 5000 1209600 10800
+2023-12-19 01:12:29,044 [DEBUG][check_domain] iabconnect.org --found: A Record: 62.182.19.215  MX Record: 1 iabconnect-org.mail.protection.outlook.com. SOA Record: dns.uk-noc.com. root.server.iabeducation.co.uk. 2023110100 14400 7200 2419200 86400
+2023-12-19 01:12:56,493 [DEBUG][check_domain] labsconnect.com --found: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.19.116.195 3.18.7.81 AAAA Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121901 28800 5000 1209600 10800
+2023-12-19 01:12:58,877 [DEBUG][check_domain] labsconnect.net --found: A Record: 103.231.8.232  MX Record: 10 mail.labsconnect.net. SOA Record: ns4.ctrls.in. hostmaster.ctrls.in. 2019022200 28800 7200 1209600 86400
+2023-12-19 01:14:35,177 [DEBUG][check_domain] labconnects.com --found: A Record: 198.49.23.145 198.185.159.144 198.185.159.145 198.49.23.144   SOA Record: dns1.p01.nsone.net. hostmaster.nsone.net. 1701747514 43200 7200 1209600 3600
+2023-12-19 01:16:24,064 [DEBUG][check_domain] labsconnects.com --found:   MX Record: 0 labsconnects-com.mail.protection.outlook.com. SOA Record: ns1.bdm.microsoftonline.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+2023-12-19 01:18:21,250 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:18:21,253 [INFO][run] Domain specified via command line: labcorp.com
+2023-12-19 01:18:21,253 [INFO][run] Root: labcorp
+2023-12-19 01:18:24,795 [INFO][run] Number of base strings to check: 7
+2023-12-19 01:18:24,795 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:18:24,796 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:18:25,877 [DEBUG][check_domain] labcorp.com --found: A Record: 104.16.161.134 104.16.160.134  MX Record: 10 mx0a-00266502.pphosted.com. 10 mx0b-00266502.pphosted.com. SOA Record: dns3.labcorp.com. please_set_email.absolutely.nowhere. 2014093159 10800 3600 2419200 900
+2023-12-19 01:18:26,672 [DEBUG][check_domain] labcorp.net --found:    SOA Record: dns3.labcorp.com. please_set_email.absolutely.nowhere. 2023092502 10800 3600 2419200 900
+2023-12-19 01:18:28,482 [DEBUG][check_domain] labcorp.org --found: A Record: 165.160.13.20 165.160.15.20  MX Record: 10 custmx.cscdns.net. SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2022070802 28800 7200 604800 14400
+2023-12-19 01:18:30,271 [DEBUG][check_domain] labcorp.io --found:    SOA Record: ns-310.awsdns-38.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-19 01:18:31,285 [DEBUG][check_domain] labcorp.co --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-19 01:18:31,852 [DEBUG][check_domain] labcorp.biz --found: A Record: 13.248.213.45 76.223.67.189   SOA Record: ns75.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+2023-12-19 01:18:32,490 [DEBUG][check_domain] 1abcorp.com --found: A Record: 13.248.213.45 76.223.67.189   SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+2023-12-19 01:18:37,860 [DEBUG][check_domain] iabcorp.com --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+2023-12-19 01:18:52,917 [DEBUG][check_domain] labc0rp.com --found: A Record: 104.247.82.171   SOA Record: ns1.parkingcrew.net. hostmaster.labc0rp.com. 1702970000 28800 7200 604800 86400
+2023-12-19 01:19:03,126 [DEBUG][check_domain] labscorp.com --found: A Record: 91.195.240.135  MX Record: 83 route3.mx.cloudflare.net. 16 route2.mx.cloudflare.net. 51 route1.mx.cloudflare.net. SOA Record: gemma.ns.cloudflare.com. dns.cloudflare.com. 2324012430 10000 2400 604800 1800
+2023-12-19 01:19:50,044 [DEBUG][check_domain] labs-corp.net --found:   MX Record: 10 mail.go4labs.net. SOA Record: dns1.go4labs.net. hostmaster.labs-corp.net. 2022012701 10800 300 604800 300
+2023-12-19 01:20:32,549 [DEBUG][check_domain] labcorps.com --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+2023-12-19 01:20:37,408 [DEBUG][check_domain] 1abcorps.com --found: A Record: 13.248.213.45 76.223.67.189   SOA Record: ns53.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+2023-12-19 01:21:57,750 [DEBUG][check_domain] labscorps.com --found: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 52.71.57.184 54.209.32.212 AAAA Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121901 28800 5000 1209600 10800
+2023-12-19 01:23:46,844 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:23:46,846 [INFO][run] Domain specified via command line: lifestart.com
+2023-12-19 01:23:46,847 [INFO][run] Root: lifestart
+2023-12-19 01:23:50,698 [INFO][run] Number of base strings to check: 7
+2023-12-19 01:23:50,699 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:23:50,699 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:23:52,219 [DEBUG][check_domain] lifestart.com --found: A Record: 3.33.152.147 15.197.142.173  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns63.domaincontrol.com. dns.jomax.net. 2021101600 28800 7200 604800 3600
+2023-12-19 01:23:52,869 [DEBUG][check_domain] lifestart.net --found: A Record: 52.176.106.136  MX Record: 0 lifestart-net.mail.protection.outlook.com. SOA Record: pdns11.domaincontrol.com. dns.jomax.net. 2022022205 28800 7200 604800 600
+2023-12-19 01:23:54,065 [DEBUG][check_domain] lifestart.org --found: A Record: 15.197.142.173 3.33.152.147  MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net. SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2021101600 28800 7200 604800 3600
+2023-12-19 01:23:56,059 [DEBUG][check_domain] lifestart.tv --found: A Record: 15.197.142.173 3.33.152.147   SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2021102100 28800 7200 604800 600
+2023-12-19 01:23:57,211 [DEBUG][check_domain] lifestart.biz --found: A Record: 162.241.148.11  MX Record: 0 lifestart.biz. SOA Record: ns1.md-ht-6.webhostbox.net. cpanel.webhostbox.net. 2023102900 3600 7200 1209600 86400
+2023-12-19 01:27:06,126 [DEBUG][check_domain] lifestarts.org --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns41.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 01:31:46,120 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:31:46,122 [INFO][run] Domain specified via command line: lungwell.com
+2023-12-19 01:31:46,123 [INFO][run] Root: lungwell
+2023-12-19 01:31:49,947 [INFO][run] Number of base strings to check: 7
+2023-12-19 01:31:49,948 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:31:49,948 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:31:51,421 [DEBUG][check_domain] lungwell.com --found: A Record: 15.197.148.33 3.33.130.190   SOA Record: ns29.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+2023-12-19 01:39:25,830 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:39:25,833 [INFO][run] Domain specified via command line: medequip.com
+2023-12-19 01:39:25,833 [INFO][run] Root: medequip
+2023-12-19 01:39:26,538 [INFO][run] Number of base strings to check: 1
+2023-12-19 01:39:26,539 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:39:26,539 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:39:27,889 [DEBUG][check_domain] medequip.com --found: A Record: 159.203.124.37  MX Record: 0 medequip.com. SOA Record: ns4.corecommhosting.com. kennysay.gmail.com. 2023120201 3600 1800 1209600 86400
+2023-12-19 01:39:28,490 [DEBUG][check_domain] medequip.net --found: A Record: 70.32.23.49 208.91.197.27   SOA Record: NS83.WORLDNIC.COM. namehost.WORLDNIC.COM. 120092312 10800 3600 604800 3600
+2023-12-19 01:39:30,491 [DEBUG][check_domain] medequip.org --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 01:39:34,199 [DEBUG][check_domain] medequip.co --found: A Record: 43.245.52.70   SOA Record: ns.freeparking.co.nz. hostmaster.freeparking.co.nz. 170037990 86400 7200 3600000 28800
+2023-12-19 01:40:12,261 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:40:12,264 [INFO][run] Domain specified via command line: medexplore.com
+2023-12-19 01:40:12,264 [INFO][run] Root: medexplore
+2023-12-19 01:40:13,305 [INFO][run] Number of base strings to check: 1
+2023-12-19 01:40:13,306 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:40:13,307 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:40:15,020 [DEBUG][check_domain] medexplore.com --found: A Record: 15.197.142.173 3.33.152.147   SOA Record: ns71.domaincontrol.com. dns.jomax.net. 2021103100 28800 7200 604800 600
+2023-12-19 01:40:16,259 [DEBUG][check_domain] medexplore.net --found: A Record: 52.213.114.86  MX Record: 0 localhost. SOA Record: suspended.mydomainprovider.com. hostmaster.mydomainprovider.com. 2020010101 10800 3600 604800 38400
+2023-12-19 01:40:24,571 [DEBUG][check_domain] medexplore.org --found: A Record: 52.213.114.86  MX Record: 0 localhost. SOA Record: suspended.mydomainprovider.com. hostmaster.mydomainprovider.com. 2020010101 10800 3600 604800 38400
+2023-12-19 01:41:10,691 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:41:10,694 [INFO][run] Domain specified via command line: bcbstx.com
+2023-12-19 01:41:10,694 [INFO][run] Root: bcbstx
+2023-12-19 01:41:11,131 [INFO][run] Number of base strings to check: 1
+2023-12-19 01:41:11,132 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:41:11,132 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:41:11,958 [DEBUG][check_domain] bcbstx.com --found: A Record: 52.177.30.255  MX Record: 10 mxb-00239701.gslb.pphosted.com. 10 mxa-00239701.gslb.pphosted.com. SOA Record: pdns166.ultradns.com. burget1.bcbsil.com. 2017081531 10800 3600 2592000 7205
+2023-12-19 01:41:12,416 [DEBUG][check_domain] bcbstx.net --found: A Record: 204.74.99.100   SOA Record: pdns166.ultradns.com. sgreaney.bcbsil.com. 2015031608 86400 86400 86400 86400
+2023-12-19 01:41:13,238 [DEBUG][check_domain] bcbstx.org --found: A Record: 205.172.134.52   SOA Record: NS59.WORLDNIC.COM. namehost.WORLDNIC.COM. 122022517 10800 3600 604800 3600
+2023-12-19 01:41:15,075 [DEBUG][check_domain] bcbstx.tv --found: A Record: 204.74.99.100   SOA Record: pdns166.ultradns.com. sgreaney.bcbsil.com. 2015030407 86400 86400 86400 86400
+2023-12-19 01:41:15,656 [DEBUG][check_domain] bcbstx.co --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-19 01:41:40,341 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 01:41:40,343 [INFO][run] Domain specified via command line: medicalequipmentsolutions.com
+2023-12-19 01:41:40,344 [INFO][run] Root: medicalequipmentsolutions
+2023-12-19 01:41:46,468 [INFO][run] Number of base strings to check: 5
+2023-12-19 01:41:46,469 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 01:41:46,469 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 01:47:22,013 [DEBUG][check_domain] medicalequipmentsolutions.com --found: A Record: 13.248.165.111 76.223.49.192  MX Record: 10 medicalequipmentsolutions-com.mail.protection.outlook.com. SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023060500 28800 7200 604800 3600
+2023-12-19 01:47:22,918 [DEBUG][check_domain] medicalequipmentsolutions.net --found: A Record: 64.190.63.222  MX Record: 0 localhost. SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+2023-12-19 03:12:07,892 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:12:07,894 [INFO][run] Domain specified via command line: coastalbendcac.org
+2023-12-19 03:12:07,895 [INFO][run] Root: coastalbendcac
+2023-12-19 03:12:12,499 [INFO][run] Number of base strings to check: 3
+2023-12-19 03:12:12,500 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:12:12,501 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:12:16,628 [DEBUG][check_domain] coastalbendcac.org --found: A Record: 198.49.23.144 198.49.23.145 198.185.159.144 198.185.159.145  MX Record: 0 coastalbendcac-org.mail.protection.outlook.com. SOA Record: ns41.domaincontrol.com. dns.jomax.net. 2023092700 28800 7200 604800 600
+2023-12-19 03:15:50,690 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:15:50,692 [INFO][run] Domain specified via command line: medtech.com
+2023-12-19 03:15:50,692 [INFO][run] Root: medtech
+2023-12-19 03:15:51,269 [INFO][run] Number of base strings to check: 1
+2023-12-19 03:15:51,270 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:15:51,270 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:15:52,445 [DEBUG][check_domain] medtech.com --found: A Record: 208.91.197.27  MX Record: 10 mx003.netsol.xion.oxcs.net. 10 mx004.netsol.xion.oxcs.net. 10 mx002.netsol.xion.oxcs.net. 10 mx001.netsol.xion.oxcs.net. SOA Record: NS25.WORLDNIC.com. namehost.WORLDNIC.com. 123091604 10800 3600 604800 3600
+2023-12-19 03:15:52,993 [DEBUG][check_domain] medtech.net --found: A Record: 217.160.0.130 AAAA Record: 2001:8d8:100f:f000::2c3 MX Record: 10 mx01.kundenserver.de. 10 mx00.kundenserver.de. SOA Record: ns1023.ui-dns.com. hostmaster.kundenserver.de. 2016071905 28800 7200 604800 300
+2023-12-19 03:15:54,498 [DEBUG][check_domain] medtech.org --found: A Record: 67.43.0.155  MX Record: 10 medtech-org.mail.protection.outlook.com. SOA Record: aragorn.ns.cloudflare.com. dns.cloudflare.com. 2325648953 10000 2400 604800 1800
+2023-12-19 03:15:55,104 [DEBUG][check_domain] medtech.edu --found: A Record: 192.185.52.125  MX Record: 0 medtech-edu.mail.protection.outlook.com. SOA Record: ns8281.hostgator.com. dnsadmin.gator4141.hostgator.com. 2023121400 86400 7200 3600000 86400
+2023-12-19 03:15:56,855 [DEBUG][check_domain] medtech.io --found: A Record: 91.195.240.82   SOA Record: ns1.name.com. hostmaster.nsone.net. 1578434004 7200 3600 604800 300
+2023-12-19 03:15:57,960 [DEBUG][check_domain] medtech.co --found: A Record: 13.248.169.48 76.223.54.146   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 03:15:58,534 [DEBUG][check_domain] medtech.biz --found: A Record: 199.188.201.173  MX Record: 20 mx3-hosting.jellyfish.systems. 10 mx2-hosting.jellyfish.systems. 5 mx1-hosting.jellyfish.systems. SOA Record: dns1.namecheaphosting.com. cpanel.tech.namecheap.com. 1700467346 86400 7200 3600000 86400
+2023-12-19 03:16:03,757 [DEBUG][check_domain] m3dtech.com --found: A Record: 66.96.149.22  MX Record: 30 mx.m3dtech.com. SOA Record: ns1.mydomain.com. dnsadmin.mydomain.com. 2012072758 10800 3600 604800 3600
+2023-12-19 03:16:04,322 [DEBUG][check_domain] m3dtech.net --found: A Record: 15.197.148.33 3.33.130.190   SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 03:16:07,226 [DEBUG][check_domain] m3dtech.io --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 03:16:08,238 [DEBUG][check_domain] m3dtech.co --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 03:16:24,653 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:16:24,655 [INFO][run] Domain specified via command line: mentalhealthtx.org
+2023-12-19 03:16:24,656 [INFO][run] Root: mentalhealthtx
+2023-12-19 03:16:29,182 [INFO][run] Number of base strings to check: 3
+2023-12-19 03:16:29,182 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:16:29,183 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:16:31,436 [DEBUG][check_domain] mentalhealthtx.com --found: A Record: 76.223.54.146 13.248.169.48  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 03:16:32,126 [DEBUG][check_domain] mentalhealthtx.net --found: A Record: 205.178.189.129   SOA Record: NS53.WORLDNIC.COM. namehost.WORLDNIC.COM. 117062811 10800 3600 604800 3600
+2023-12-19 03:16:33,422 [DEBUG][check_domain] mentalhealthtx.org --found: A Record: 35.238.57.18   SOA Record: NS51.WORLDNIC.COM. namehost.WORLDNIC.COM. 121122210 10800 3600 604800 3600
+2023-12-19 03:20:07,860 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:20:07,863 [INFO][run] Domain specified via command line: mindbalance.com
+2023-12-19 03:20:07,863 [INFO][run] Root: mindbalance
+2023-12-19 03:20:12,012 [INFO][run] Number of base strings to check: 9
+2023-12-19 03:20:12,013 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:20:12,014 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:20:13,729 [DEBUG][check_domain] mindbalance.com --found: A Record: 45.33.20.235 45.33.2.79 45.79.19.196 45.33.18.44 96.126.123.244 45.56.79.23 173.255.194.134 198.58.118.167 45.33.30.197 72.14.178.174 45.33.23.183 72.14.185.43  MX Record: 1 mail.mailerhost.net. SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+2023-12-19 03:20:14,368 [DEBUG][check_domain] mindbalance.net --found: A Record: 13.248.243.5 76.223.105.230   SOA Record: ns31.domaincontrol.com. dns.jomax.net. 2023092201 28800 7200 604800 600
+2023-12-19 03:20:15,683 [DEBUG][check_domain] mindbalance.org --found:    SOA Record: ns1.dreamhost.com. hostmaster.dreamhost.com. 2018060400 15867 1800 1814400 14400
+2023-12-19 03:20:17,517 [DEBUG][check_domain] mindbalance.tv --found: A Record: 3.33.152.147 15.197.142.173   SOA Record: ns25.domaincontrol.com. dns.jomax.net. 2023102700 28800 7200 604800 600
+2023-12-19 03:20:18,117 [DEBUG][check_domain] mindbalance.co --found: A Record: 76.223.54.146 13.248.169.48  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 03:20:18,613 [DEBUG][check_domain] mindbalance.biz --found: A Record: 192.124.249.20  MX Record: 0 mindbalance-biz.mail.protection.outlook.com. SOA Record: ns35.domaincontrol.com. dns.jomax.net. 2021032800 28800 7200 604800 600
+2023-12-19 03:25:37,191 [DEBUG][check_domain] mindbalances.com --found: A Record: 185.230.63.107 185.230.63.186 185.230.63.171  MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net. SOA Record: ns2.wixdns.net. support.wix.com. 2020111910 10800 3600 604800 3600
+2023-12-19 03:30:09,215 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:30:09,218 [INFO][run] Domain specified via command line: mindfulcounseling.com
+2023-12-19 03:30:09,219 [INFO][run] Root: mindfulcounseling
+2023-12-19 03:30:14,253 [INFO][run] Number of base strings to check: 7
+2023-12-19 03:30:14,254 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:30:14,255 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:30:17,617 [DEBUG][check_domain] mindfulcounseling.com --found: A Record: 172.67.218.186 104.21.45.201 AAAA Record: 2606:4700:3035::6815:2dc9 2606:4700:3037::ac43:daba MX Record: 10 route2.mx.cloudflare.net. 66 route1.mx.cloudflare.net. 75 route3.mx.cloudflare.net. SOA Record: cleo.ns.cloudflare.com. dns.cloudflare.com. 2324317328 10000 2400 604800 1800
+2023-12-19 03:30:18,203 [DEBUG][check_domain] mindfulcounseling.net --found: A Record: 185.230.63.186 185.230.63.107 185.230.63.171   SOA Record: ns10.wixdns.net. support.wix.com. 2016112901 10800 3600 604800 3600
+2023-12-19 03:30:20,087 [DEBUG][check_domain] mindfulcounseling.org --found: A Record: 65.254.227.240  MX Record: 10 ALT3.ASPMX.L.GOOGLE.COM. 10 ALT4.ASPMX.L.GOOGLE.COM. 5 ALT2.ASPMX.L.GOOGLE.COM. 5 ALT1.ASPMX.L.GOOGLE.COM. 1 ASPMX.L.GOOGLE.COM. SOA Record: ns1.fatcow.com. dnsadmin.fatcow.com. 2009102773 10800 3600 604800 86400
+2023-12-19 03:41:16,187 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:41:16,189 [INFO][run] Domain specified via command line: neuropulse.com
+2023-12-19 03:41:16,190 [INFO][run] Root: neuropulse
+2023-12-19 03:41:17,232 [INFO][run] Number of base strings to check: 1
+2023-12-19 03:41:17,233 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:41:17,233 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:41:19,027 [DEBUG][check_domain] neuropulse.com --found: A Record: 157.230.161.221   SOA Record: ns1.fabulous.com. hostmaster.ns1.fabulous.com. 2019030905 28800 14400 604800 86400
+2023-12-19 03:41:19,939 [DEBUG][check_domain] neuropulse.net --found: A Record: 213.186.33.5  MX Record: 10 mx3.mail.ovh.net. 1 mx4.mail.ovh.net. SOA Record: dns14.ovh.net. tech.ovh.net. 2020121101 86400 3600 3600000 300
+2023-12-19 03:41:21,569 [DEBUG][check_domain] neuropulse.org --found: A Record: 15.197.142.173 3.33.152.147   SOA Record: ns29.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+2023-12-19 03:41:23,284 [DEBUG][check_domain] neuropulse.io --found: A Record: 104.21.37.222 172.67.213.234 AAAA Record: 2606:4700:3036::6815:25de 2606:4700:3037::ac43:d5ea MX Record: 40 alt3.aspmx.l.google.com. 50 alt4.aspmx.l.google.com. 10 aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 30 alt2.aspmx.l.google.com. SOA Record: dilbert.ns.cloudflare.com. dns.cloudflare.com. 2325015788 10000 2400 604800 1800
+2023-12-19 03:41:24,177 [DEBUG][check_domain] neuropulse.co --found: A Record: 3.33.152.147 15.197.142.173  MX Record: 30 alt2.aspmx.l.google.com. 40 aspmx2.googlemail.com. 50 aspmx3.googlemail.com. 10 aspmx.l.google.com. 20 alt1.aspmx.l.google.com. SOA Record: ns39.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+2023-12-19 03:41:24,651 [DEBUG][check_domain] neuropulse.biz --found: A Record: 15.197.142.173 3.33.152.147   SOA Record: ns29.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+2023-12-19 03:42:01,796 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:42:01,798 [INFO][run] Domain specified via command line: nih.gov
+2023-12-19 03:42:01,799 [INFO][run] Root: nih
+2023-12-19 03:42:01,800 [INFO][run] Number of base strings to check: 1
+2023-12-19 03:42:01,801 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:42:01,802 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:42:02,646 [DEBUG][check_domain] nih.com --found: A Record: 156.40.212.210   SOA Record: ns.nih.gov. hostmaster.nih.gov. 10164 10800 3600 2592000 900
+2023-12-19 03:42:03,465 [DEBUG][check_domain] nih.net --found: A Record: 96.126.123.244 45.33.30.197 72.14.178.174 72.14.185.43 45.33.20.235 45.33.23.183 45.33.2.79 45.33.18.44 198.58.118.167 45.79.19.196 173.255.194.134 45.56.79.23  MX Record: 1 mail.mailerhost.net. SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+2023-12-19 03:42:04,682 [DEBUG][check_domain] nih.org --found: A Record: 52.11.37.152 34.224.10.110  MX Record: 20 msgctr2.nih.org. 10 msgctr.nih.org. SOA Record: NS77.WORLDNIC.COM. namehost.WORLDNIC.COM. 122101117 10800 3600 604800 3600
+2023-12-19 03:42:07,279 [DEBUG][check_domain] nih.io --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 03:42:08,329 [DEBUG][check_domain] nih.co --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 03:42:09,005 [DEBUG][check_domain] nih.biz --found: A Record: 35.186.223.180   SOA Record: ns1.verification-hold.suspended-domain.com. admin.suspended-domain.com. 2012022012 7200 7200 172800 7200
+2023-12-19 03:42:09,699 [DEBUG][check_domain] n1h.com --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns09.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 03:42:10,567 [DEBUG][check_domain] n1h.net --found: A Record: 13.248.169.48 76.223.54.146   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 03:42:15,800 [DEBUG][check_domain] nlh.com --found: A Record: 192.64.119.114   SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1640436188 43200 3600 604800 3601
+2023-12-19 03:42:16,523 [DEBUG][check_domain] nlh.net --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 03:42:17,841 [DEBUG][check_domain] nlh.org --found: A Record: 162.215.14.82  MX Record: 10 mail.nlh.org. SOA Record: aB.ns.charter.com. hostmaster.charter.com. 2021102817 86400 3600 3600000 172800
+2023-12-19 03:42:20,367 [DEBUG][check_domain] nlh.io --found: A Record: 86.105.245.69   SOA Record: ns1.eftydns.com. hostmaster.nlh.io. 2023121401 10800 3600 604800 3600
+2023-12-19 03:42:21,337 [DEBUG][check_domain] nlh.co --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-19 03:42:21,981 [DEBUG][check_domain] nlh.biz --found: A Record: 109.70.148.34  MX Record: 10 nlh-biz.mail.protection.outlook.com. SOA Record: ns1045.ui-dns.com. hostmaster.1und1.com. 2017060114 28800 7200 604800 600
+2023-12-19 03:42:23,169 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:42:23,171 [INFO][run] Domain specified via command line: nourishmart.com
+2023-12-19 03:42:23,172 [INFO][run] Root: nourishmart
+2023-12-19 03:42:27,352 [INFO][run] Number of base strings to check: 7
+2023-12-19 03:42:27,353 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:42:27,353 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:42:29,189 [DEBUG][check_domain] nourishmart.com --found: A Record: 204.197.250.10  MX Record: 0 nourishmart.com. SOA Record: ns1.rooted.com. dns.nourishmart.com. 2023102501 3600 7200 1209600 86400
+2023-12-19 03:43:13,916 [DEBUG][check_domain] nourishsmart.com --found: A Record: 13.248.169.48 76.223.54.146  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 03:49:02,405 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:49:02,407 [INFO][run] Domain specified via command line: nuecesco.com
+2023-12-19 03:49:02,408 [INFO][run] Root: nuecesco
+2023-12-19 03:49:03,165 [INFO][run] Number of base strings to check: 1
+2023-12-19 03:49:03,166 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:49:03,167 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:49:04,452 [DEBUG][check_domain] nuecesco.com --found: A Record: 135.84.124.41  MX Record: 10 usb-smtp-inbound-1.mimecast.com. 10 usb-smtp-inbound-2.mimecast.com. SOA Record: dns1.esc2.net. hostmaster.esc2.net. 139 900 600 86400 3600
+2023-12-19 03:49:05,146 [DEBUG][check_domain] nuecesco.net --found: A Record: 64.68.200.44  MX Record: 0 mx-caprica.easydns.com. SOA Record: rush.easydns.com. zone.easydns.com. 1698884655 3600 600 604800 300
+2023-12-19 03:49:32,072 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:49:32,074 [INFO][run] Domain specified via command line: ohtestingusa.com
+2023-12-19 03:49:32,075 [INFO][run] Root: ohtestingusa
+2023-12-19 03:49:33,390 [INFO][run] Number of base strings to check: 1
+2023-12-19 03:49:33,393 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:49:33,393 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:49:35,311 [DEBUG][check_domain] ohtestingusa.com --found: A Record: 50.28.99.12  MX Record: 10 ohtestingusa.com. SOA Record: ns.liquidweb.com. admin.liquidweb.com. 2023080901 86400 7200 3600000 14400
+2023-12-19 03:50:38,283 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:50:38,288 [INFO][run] Domain specified via command line: optivision.com
+2023-12-19 03:50:38,288 [INFO][run] Root: optivision
+2023-12-19 03:50:42,197 [INFO][run] Number of base strings to check: 3
+2023-12-19 03:50:42,197 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:50:42,198 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:50:43,920 [DEBUG][check_domain] optivision.com --found: A Record: 70.36.102.203  MX Record: 5 mail.optivision.com. SOA Record: ns1.dnsowl.com. hostmaster.dnsowl.com. 1702979092 7200 1800 1209600 600
+2023-12-19 03:50:44,536 [DEBUG][check_domain] optivision.net --found: A Record: 76.223.54.146 13.248.169.48   SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+2023-12-19 03:50:45,480 [DEBUG][check_domain] optivision.org --found: A Record: 3.64.163.50   SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+2023-12-19 03:50:47,162 [DEBUG][check_domain] optivision.io --found: A Record: 23.227.38.32  MX Record: 1 mx.optivision.io.cust.b.hostedemail.com. SOA Record: ns-cloud-b1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-19 03:50:47,717 [DEBUG][check_domain] optivision.tv --found: A Record: 103.224.212.211  MX Record: 10 park-mx.above.com. SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023121901 10800 3600 604800 3600
+2023-12-19 03:50:48,249 [DEBUG][check_domain] optivision.co --found: A Record: 15.197.142.173 3.33.152.147  MX Record: 0 optivision-co.mail.protection.outlook.com. SOA Record: ns49.domaincontrol.com. dns.jomax.net. 2021102000 28800 7200 604800 3600
+2023-12-19 03:50:48,848 [DEBUG][check_domain] optivision.biz --found: A Record: 217.160.0.148 AAAA Record: 2001:8d8:100f:f000::28d MX Record: 10 mx00.ionos.co.uk. 10 mx01.ionos.co.uk. SOA Record: ns1062.ui-dns.de. hostmaster.1und1.com. 2017060104 28800 7200 604800 600
+2023-12-19 03:54:10,992 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 03:54:10,995 [INFO][run] Domain specified via command line: orcharddds.com
+2023-12-19 03:54:10,995 [INFO][run] Root: orcharddds
+2023-12-19 03:54:15,023 [INFO][run] Number of base strings to check: 7
+2023-12-19 03:54:15,024 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 03:54:15,025 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 03:54:16,559 [DEBUG][check_domain] orcharddds.com --found: A Record: 34.72.192.10  MX Record: 10 orcharddds-com.mx1.arsmtp.com. 20 orcharddds-com.mx2.arsmtp.com. SOA Record: hugh.ns.cloudflare.com. dns.cloudflare.com. 2327191027 10000 2400 604800 1800
+2023-12-19 04:00:09,129 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 04:00:09,132 [INFO][run] Domain specified via command line: orthofocus.com
+2023-12-19 04:00:09,132 [INFO][run] Root: orthofocus
+2023-12-19 04:00:13,152 [INFO][run] Number of base strings to check: 3
+2023-12-19 04:00:13,153 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 04:00:13,154 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 04:00:16,278 [DEBUG][check_domain] orthofocus.com --found: A Record: 95.130.17.35  MX Record: 0 mail.orthofocus.com. SOA Record: dns.dns1.de. hostmaster.internetwire.de. 2018112201 28800 7200 604800 86400
+2023-12-19 04:03:44,397 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 04:03:44,399 [INFO][run] Domain specified via command line: orthopro.com
+2023-12-19 04:03:44,400 [INFO][run] Root: orthopro
+2023-12-19 04:03:48,186 [INFO][run] Number of base strings to check: 3
+2023-12-19 04:03:48,186 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 04:03:48,187 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 04:03:49,532 [DEBUG][check_domain] orthopro.com --found: A Record: 13.248.169.48 76.223.54.146  MX Record: 0 . SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+2023-12-19 04:03:50,152 [DEBUG][check_domain] orthopro.net --found: A Record: 67.20.76.211  MX Record: 0 orthopro-net.mail.protection.outlook.com. SOA Record: ns1.hostmonster.com. root.host2035.hostmonster.com. 2021102400 86400 7200 3600000 300
+2023-12-19 04:03:53,694 [DEBUG][check_domain] orthopro.co --found: A Record: 108.167.143.217  MX Record: 0 mail.orthopro.co. SOA Record: ns8357.hostgator.com. dnsadmin.gator4179.hostgator.com. 2023121301 86400 7200 3600000 86400
+2023-12-19 04:03:54,552 [DEBUG][check_domain] orthopro.biz --found: A Record: 66.39.151.238  MX Record: 50 mailwash61.pair.com. SOA Record: ns533.pair.com. root.pair.com. 2023052715 3600 300 604800 3600
+2023-12-19 04:04:18,219 [DEBUG][check_domain] orthopros.com --found: A Record: 15.197.142.173 3.33.152.147   SOA Record: ns43.domaincontrol.com. dns.jomax.net. 2021101600 28800 7200 604800 600
+2023-12-19 04:04:18,885 [DEBUG][check_domain] orthopros.net --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+2023-12-19 04:04:20,364 [DEBUG][check_domain] orthopros.org --found: A Record: 76.223.105.230 13.248.243.5  MX Record: 0 mx1-us1.ppe-hosted.com. 5 mx2-us1.ppe-hosted.com. SOA Record: ns51.domaincontrol.com. dns.jomax.net. 2023081400 28800 7200 604800 3600
+2023-12-19 04:04:23,083 [DEBUG][check_domain] orthopros.co --found: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 54.236.141.185 34.226.10.90 AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+2023-12-19 04:04:54,610 [DEBUG][check_domain] orthoproz.com --found: A Record: 3.33.130.190 15.197.148.33   SOA Record: ns35.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 04:04:59,093 [DEBUG][check_domain] ortho-pros.com --found: A Record: 216.139.213.144  MX Record: 0 orthopros-com01c.mail.protection.outlook.com. SOA Record: ns77.domaincontrol.com. dns.jomax.net. 2020061513 28800 7200 604800 600
+2023-12-19 04:04:59,634 [DEBUG][check_domain] ortho-pros.net --found:   MX Record: 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 1 aspmx.l.google.com. SOA Record: ns-cloud-b1.googledomains.com. cloud-dns-hostmaster.google.com. 3 21600 3600 259200 300
+2023-12-19 04:05:38,209 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 04:05:38,211 [INFO][run] Domain specified via command line: painease.com
+2023-12-19 04:05:38,212 [INFO][run] Root: painease
+2023-12-19 04:05:41,964 [INFO][run] Number of base strings to check: 7
+2023-12-19 04:05:41,965 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 04:05:41,966 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 04:05:43,308 [DEBUG][check_domain] painease.com --found: A Record: 216.239.36.21 216.239.34.21 216.239.38.21 216.239.32.21 AAAA Record: 2001:4860:4802:32::15 2001:4860:4802:38::15 2001:4860:4802:36::15 2001:4860:4802:34::15  SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 4 21600 3600 259200 300
+2023-12-19 04:05:44,309 [DEBUG][check_domain] painease.net --found: A Record: 15.197.204.56 3.33.243.145  MX Record: 0 . SOA Record: ns01.cashparking.com. dns.jomax.net. 2023060100 28800 7200 604800 86400
+2023-12-19 04:05:45,947 [DEBUG][check_domain] painease.org --found: A Record: 23.227.38.67  MX Record: 1 mx.painease.org.cust.b.hostedemail.com. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-19 04:05:48,823 [DEBUG][check_domain] painease.co --found: A Record: 23.227.38.36  MX Record: 10 mx.zoho.eu. 50 mx3.zoho.eu. 20 mx2.zoho.eu. SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+2023-12-19 04:06:21,432 [DEBUG][check_domain] paineaze.com --found: A Record: 3.33.130.190 15.197.148.33  MX Record: 20 mx2.improvmx.com. 10 mx1.improvmx.com. SOA Record: ns33.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-19 04:12:34,810 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 04:12:34,812 [INFO][run] Domain specified via command line: pathoview.com
+2023-12-19 04:12:34,813 [INFO][run] Root: pathoview
+2023-12-19 04:12:38,680 [INFO][run] Number of base strings to check: 5
+2023-12-19 04:12:38,681 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 04:12:38,682 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 04:12:40,125 [DEBUG][check_domain] pathoview.com --found: A Record: 157.90.91.31  MX Record: 10 mx.yandex.net. SOA Record: ns1.eurodns.com. hostmaster.eurodns.com. 2023060200 43200 7200 1209600 86400
+2023-12-19 04:17:41,839 [INFO][__init__] 
+
+[36m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-19 04:17:41,842 [INFO][run] Domain specified via command line: coastalbendwellnesspharmacy.com
+2023-12-19 04:17:41,842 [INFO][run] Root: coastalbendwellnesspharmacy
+2023-12-19 04:17:48,233 [INFO][run] Number of base strings to check: 3
+2023-12-19 04:17:48,234 [INFO][run] Number of char substitutions coded: 1
+2023-12-19 04:17:48,235 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-19 04:42:17,600 [DEBUG][check_domain] coastalbendwellnesspharmacy.com --found: A Record: 12.186.50.147   SOA Record: ns03.domaincontrol.com. dns.jomax.net. 2019080600 28800 7200 604800 600
+2023-12-19 04:42:18,279 [DEBUG][check_domain] coastalbendwellnesspharmacy.net --found: A Record: 104.21.88.11 172.67.171.236 AAAA Record: 2606:4700:3037::6815:580b 2606:4700:3033::ac43:abec  SOA Record: dee.ns.cloudflare.com. dns.cloudflare.com. 2323753703 10000 2400 604800 1800
+2023-12-19 04:42:19,431 [DEBUG][check_domain] coastalbendwellnesspharmacy.org --found:    SOA Record: dee.ns.cloudflare.com. dns.cloudflare.com. 2325057673 10000 2400 604800 1800

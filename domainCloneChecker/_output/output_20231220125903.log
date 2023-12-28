@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:59:04.970891
+
+neuropulse.com: A Record: 157.230.161.221,,,SOA Record: ns1.fabulous.com. hostmaster.ns1.fabulous.com. 2019030905 28800 14400 604800 86400
+
+neuropulse.net: A Record: 213.186.33.5,,MX Record: 10 mx3.mail.ovh.net. 1 mx4.mail.ovh.net.,SOA Record: dns14.ovh.net. tech.ovh.net. 2020121101 86400 3600 3600000 300
+
+neuropulse.org: A Record: 15.197.142.173 3.33.152.147,,,SOA Record: ns29.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+
+neuropulse.io: A Record: 104.21.37.222 172.67.213.234,AAAA Record: 2606:4700:3036::6815:25de 2606:4700:3037::ac43:d5ea,MX Record: 40 alt3.aspmx.l.google.com. 50 alt4.aspmx.l.google.com. 10 aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 30 alt2.aspmx.l.google.com.,SOA Record: dilbert.ns.cloudflare.com. dns.cloudflare.com. 2325015788 10000 2400 604800 1800
+
+neuropulse.co: A Record: 3.33.152.147 15.197.142.173,,MX Record: 10 aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 30 alt2.aspmx.l.google.com. 40 aspmx2.googlemail.com. 50 aspmx3.googlemail.com.,SOA Record: ns39.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+
+neuropulse.biz: A Record: 15.197.142.173 3.33.152.147,,,SOA Record: ns29.domaincontrol.com. dns.jomax.net. 2021101700 28800 7200 604800 600
+
+
+Sites found: ['neuropulse.com', 'neuropulse.net', 'neuropulse.org', 'neuropulse.io', 'neuropulse.co', 'neuropulse.biz']
+
+
+
+TimeStamp: 2023-12-20 12:59:47.203266
+############# END OF RUN #############

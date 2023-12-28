@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:37:55.387044
+
+kimberly-clark.com: A Record: 165.28.216.53 165.28.242.53,,MX Record: 10 mxb-002d0701.gslb.pphosted.com. 10 mxa-002d0701.gslb.pphosted.com.,SOA Record: ns1.kcc.com. hostmaster.kcc.com. 2023121501 10800 2400 864000 3600
+
+kimberly-clark.net: A Record: 205.203.71.250,,,SOA Record: ns7.kcc.com. hostmaster.kcc.com. 2018101902 10800 3600 1209600 86400
+
+kimberly-clark.org: A Record: 192.64.119.213,,MX Record: 10 mx1.privateemail.com. 10 mx2.privateemail.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1685464767 43200 3600 604800 3601
+
+kimberly-clark.co: A Record: 70.32.1.32,,MX Record: 10 park-mx.above.com.,SOA Record: ns1.abovedomains.com. hostmaster.trellian.com. 2023122101 10800 3600 604800 3600
+
+kimberly-clark.biz: ,,,SOA Record: ns1.digitalocean.com. hostmaster.kimberly-clark.biz. 1614781860 10800 3600 604800 1800
+
+kimberiy-clark.com: ,,,SOA Record: dns21.hichina.com. hostmaster.hichina.com. 2023030408 3600 1200 86400 600
+
+
+Sites found: ['kimberly-clark.com', 'kimberly-clark.net', 'kimberly-clark.org', 'kimberly-clark.co', 'kimberly-clark.biz', 'kimberiy-clark.com']
+
+
+
+TimeStamp: 2023-12-20 11:39:01.083239
+############# END OF RUN #############

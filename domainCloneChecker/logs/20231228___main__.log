@@ -1,0 +1,59 @@
+2023-12-27 18:57:18,413 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-27 18:57:18,413 [INFO][run] Domain specified via command line: github.com
+2023-12-27 18:57:18,413 [INFO][run] Root: github
+2023-12-27 18:57:19,950 [INFO][run] Number of base strings to check: 7
+2023-12-27 18:57:19,950 [INFO][run] Number of char substitutions coded: 1
+2023-12-27 18:57:19,951 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-27 18:57:20,372 [DEBUG][check_domain] github.com --found: A Record: 140.82.112.3  MX Record: 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. SOA Record: dns1.p08.nsone.net. hostmaster.nsone.net. 1656468023 43200 7200 1209600 3600
+2023-12-27 18:57:20,809 [DEBUG][check_domain] github.net --found:    SOA Record: dns1.p05.nsone.net. hostmaster.nsone.net. 1648626696 43200 7200 1209600 3600
+2023-12-27 18:57:22,221 [DEBUG][check_domain] github.org --found: A Record: 140.82.113.18   SOA Record: dns1.p09.nsone.net. hostmaster.nsone.net. 1646323670 43200 7200 1209600 3600
+2023-12-27 18:57:25,871 [DEBUG][check_domain] github.io --found: A Record: 185.199.109.153 185.199.110.153 185.199.111.153 185.199.108.153   SOA Record: dns1.p05.nsone.net. hostmaster.nsone.net. 1647625169 43200 7200 1209600 3600
+2023-12-27 18:57:26,200 [DEBUG][check_domain] github.tv --found: A Record: 140.82.113.18   SOA Record: dns1.p06.nsone.net. hostmaster.nsone.net. 1646323672 43200 7200 1209600 3600
+2023-12-27 18:57:26,605 [DEBUG][check_domain] github.co --found: A Record: 40.71.11.169 104.43.221.31   SOA Record: ns1-37.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+2023-12-27 18:57:26,976 [DEBUG][check_domain] github.biz --found: A Record: 140.82.113.18   SOA Record: dns1.p03.nsone.net. hostmaster.nsone.net. 1646323667 43200 7200 1209600 3600
+2023-12-27 18:58:00,537 [DEBUG][check_domain] 9ithub.com --found: A Record: 172.234.25.151   SOA Record: dns101.registrar-servers.com. hostmaster.parklogic.com. 2021051901 7200 2400 604800 600
+2023-12-27 18:58:29,516 [DEBUG][check_domain] g1thub.com --found:    SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122701 28800 5000 1209600 10800
+2023-12-27 18:58:57,749 [DEBUG][check_domain] [Transform URL - inner loop] EXCEPTION THROWN on g1thub.io - Command '['dig', 'g1thub.io', 'A', '+short']' returned non-zero exit status 9.
+2023-12-27 18:59:11,101 [DEBUG][check_domain] glthub.com --found: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195 AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. MX Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. SOA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
+2023-12-27 18:59:11,613 [DEBUG][check_domain] glthub.net --found: A Record: 162.255.119.211  MX Record: 1 52.34.63.42. SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573453977 43200 3600 604800 3601
+2023-12-27 18:59:13,050 [DEBUG][check_domain] glthub.org --found: A Record: 13.248.213.45 76.223.67.189   SOA Record: ns51.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+2023-12-27 18:59:18,303 [DEBUG][check_domain] glthub.io --found: A Record: 3.210.34.100   SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573456471 43200 3600 604800 3601
+2023-12-27 18:59:21,932 [DEBUG][check_domain] glthub.co --found: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 44.208.74.239 44.198.230.4 AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+2023-12-27 19:00:37,015 [DEBUG][check_domain] gitshub.com --found: A Record: 121.199.56.162   SOA Record: dns17.hichina.com. hostmaster.hichina.com. 2023122610 3600 1200 86400 600
+2023-12-27 19:04:05,989 [DEBUG][check_domain] git5hub.com --found: A Record: 46.166.189.98   SOA Record: ns-canada.topdns.com. hostmaster.topdns.com. 2023021302 14400 7200 950400 7200
+2023-12-27 19:04:38,365 [DEBUG][check_domain] gitzhub.com --found:    SOA Record: aarav.ns.cloudflare.com. dns.cloudflare.com. 2302605125 10000 2400 604800 3600
+2023-12-27 19:11:06,560 [DEBUG][check_domain] githubs.com --found: A Record: 154.23.134.53   
+2023-12-27 19:11:07,061 [DEBUG][check_domain] githubs.net --found: A Record: 107.178.223.183 104.155.138.21 AAAA Record: 2600:1900:4000:ea00:8000:64:: 2600:1900:4000:ea00:8000:63:: MX Record: 14 mx2.csof.net. 14 mx1.csof.net. SOA Record: ns1.csof.net. hostmaster.csof.net. 1703725814 16384 2048 1048576 2560
+2023-12-27 19:11:07,792 [DEBUG][check_domain] githubs.org --found: A Record: 199.249.170.147   SOA Record: hal.ns.cloudflare.com. dns.cloudflare.com. 2326389578 10000 2400 604800 1800
+2023-12-27 19:15:00,718 [DEBUG][check_domain] github5.com --found: A Record: 47.95.219.249   SOA Record: dns29.hichina.com. hostmaster.hichina.com. 2023122517 3600 1200 86400 600
+2023-12-27 19:21:15,286 [DEBUG][check_domain] gitshubs.com --found: A Record: 160.124.65.4   SOA Record: conrad.ns.cloudflare.com. dns.cloudflare.com. 2324857467 10000 2400 604800 1800
+2023-12-27 21:16:20,317 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-27 21:16:21,875 [INFO][run] Number of base strings to check: 7
+2023-12-27 21:16:21,876 [INFO][run] Number of char substitutions coded: 1
+2023-12-27 21:16:21,876 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-27 21:16:22,216 [DEBUG][check_domain] github.com --found: A Record: 140.82.113.4  MX Record: 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 1 aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. SOA Record: dns1.p08.nsone.net. hostmaster.nsone.net. 1656468023 43200 7200 1209600 3600
+2023-12-27 21:16:22,611 [DEBUG][check_domain] github.net --found:    SOA Record: dns1.p05.nsone.net. hostmaster.nsone.net. 1648626696 43200 7200 1209600 3600
+2023-12-27 21:16:24,034 [DEBUG][check_domain] github.org --found: A Record: 140.82.112.17   SOA Record: dns1.p09.nsone.net. hostmaster.nsone.net. 1646323670 43200 7200 1209600 3600
+2023-12-27 21:16:27,959 [DEBUG][check_domain] github.io --found: A Record: 185.199.109.153 185.199.110.153 185.199.111.153 185.199.108.153   SOA Record: ns-1622.awsdns-10.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-27 21:16:28,262 [DEBUG][check_domain] github.tv --found: A Record: 140.82.112.17   SOA Record: dns1.p06.nsone.net. hostmaster.nsone.net. 1646323672 43200 7200 1209600 3600
+2023-12-27 21:16:28,635 [DEBUG][check_domain] github.co --found: A Record: 104.43.221.31 40.71.11.169   SOA Record: ns1-37.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+2023-12-27 21:16:28,976 [DEBUG][check_domain] github.biz --found: A Record: 140.82.112.17   SOA Record: dns1.p03.nsone.net. hostmaster.nsone.net. 1646323667 43200 7200 1209600 3600
+2023-12-27 21:17:04,273 [DEBUG][check_domain] 9ithub.com --found: A Record: 77980.bodis.com. 199.59.243.225 AAAA Record: 77980.bodis.com. MX Record: 77980.bodis.com. SOA Record: 77980.bodis.com.
+2023-12-27 21:17:34,219 [DEBUG][check_domain] g1thub.com --found:    SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122701 28800 5000 1209600 10800
+2023-12-27 21:18:02,454 [DEBUG][check_domain] [Transform URL - inner loop] EXCEPTION THROWN on g1thub.io - Command '['dig', 'g1thub.io', 'A', '+short']' returned non-zero exit status 9.

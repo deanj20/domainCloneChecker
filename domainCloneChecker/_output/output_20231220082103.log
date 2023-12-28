@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:21:04.595005
+
+cctexas.com: A Record: 18.220.36.83,,MX Record: 10 mx1.hc4332-1.iphmx.com. 20 mx2.hc4332-1.iphmx.com.,SOA Record: NS87.WORLDNIC.com. namehost.WORLDNIC.com. 123111516 10800 3600 604800 3600
+
+cctexas.net: A Record: 192.64.119.177,,MX Record: 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1622161056 43200 3600 604800 3601
+
+cctexas.org: A Record: 34.74.254.27,,MX Record: 20 cctexas-org.mail.protection.outlook.com. 30 cctexas.org.1.arsmtp.com. 40 cctexas.org.2.arsmtp.com. 10 in.hes.trendmicro.com.,SOA Record: ns37.domaincontrol.com. dns.jomax.net. 2022030100 28800 7200 604800 600
+
+cctexas.co: A Record: 15.197.142.173 3.33.152.147,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2021101900 28800 7200 604800 3600
+
+
+Sites found: ['cctexas.com', 'cctexas.net', 'cctexas.org', 'cctexas.co']
+
+
+
+TimeStamp: 2023-12-20 08:21:33.930147
+############# END OF RUN #############

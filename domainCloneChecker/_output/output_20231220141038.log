@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 14:10:42.761423
+
+serenityhaven.com: A Record: 185.230.63.171 185.230.63.186 185.230.63.107,,MX Record: 50 alt4.aspmx.l.google.com. 10 aspmx.l.google.com. 30 alt2.aspmx.l.google.com. 40 alt3.aspmx.l.google.com. 20 alt1.aspmx.l.google.com.,SOA Record: ns6.wixdns.net. support.wix.com. 2020051915 10800 3600 604800 3600
+
+serenityhaven.net: A Record: 160.121.224.214,,,SOA Record: jm1.dns.com. admin.dns.com. 1701316238 7200 3600 1209600 1800
+
+serenityhaven.org: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+
+serenityhaven.co: A Record: 23.227.38.36,,MX Record: 5 alt1.aspmx.l.google.com. 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 10 alt4.aspmx.l.google.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+serenityshaven.com: A Record: 193.243.189.45,,MX Record: 0 serenityshaven.com.,SOA Record: alpha1.kc.epik.com. hostingops.epik.com. 2023112401 3600 1800 1209600 86400
+
+serenityhavens.com: A Record: 198.185.159.144 198.49.23.144 198.185.159.145 198.49.23.145,,MX Record: 10 alt3.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 1 aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 10 alt4.aspmx.l.google.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 4 21600 3600 259200 300
+
+
+Sites found: ['serenityhaven.com', 'serenityhaven.net', 'serenityhaven.org', 'serenityhaven.co', 'serenityshaven.com', 'serenityhavens.com']
+
+
+
+TimeStamp: 2023-12-20 14:17:52.868803
+############# END OF RUN #############

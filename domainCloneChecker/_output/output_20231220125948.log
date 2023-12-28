@@ -1,0 +1,39 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:59:48.492059
+
+nih.com: A Record: 156.40.212.210,,,SOA Record: ns.nih.gov. hostmaster.nih.gov. 10164 10800 3600 2592000 900
+
+nih.net: A Record: 198.58.118.167 173.255.194.134 72.14.185.43 45.79.19.196 45.33.23.183 45.33.18.44 72.14.178.174 45.33.20.235 96.126.123.244 45.33.30.197 45.56.79.23 45.33.2.79,,MX Record: 1 mail.mailerhost.net.,SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+
+nih.org: A Record: 52.11.37.152 34.224.10.110,,MX Record: 20 msgctr2.nih.org. 10 msgctr.nih.org.,SOA Record: NS77.WORLDNIC.COM. namehost.WORLDNIC.COM. 122101117 10800 3600 604800 3600
+
+nih.io: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+nih.co: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+nih.biz: A Record: 35.186.223.180,,,SOA Record: ns1.verification-hold.suspended-domain.com. admin.suspended-domain.com. 2012022012 7200 7200 172800 7200
+
+n1h.com: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns09.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+n1h.net: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+nlh.com: A Record: 192.64.119.114,,,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1640436188 43200 3600 604800 3601
+
+nlh.net: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+nlh.org: A Record: 162.215.14.82,,MX Record: 10 mail.nlh.org.,SOA Record: aB.ns.charter.com. hostmaster.charter.com. 2021102817 86400 3600 3600000 172800
+
+nlh.io: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+nlh.co: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+nlh.biz: A Record: 109.70.148.34,,MX Record: 10 nlh-biz.mail.protection.outlook.com.,SOA Record: ns1045.ui-dns.com. hostmaster.1und1.com. 2017060114 28800 7200 604800 600
+
+
+Sites found: ['nih.com', 'nih.net', 'nih.org', 'nih.io', 'nih.co', 'nih.biz', 'n1h.com', 'n1h.net', 'nlh.com', 'nlh.net', 'nlh.org', 'nlh.io', 'nlh.co', 'nlh.biz']
+
+
+
+TimeStamp: 2023-12-20 13:00:06.376663
+############# END OF RUN #############

@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 15:23:34.791226
+
+techvital.com: A Record: 3.33.152.147 15.197.142.173,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2021101800 28800 7200 604800 3600
+
+techvital.net: A Record: 104.247.207.181,,,SOA Record: ns1.gname.net. admin.gname.net. 1679654817 7200 3600 1209600 1800
+
+techvitals.com: A Record: 15.197.148.33 3.33.130.190,,MX Record: 0 techvitals-com.mail.protection.outlook.com.,SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 3600
+
+
+Sites found: ['techvital.com', 'techvital.net', 'techvitals.com']
+
+
+
+TimeStamp: 2023-12-20 15:32:01.528761
+############# END OF RUN #############

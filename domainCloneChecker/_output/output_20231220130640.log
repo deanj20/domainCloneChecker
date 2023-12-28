@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:06:41.009991
+
+nuecesco.com: A Record: 135.84.124.41,,MX Record: 10 usb-smtp-inbound-2.mimecast.com. 10 usb-smtp-inbound-1.mimecast.com.,SOA Record: dns1.esc2.net. hostmaster.esc2.net. 139 900 600 86400 3600
+
+nuecesco.net: A Record: 64.68.200.44,,MX Record: 0 mx-caprica.easydns.com.,SOA Record: rush.easydns.com. zone.easydns.com. 1698884655 3600 600 604800 300
+
+
+Sites found: ['nuecesco.com', 'nuecesco.net']
+
+
+
+TimeStamp: 2023-12-20 13:07:08.818529
+############# END OF RUN #############

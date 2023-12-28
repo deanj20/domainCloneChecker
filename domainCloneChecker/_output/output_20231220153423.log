@@ -1,0 +1,49 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 15:34:23.345335
+
+us.com: A Record: 54.153.56.183,,MX Record: 0 mx-01.emailme.com.,SOA Record: ns0.centralnic.net. hostmaster.centralnic.net. 3000570221 900 1800 6048000 3600
+
+us.net: A Record: 216.114.78.206,,MX Record: 10 svi.primary.net.,SOA Record: us.net. hostmaster.primary.net. 1643826301 10800 3600 604800 86400
+
+us.org: A Record: 54.153.56.183,,MX Record: 20 alt2.aspmx.l.google.com. 10 aspmx.l.google.com. 30 aspmx3.googlemail.com. 0 . 30 aspmx2.googlemail.com. 20 alt1.aspmx.l.google.com. 30 aspmx5.googlemail.com. 30 aspmx4.googlemail.com.,SOA Record: ns0.centralnic.net. hostmaster.centralnic.net. 128432 900 1800 6048000 3600
+
+us.edu: A Record: 54.209.77.18,,MX Record: 10 d186841a.ess.barracudanetworks.com. 20 d186841b.ess.barracudanetworks.com.,SOA Record: pdns01.domaincontrol.com. dns.jomax.net. 2023113001 28800 7200 604800 3600
+
+us.io: A Record: 3.139.159.151,,,SOA Record: l1.ns.divido.org.us.io. admin.divido.org.us.io. 2013101009 900 300 2592000 3600
+
+us.tv: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+us.co: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+us.biz: A Record: 13.248.169.48 76.223.54.146,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+u5.com: A Record: 194.53.53.253 194.53.53.3,,,SOA Record: nina.ns.cloudflare.com. dns.cloudflare.com. 2326934051 10000 2400 604800 1800
+
+u5.org: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+u5.io: ,,MX Record: 10 mail.u5.io.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573508535 43200 3600 604800 3601
+
+u5.co: A Record: 76.223.54.146 13.248.169.48,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+u5.biz: A Record: 15.197.142.173 3.33.152.147,,MX Record: 0 u5-biz.mail.protection.outlook.com.,SOA Record: ns05.domaincontrol.com. dns.jomax.net. 2023080200 28800 7200 604800 600
+
+uz.com: A Record: u.17986.net. 67.21.93.242,AAAA Record: u.17986.net.,MX Record: u.17986.net.,SOA Record: u.17986.net.
+
+uz.net: A Record: 76.223.54.146 13.248.169.48,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+uz.org: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+uz.io: A Record: 3.139.159.151,,,SOA Record: l1.ns.divido.org.uz.io. admin.divido.org.uz.io. 2013101009 900 300 2592000 3600
+
+uz.co: A Record: 15.197.142.173 3.33.152.147,,,SOA Record: ns49.domaincontrol.com. dns.jomax.net. 2021101500 28800 7200 604800 600
+
+uz.biz: A Record: 13.248.169.48 76.223.54.146,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+
+Sites found: ['us.com', 'us.net', 'us.org', 'us.edu', 'us.io', 'us.tv', 'us.co', 'us.biz', 'u5.com', 'u5.org', 'u5.io', 'u5.co', 'u5.biz', 'uz.com', 'uz.net', 'uz.org', 'uz.io', 'uz.co', 'uz.biz']
+
+
+
+TimeStamp: 2023-12-20 15:34:49.997089
+############# END OF RUN #############

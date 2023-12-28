@@ -1,0 +1,39 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:45:36.547864
+
+labcorp.com: A Record: 104.16.161.134 104.16.160.134,,MX Record: 10 mx0b-00266502.pphosted.com. 10 mx0a-00266502.pphosted.com.,SOA Record: dns3.labcorp.com. please_set_email.absolutely.nowhere. 2014093159 10800 3600 2419200 900
+
+labcorp.net: ,,,SOA Record: dns3.labcorp.com. please_set_email.absolutely.nowhere. 2023092502 10800 3600 2419200 900
+
+labcorp.org: A Record: 165.160.13.20 165.160.15.20,,MX Record: 10 custmx.cscdns.net.,SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2022070802 28800 7200 604800 14400
+
+labcorp.io: ,,,SOA Record: ns-310.awsdns-38.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+
+labcorp.co: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+labcorp.biz: A Record: 76.223.67.189 13.248.213.45,,,SOA Record: ns75.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+
+1abcorp.com: A Record: 76.223.67.189 13.248.213.45,,,SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023121900 28800 7200 604800 600
+
+iabcorp.com: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+labc0rp.com: A Record: 104.247.82.171,,,SOA Record: ns1.parkingcrew.net. hostmaster.labc0rp.com. 1703094000 28800 7200 604800 86400
+
+labscorp.com: A Record: 91.195.240.135,,MX Record: 16 route2.mx.cloudflare.net. 51 route1.mx.cloudflare.net. 83 route3.mx.cloudflare.net.,SOA Record: gemma.ns.cloudflare.com. dns.cloudflare.com. 2324012430 10000 2400 604800 1800
+
+labs-corp.net: ,,MX Record: 10 mail.go4labs.net.,SOA Record: dns1.go4labs.net. hostmaster.labs-corp.net. 2022012701 10800 300 604800 300
+
+labcorps.com: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+1abcorps.com: A Record: 13.248.213.45 76.223.67.189,,,SOA Record: ns53.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+
+labscorps.com: A Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 54.161.222.85 34.205.242.146,AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+
+Sites found: ['labcorp.com', 'labcorp.net', 'labcorp.org', 'labcorp.io', 'labcorp.co', 'labcorp.biz', '1abcorp.com', 'iabcorp.com', 'labc0rp.com', 'labscorp.com', 'labs-corp.net', 'labcorps.com', '1abcorps.com', 'labscorps.com']
+
+
+
+TimeStamp: 2023-12-20 11:51:38.125750
+############# END OF RUN #############

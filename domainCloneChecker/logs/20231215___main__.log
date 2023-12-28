@@ -1,0 +1,880 @@
+2023-12-14 22:39:59,132 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:40:03,921 [INFO][run] Number of base strings to check: 9
+2023-12-14 22:40:03,922 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 22:40:03,922 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 22:40:05,289 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 88.221.40.58
+2023-12-14 22:40:06,002 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 22:40:06,807 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 22:40:08,548 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 22:40:09,287 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 22:40:09,992 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 22:41:25,072 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:41:29,592 [INFO][run] Number of base strings to check: 9
+2023-12-14 22:41:29,594 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 22:41:29,594 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 22:41:30,853 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 22:41:31,461 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 22:41:32,054 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 22:41:33,120 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 22:41:57,476 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:42:02,045 [INFO][run] Number of base strings to check: 9
+2023-12-14 22:42:02,045 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 22:42:02,045 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 22:42:03,277 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.196.188.176
+2023-12-14 22:42:04,027 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 22:42:05,012 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 22:43:54,152 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:43:58,680 [INFO][run] Number of base strings to check: 9
+2023-12-14 22:43:58,680 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 22:43:58,681 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 22:43:59,897 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.53.112.227
+2023-12-14 22:44:00,485 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 22:44:01,076 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 22:44:02,140 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 22:44:02,861 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 22:44:03,536 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 22:44:10,451 [DEBUG][check_domain] [1;91mb3stbuy.com[0m --found (A record): 37.48.65.149
+2023-12-14 22:44:19,679 [DEBUG][check_domain] [1;91mbeztbuy.com[0m --found (A record): pltraffic7.com.
+2023-12-14 22:44:50,791 [DEBUG][check_domain] [1;91mbezstbuy.com[0m --found (A record): 202.9.62.10
+2023-12-14 22:44:55,085 [DEBUG][check_domain] [1;91mbes5tbuy.com[0m --found (A record): 199.59.243.225
+2023-12-14 22:44:59,647 [DEBUG][check_domain] [1;91mbesztbuy.com[0m --found (A record): 3.33.139.32
+2023-12-14 22:50:03,493 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:50:03,494 [INFO][run] Checking specified domain: example.com
+2023-12-14 22:51:35,726 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:51:35,726 [INFO][run] Checking specified domain: example.com
+2023-12-14 22:51:40,785 [INFO][print_domains] 
+End of Run. Sites found:
+2023-12-14 22:51:43,591 [INFO][print_domains] [1;91mexample.com[0m--found [1;91mexamsple.com[0m--found [1;91mexams-ple.com[0m--found [1;91mexamples.com[0m--found [1;91mexamples-.com[0m--found
+2023-12-14 22:54:28,424 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:54:28,425 [INFO][run] Checking specified domain: example.com
+2023-12-14 22:54:33,499 [INFO][print_domains] 
+End of Run. Sites found:
+2023-12-14 22:54:36,265 [INFO][print_domains] [1;91mexample.com[0m--found [1;91mexamsple.com[0m--found [1;91mexams-ple.com[0m--found [1;91mexamples.com[0m--found [1;91mexamples-.com[0m--found
+2023-12-14 22:58:07,338 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 22:58:07,339 [INFO][run] Checking specified domain: example.com
+2023-12-14 23:03:34,622 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:03:34,622 [INFO][run] Checking specified domain: example.com
+2023-12-14 23:03:39,145 [INFO][print_domains] 
+End of Run. Sites found:
+2023-12-14 23:03:40,810 [INFO][print_domains] [1;91mexample[0m--found [1;91mexamsple[0m--found [1;91mexams-ple[0m--found
+2023-12-14 23:06:23,884 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:06:23,884 [INFO][run] Checking specified domain: example.com
+2023-12-14 23:06:23,885 [INFO][run] Number of base strings to check: 7
+2023-12-14 23:06:23,885 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:06:23,885 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:06:59,863 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:06:59,864 [INFO][run] Checking specified domain: example.com
+2023-12-14 23:06:59,864 [INFO][run] Number of base strings to check: 7
+2023-12-14 23:06:59,864 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:06:59,864 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:06:59,903 [INFO][print_domains] 
+End of Run. Sites found:
+2023-12-14 23:07:07,783 [INFO][print_domains] [1;91me[0m--found [1;91mx[0m--found [1;91ma[0m--found [1;91mm[0m--found [1;91mp[0m--found [1;91ml[0m--found [1;91me[0m--found
+2023-12-14 23:08:11,782 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:08:16,332 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:08:16,333 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:08:16,333 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:08:16,374 [INFO][print_domains] 
+End of Run. Sites found:
+2023-12-14 23:09:52,145 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:09:56,709 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:09:56,709 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:09:56,710 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:09:57,959 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:09:58,727 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:09:59,911 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:10:21,068 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:10:25,615 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:10:25,616 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:10:25,616 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:10:26,823 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:10:27,412 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:10:28,003 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:11:18,885 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:11:23,462 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:11:23,462 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:11:23,463 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:11:24,687 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.74.160.170
+2023-12-14 23:11:30,223 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:11:34,807 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:11:34,807 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:11:34,807 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:11:35,997 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.74.160.170
+2023-12-14 23:11:36,589 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:11:37,187 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:11:38,230 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:11:38,917 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 3.33.130.190
+2023-12-14 23:11:39,586 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:11:46,069 [DEBUG][check_domain] [1;91mb3stbuy.com[0m --found (A record): 207.244.67.214
+2023-12-14 23:12:53,775 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:12:58,287 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:12:58,288 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:12:58,288 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:12:59,540 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.196.180.183
+2023-12-14 23:13:00,130 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:13:00,717 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:13:01,700 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:13:02,291 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 23:13:02,880 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:13:41,819 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:13:46,325 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:13:46,325 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:13:46,325 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:13:47,542 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 173.222.164.198
+2023-12-14 23:13:48,130 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:13:48,720 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:13:49,812 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:13:50,398 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 3.33.130.190
+2023-12-14 23:13:50,987 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:14:22,766 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:14:27,344 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:14:27,344 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:14:27,345 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:14:28,577 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:14:29,167 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:14:29,754 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:14:30,739 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:14:31,332 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 23:14:31,924 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:16:53,369 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:16:53,369 [INFO][run] 
+
+TEST
+2023-12-14 23:16:57,934 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:16:57,935 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:16:57,935 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:16:59,203 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 104.85.240.235
+2023-12-14 23:16:59,942 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:17:00,930 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:17:57,728 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:17:57,729 [INFO][run] 
+
+Domain specified via command line.
+2023-12-14 23:17:57,730 [INFO][run] 
+
+TEST
+2023-12-14 23:18:02,240 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:18:02,241 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:18:02,241 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:18:03,504 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.53.112.227
+2023-12-14 23:18:04,094 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:18:04,686 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:18:59,986 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:18:59,986 [INFO][run] 
+Domain specified via command line: example.com
+2023-12-14 23:19:04,627 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:19:04,627 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:19:04,627 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:21:12,801 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:21:12,801 [INFO][run] 
+Domain specified via command line: example.com
+2023-12-14 23:21:12,801 [INFO][run] 
+Root: example
+2023-12-14 23:21:17,398 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:21:17,398 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:21:17,399 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:21:18,613 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:21:30,970 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:21:30,971 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:21:30,971 [INFO][run] Root: example
+2023-12-14 23:21:35,516 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:21:35,517 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:21:35,517 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:21:36,703 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:21:37,293 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:21:38,286 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:24:07,724 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:24:07,725 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:24:07,725 [INFO][run] Root: example
+2023-12-14 23:24:12,275 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:24:12,275 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:24:12,275 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:24:13,504 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.54.200.202
+2023-12-14 23:24:14,192 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:24:15,171 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:24:16,611 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:24:17,291 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 23:24:17,994 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:25:53,917 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:25:53,917 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:25:53,918 [INFO][run] Root: example
+2023-12-14 23:25:58,467 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:25:58,468 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:25:58,468 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:25:59,722 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.54.68.173
+2023-12-14 23:26:00,321 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:26:00,916 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:26:01,981 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:30:18,895 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:30:18,896 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:30:18,897 [INFO][run] Root: example
+2023-12-14 23:30:23,422 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:30:23,423 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:30:23,424 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:30:24,666 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.54.200.202
+2023-12-14 23:30:25,405 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:34:21,918 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:34:21,919 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:34:21,919 [INFO][run] Root: example
+2023-12-14 23:34:55,954 [INFO][__init__] 
+
+ /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+
+2023-12-14 23:34:55,954 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:34:55,955 [INFO][run] Root: example
+2023-12-14 23:35:00,447 [INFO][run] Number of base strings to check: 3
+2023-12-14 23:35:00,448 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:35:00,448 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:35:01,673 [DEBUG][check_domain] [1;32mexample.com[0m --found (A record): 93.184.216.34
+2023-12-14 23:35:02,324 [DEBUG][check_domain] [1;32mexample.net[0m --found (A record): 93.184.216.34
+2023-12-14 23:35:02,942 [DEBUG][check_domain] [1;32mexample.org[0m --found (A record): 93.184.216.34
+2023-12-14 23:35:03,668 [DEBUG][check_domain] [1;32mexample.edu[0m --found (A record): 93.184.216.34
+2023-12-14 23:35:05,752 [DEBUG][check_domain] [1;93mexample.io[0m --found (Authoritative answers): ns1.digitalocean.com. hostmaster.example.io. 1554918770 10800 3600 604800 1800
+2023-12-14 23:35:06,436 [DEBUG][check_domain] [1;93mexample.tv[0m --found (A record): 76.223.54.146
+2023-12-14 23:35:08,404 [DEBUG][check_domain] [1;91m3xample.com[0m --found (Authoritative answers): ns-1722.awsdns-23.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-14 23:35:12,819 [DEBUG][check_domain] [1;91mex4mple.com[0m --found (A record): 23.227.38.65
+2023-12-14 23:40:10,357 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:40:10,358 [INFO][run] Domain specified via command line: example.com
+2023-12-14 23:40:10,358 [INFO][run] Root: example
+2023-12-14 23:40:15,544 [INFO][run] Number of base strings to check: 3
+2023-12-14 23:40:15,545 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:40:15,545 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:40:16,811 [DEBUG][check_domain] [1;32mexample.com[0m --found (A record): 93.184.216.34
+2023-12-14 23:40:17,494 [DEBUG][check_domain] [1;32mexample.net[0m --found (A record): 93.184.216.34
+2023-12-14 23:40:18,132 [DEBUG][check_domain] [1;32mexample.org[0m --found (A record): 93.184.216.34
+2023-12-14 23:40:18,861 [DEBUG][check_domain] [1;32mexample.edu[0m --found (A record): 93.184.216.34
+2023-12-14 23:40:20,467 [DEBUG][check_domain] [1;93mexample.io[0m --found (Authoritative answers): ns1.digitalocean.com. hostmaster.example.io. 1554918770 10800 3600 604800 1800
+2023-12-14 23:40:21,179 [DEBUG][check_domain] [1;93mexample.tv[0m --found (A record): 76.223.54.146
+2023-12-14 23:40:23,147 [DEBUG][check_domain] [1;91m3xample.com[0m --found (Authoritative answers): ns-1722.awsdns-23.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-14 23:40:28,019 [DEBUG][check_domain] [1;91mex4mple.com[0m --found (A record): 23.227.38.65
+2023-12-14 23:40:33,227 [DEBUG][check_domain] [1;91mexannple.com[0m --found (Authoritative answers): ns-1030.awsdns-00.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-14 23:41:37,257 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:41:37,258 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-14 23:41:37,258 [INFO][run] Root: jdotek
+2023-12-14 23:41:37,704 [INFO][run] Number of base strings to check: 1
+2023-12-14 23:41:37,704 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:41:37,705 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:41:38,819 [DEBUG][check_domain] [1;32mjdotek.com[0m --found (A record): 208.82.114.168
+2023-12-14 23:41:39,729 [DEBUG][check_domain] [1;32mjdotek.net[0m --found (Authoritative answers): ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-14 23:43:54,692 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:43:54,692 [INFO][run] Domain specified via command line: bestbuy.com
+2023-12-14 23:43:54,692 [INFO][run] Root: bestbuy
+2023-12-14 23:43:59,759 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:43:59,760 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:43:59,760 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:44:01,020 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.60.84.223
+2023-12-14 23:44:01,782 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:44:02,933 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:44:04,543 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:44:05,211 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 15.197.148.33
+2023-12-14 23:44:05,929 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:44:12,852 [DEBUG][check_domain] [1;91mb3stbuy.com[0m --found (A record): 207.244.67.214
+2023-12-14 23:44:21,805 [DEBUG][check_domain] [1;91mbeztbuy.com[0m --found (A record): pltraffic7.com.
+2023-12-14 23:44:56,263 [DEBUG][check_domain] [1;91mbezstbuy.com[0m --found (A record): 202.9.62.10
+2023-12-14 23:45:01,326 [DEBUG][check_domain] [1;91mbes5tbuy.com[0m --found (A record): 199.59.243.225
+2023-12-14 23:45:05,607 [DEBUG][check_domain] [1;91mbesztbuy.com[0m --found (A record): 3.33.139.32
+2023-12-14 23:52:07,129 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:52:07,129 [INFO][run] Domain specified via command line: bestbuy.com
+2023-12-14 23:52:07,130 [INFO][run] Root: bestbuy
+2023-12-14 23:52:11,725 [INFO][run] Number of base strings to check: 9
+2023-12-14 23:52:11,725 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:52:11,726 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:52:12,973 [DEBUG][check_domain] [1;32mbestbuy.com[0m --found (A record): 23.201.60.176
+2023-12-14 23:52:13,733 [DEBUG][check_domain] [1;32mbestbuy.net[0m --found (A record): 46.166.164.104
+2023-12-14 23:52:14,546 [DEBUG][check_domain] [1;32mbestbuy.org[0m --found (A record): 64.190.63.111
+2023-12-14 23:52:16,086 [DEBUG][check_domain] [1;93mbestbuy.io[0m --found (A record): 52.20.84.62
+2023-12-14 23:52:16,764 [DEBUG][check_domain] [1;93mbestbuy.tv[0m --found (A record): 3.33.130.190
+2023-12-14 23:52:17,445 [DEBUG][check_domain] [1;93mbestbuy.co[0m --found (A record): 3.33.139.32
+2023-12-14 23:52:24,663 [DEBUG][check_domain] [1;91mb3stbuy.com[0m --found (A record): 37.48.65.151
+2023-12-14 23:52:34,035 [DEBUG][check_domain] [1;91mbeztbuy.com[0m --found (A record): pltraffic7.com.
+2023-12-14 23:52:55,528 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:52:55,528 [INFO][run] Domain specified via command line: hbo.com
+2023-12-14 23:52:55,528 [INFO][run] Root: hbo
+2023-12-14 23:52:55,530 [INFO][run] Number of base strings to check: 1
+2023-12-14 23:52:55,530 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:52:55,530 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:52:55,633 [DEBUG][check_domain] [1;32mhbo.com[0m --found (A record): 151.101.65.67
+2023-12-14 23:52:55,856 [DEBUG][check_domain] [1;32mhbo.net[0m --found (A record): 64.190.63.111
+2023-12-14 23:52:57,406 [DEBUG][check_domain] [1;93mhbo.io[0m --found (A record): 3.33.152.147
+2023-12-14 23:52:59,590 [DEBUG][check_domain] [1;91mh8o.com[0m --found (A record): 104.247.82.53
+2023-12-14 23:53:00,435 [DEBUG][check_domain] [1;91mh8o.org[0m --found (A record): 15.197.148.33
+2023-12-14 23:53:03,199 [DEBUG][check_domain] [1;91mhb0.com[0m --found (A record): overdue.aliyun.com.
+2023-12-14 23:53:03,344 [DEBUG][check_domain] [1;91mhb0.net[0m --found (A record): 104.140.110.137
+2023-12-14 23:53:07,333 [DEBUG][check_domain] [1;91mhb0.co[0m --found (A record): 172.67.188.59
+2023-12-14 23:56:02,976 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:56:02,977 [INFO][run] Domain specified via command line: hbo.com
+2023-12-14 23:56:02,977 [INFO][run] Root: hbo
+2023-12-14 23:56:02,978 [INFO][run] Number of base strings to check: 1
+2023-12-14 23:56:02,979 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:56:02,979 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:56:03,047 [DEBUG][check_domain] [1;32mhbo.com[0m --found (A record): 151.101.193.67
+2023-12-14 23:56:03,079 [DEBUG][check_domain] [1;32mhbo.net[0m --found (A record): 64.190.63.111
+2023-12-14 23:56:04,543 [DEBUG][check_domain] [1;93mhbo.io[0m --found (A record): 15.197.142.173
+2023-12-14 23:56:07,351 [DEBUG][check_domain] [1;91mh8o.com[0m --found (A record): 104.247.82.53
+2023-12-14 23:56:08,126 [DEBUG][check_domain] [1;91mh8o.org[0m --found (A record): 3.33.130.190
+2023-12-14 23:56:10,914 [DEBUG][check_domain] [1;91mhb0.com[0m --found (A record): overdue.aliyun.com.
+2023-12-14 23:56:11,038 [DEBUG][check_domain] [1;91mhb0.net[0m --found (A record): 104.140.110.137
+2023-12-14 23:56:13,352 [DEBUG][check_domain] [1;91mhb0.co[0m --found (A record): 104.21.48.223
+2023-12-14 23:58:20,245 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:58:20,246 [INFO][run] Domain specified via command line: hbo.com
+2023-12-14 23:58:20,246 [INFO][run] Root: hbo
+2023-12-14 23:58:20,248 [INFO][run] Number of base strings to check: 1
+2023-12-14 23:58:20,248 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:58:20,248 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:59:06,427 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-14 23:59:06,427 [INFO][run] Domain specified via command line: hbo.com
+2023-12-14 23:59:06,428 [INFO][run] Root: hbo
+2023-12-14 23:59:06,429 [INFO][run] Number of base strings to check: 1
+2023-12-14 23:59:06,429 [INFO][run] Number of char substitutions coded: 1
+2023-12-14 23:59:06,430 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-14 23:59:06,531 [DEBUG][check_domain] [1;32mhbo.com[0m --found (A record): 151.101.193.67
+2023-12-14 23:59:06,765 [DEBUG][check_domain] [1;32mhbo.net[0m --found (A record): 64.190.63.111
+2023-12-14 23:59:08,823 [DEBUG][check_domain] [1;93mhbo.io[0m --found (A record): 15.197.142.173
+2023-12-14 23:59:11,199 [DEBUG][check_domain] [1;91mh8o.com[0m --found (A record): 104.247.82.53
+2023-12-14 23:59:12,171 [DEBUG][check_domain] [1;91mh8o.org[0m --found (A record): 15.197.148.33
+2023-12-14 23:59:14,806 [DEBUG][check_domain] [1;91mhb0.com[0m --found (A record): overdue.aliyun.com.
+2023-12-14 23:59:14,960 [DEBUG][check_domain] [1;91mhb0.net[0m --found (A record): 104.140.110.137
+2023-12-14 23:59:17,904 [DEBUG][check_domain] [1;91mhb0.co[0m --found (A record): 172.67.188.59
+2023-12-15 00:00:07,395 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:00:07,396 [INFO][run] Domain specified via command line: hbo.com
+2023-12-15 00:00:07,396 [INFO][run] Root: hbo
+2023-12-15 00:00:07,397 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:00:07,398 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:00:07,398 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:00:07,488 [DEBUG][check_domain] [1;32mhbo.com[0m --found (A record): 151.101.193.67
+2023-12-15 00:00:07,575 [DEBUG][check_domain] [1;32mhbo.net[0m --found (A record): 64.190.63.111
+2023-12-15 00:00:09,069 [DEBUG][check_domain] [1;93mhbo.io[0m --found (A record): 3.33.152.147
+2023-12-15 00:00:11,451 [DEBUG][check_domain] [1;91mh8o.com[0m --found (A record): 104.247.82.53
+2023-12-15 00:00:12,250 [DEBUG][check_domain] [1;91mh8o.org[0m --found (A record): 15.197.148.33
+2023-12-15 00:00:15,892 [DEBUG][check_domain] [1;91mhb0.com[0m --found (A record): overdue.aliyun.com.
+2023-12-15 00:00:16,035 [DEBUG][check_domain] [1;91mhb0.net[0m --found (A record): 104.140.110.137
+2023-12-15 00:00:18,471 [DEBUG][check_domain] [1;91mhb0.co[0m --found (A record): 104.21.48.223
+2023-12-15 00:05:58,414 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:05:58,415 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:05:58,415 [INFO][run] Root: jdotek
+2023-12-15 00:05:58,877 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:05:58,878 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:05:58,878 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:05:59,994 [DEBUG][check_domain] [1;32mjdotek.com[0m --found (A record): 208.82.114.168
+2023-12-15 00:06:00,908 [DEBUG][check_domain] [1;32mjdotek.net[0m --found (Authoritative answers): ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:13:31,018 [INFO][__init__] 
+
+[97m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:13:31,018 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:13:31,019 [INFO][run] Root: jdotek
+2023-12-15 00:13:31,469 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:13:31,470 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:13:31,470 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:13:32,472 [DEBUG][check_domain] jdotek.com: A Record: 208.82.114.168
+2023-12-15 00:13:32,473 [DEBUG][check_domain] 
+2023-12-15 00:13:32,474 [DEBUG][check_domain] jdotek.com: MX Record: 0 jdotek.com.
+2023-12-15 00:13:32,474 [DEBUG][check_domain] jdotek.com: SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:13:33,015 [DEBUG][check_domain] 
+2023-12-15 00:13:33,016 [DEBUG][check_domain] 
+2023-12-15 00:13:33,016 [DEBUG][check_domain] 
+2023-12-15 00:13:33,017 [DEBUG][check_domain] jdotek.net: SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:17:15,371 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:17:15,371 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:17:15,372 [INFO][run] Root: jdotek
+2023-12-15 00:17:15,813 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:17:15,813 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:17:15,813 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:17:16,819 [DEBUG][check_domain] jdotek.com --found: jdotek.com: A Record: 208.82.114.168  jdotek.com: MX Record: 0 jdotek.com. jdotek.com: SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:17:17,279 [DEBUG][check_domain] jdotek.net --found:    jdotek.net: SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:22:29,179 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:22:29,180 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:22:29,180 [INFO][run] Root: jdotek
+2023-12-15 00:22:29,625 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:22:29,625 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:22:29,626 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:22:30,797 [DEBUG][check_domain] jdotek.com --found: jdotek.com: A Record: 208.82.114.168  jdotek.com: MX Record: 0 jdotek.com. jdotek.com: SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:22:31,184 [DEBUG][check_domain] jdotek.net --found:    jdotek.net: SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:24:19,879 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:24:19,879 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:24:19,879 [INFO][run] Root: jdotek
+2023-12-15 00:24:20,321 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:24:20,322 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:24:20,322 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:24:21,329 [DEBUG][check_domain] jdotek.com --found: A Record: 208.82.114.168  MX Record: 0 jdotek.com. SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:24:21,750 [DEBUG][check_domain] jdotek.net --found:    SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:25:45,044 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:25:45,044 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:25:45,045 [INFO][run] Root: jdotek
+2023-12-15 00:25:45,483 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:25:45,484 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:25:45,485 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:25:46,437 [DEBUG][check_domain] jdotek.com --found: A Record: 208.82.114.168  MX Record: 0 jdotek.com. SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:25:46,781 [DEBUG][check_domain] jdotek.net --found:    SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:27:00,938 [INFO][__init__] 
+
+[32m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:27:00,939 [INFO][run] Domain specified via command line: jdotek.com
+2023-12-15 00:27:00,940 [INFO][run] Root: jdotek
+2023-12-15 00:27:01,380 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:27:01,381 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:27:01,382 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:27:02,291 [DEBUG][check_domain] jdotek.com --found: A Record: 208.82.114.168  MX Record: 0 jdotek.com. SOA Record: ns1.hobohost.com. admin.hobohost.com. 2023111101 3600 1800 1209600 86400
+2023-12-15 00:27:02,730 [DEBUG][check_domain] jdotek.net --found:    SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 6 21600 3600 259200 300
+2023-12-15 00:28:39,858 [INFO][__init__] 
+
+[31m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:28:39,859 [INFO][run] Domain specified via command line: nike.com
+2023-12-15 00:28:39,859 [INFO][run] Root: nike
+2023-12-15 00:28:40,013 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:28:40,014 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:28:40,014 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:28:40,569 [DEBUG][check_domain] nike.com --found: A Record: 3.161.225.99, 3.161.225.84, 3.161.225.57, 3.161.225.37  MX Record: 10 mxa-001b6002.gslb.pphosted.com., 10 mxb-001b6002.gslb.pphosted.com. SOA Record: ns-n1.nike.com. hostmaster.nike.com. 2020101501 10800 3600 1814400 900
+2023-12-15 00:28:41,149 [DEBUG][check_domain] nike.net --found: A Record: 52.92.137.179, 52.92.192.3, 52.92.176.163, 52.218.181.50, 52.218.133.51, 52.92.195.43, 52.92.152.187, 52.218.238.34   SOA Record: ns-1656.awsdns-15.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-15 00:28:42,906 [DEBUG][check_domain] nike.org --found: A Record: 13.226.204.14, 13.226.204.20, 13.226.204.78, 13.226.204.29   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 3600 600 604800 3600
+2023-12-15 00:28:44,618 [DEBUG][check_domain] nike.io --found:    SOA Record: ns-1235.awsdns-26.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-15 00:28:45,460 [DEBUG][check_domain] nike.tv --found: A Record: 65.254.227.240  MX Record: 30 mx.nike.tv. SOA Record: ns1.powweb.com. dnsadmin.powweb.com. 2010050628 10800 3600 604800 3600
+2023-12-15 00:28:45,952 [DEBUG][check_domain] nike.co --found: A Record: 18.161.156.67, 18.161.156.51, 18.161.156.10, 18.161.156.60   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 3600 600 604800 3600
+2023-12-15 00:28:46,381 [DEBUG][check_domain] nike.biz --found: A Record: 108.138.167.21, 108.138.167.41, 108.138.167.114, 108.138.167.98   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 28800 7200 604800 7200
+2023-12-15 00:28:48,135 [DEBUG][check_domain] n1ke.com --found: A Record: 106.53.196.82   SOA Record: baobab.dnspod.net. freednsadmin.dnspod.com. 1623727174 3600 180 1209600 180
+2023-12-15 00:28:52,496 [DEBUG][check_domain] nlke.com --found:    SOA Record: ns1.markmonitor.com. hostmaster.markmonitor.com. 2020040901 86400 3600 2592000 172800
+2023-12-15 00:28:56,943 [DEBUG][check_domain] nik3.com --found: A Record: 209.126.123.13   SOA Record: ns1.torresdns.com. admin.nik3.com. 2023112200 86400 10800 604800 300
+2023-12-15 00:30:06,226 [INFO][__init__] 
+
+[35m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:30:06,227 [INFO][run] Domain specified via command line: boa.com
+2023-12-15 00:30:06,227 [INFO][run] Root: boa
+2023-12-15 00:30:06,228 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:30:06,229 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:30:06,229 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:30:06,664 [DEBUG][check_domain] boa.com --found: A Record: 192.185.5.168  MX Record: 5 alt2.aspmx.l.google.com., 1 aspmx.l.google.com., 5 alt1.aspmx.l.google.com., 10 aspmx2.googlemail.com., 10 aspmx3.googlemail.com. SOA Record: ns8035.hostgator.com. root.gator4018.hostgator.com. 2023112101 86400 7200 3600000 86400
+2023-12-15 00:30:07,366 [DEBUG][check_domain] boa.net --found: A Record: 45.33.30.197, 198.58.118.167, 72.14.178.174, 173.255.194.134, 45.33.2.79, 45.56.79.23, 72.14.185.43, 45.33.20.235, 45.33.18.44, 96.126.123.244, 45.79.19.196, 45.33.23.183   SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+2023-12-15 00:30:08,719 [DEBUG][check_domain] boa.org --found:   MX Record: 12801 crynwr.com. SOA Record: ns.crynwr.com. hostmaster.boa.org. 1687864712 16384 2048 1048576 2560
+2023-12-15 00:30:10,187 [DEBUG][check_domain] boa.io --found: A Record: 209.151.153.211  MX Record: 50 fb.mail.gandi.net., 10 spool.mail.gandi.net. SOA Record: irma.ns.cloudflare.com. dns.cloudflare.com. 2302774675 10000 2400 604800 3600
+2023-12-15 00:30:10,798 [DEBUG][check_domain] boa.tv --found: A Record: 15.197.192.55   SOA Record: ns1.dyna-ns.net. hostmaster.boa.tv. 1701790670 16384 2048 1048576 2560
+2023-12-15 00:30:11,539 [DEBUG][check_domain] boa.co --found: A Record: 52.20.84.62  MX Record: 10 mx2-forward.squadhelp.com., 10 mx1-forward.squadhelp.com. SOA Record: ns1.squadhelp.com. admin.squadhelp.com. 2008080300 1800 3600 604800 3600
+2023-12-15 00:30:12,919 [DEBUG][check_domain] boa.biz --found: A Record: 99.83.196.71, 75.2.85.42   SOA Record: ns1.hosting.co.kr. admin.boa.biz. 2 21600 1800 1209600 86400
+2023-12-15 00:30:15,328 [DEBUG][check_domain] 8oa.com --found: A Record: 101.33.117.82, 154.85.60.150, 129.226.173.83, 152.32.175.174   
+2023-12-15 00:30:15,837 [DEBUG][check_domain] 8oa.net --found:    SOA Record: ns1.ispapi.net. hostmaster.8oa.net. 2016070601 86400 7200 3600000 172800
+2023-12-15 00:30:20,226 [DEBUG][check_domain] b0a.com --found:    SOA Record: dns29.hichina.com. hostmaster.hichina.com. 2023121509 3600 1200 86400 600
+2023-12-15 00:30:20,876 [DEBUG][check_domain] b0a.net --found: A Record: traff-3.hugedomains.com., hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com., 3.19.116.195, 3.18.7.81 AAAA Record: traff-3.hugedomains.com., hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. MX Record: traff-1.hugedomains.com., hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023121401 28800 5000 1209600 10800
+2023-12-15 00:30:21,747 [DEBUG][check_domain] b0a.org --found:   MX Record: 10 mail.b0a.org. SOA Record: ns1.linode.com. domreg.03.softkill.org. 2013032439 14400 14400 1209600 86400
+2023-12-15 00:30:23,873 [DEBUG][check_domain] b0a.io --found: A Record: 77980.bodis.com., 199.59.243.225   SOA Record: dns101.registrar-servers.com. hostmaster.parklogic.com. 2021051901 7200 2400 604800 600
+2023-12-15 00:30:25,593 [DEBUG][check_domain] bo4.com --found: A Record: 172.67.142.245, 104.21.27.152 AAAA Record: 2606:4700:3036::6815:1b98, 2606:4700:3037::ac43:8ef5  SOA Record: eva.ns.cloudflare.com. dns.cloudflare.com. 2327884076 10000 2400 604800 1800
+2023-12-15 00:30:26,486 [DEBUG][check_domain] bo4.net --found: A Record: 156.242.54.168   SOA Record: ns1.gname.net. admin.gname.net. 1699429272 7200 3600 1209600 1800
+2023-12-15 00:30:31,987 [DEBUG][check_domain] bo4.biz --found: A Record: 185.86.19.47 AAAA Record: 2a00:1c98:1000:1231:0:3:2218:95c2 MX Record: 0 bo4-biz.mail.protection.outlook.com. SOA Record: ns3.combell.net. hostmaster.bo4.biz. 1672436914 10800 3600 604800 40000
+2023-12-15 00:31:18,371 [INFO][__init__] 
+
+[34m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:31:18,372 [INFO][run] Domain specified via command line: bankofamerica
+2023-12-15 00:31:18,372 [INFO][run] Root: bankofamerica
+2023-12-15 00:31:24,025 [INFO][run] Number of base strings to check: 5
+2023-12-15 00:31:24,025 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:31:24,025 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:31:25,863 [DEBUG][check_domain] bankofamerica.com --found: A Record: 171.161.148.150, 171.159.228.150  MX Record: 10 mxb-0000ec05.gslb.pphosted.com., 10 mxa-0000ec05.gslb.pphosted.com. SOA Record: ns10.bac.com. domain\.administrator.bankofamerica.com. 2023122917 1800 900 604800 600
+2023-12-15 00:31:26,321 [DEBUG][check_domain] bankofamerica.net --found: A Record: 171.161.148.21, 171.159.228.21   SOA Record: ns10.bac.com. domain\.administrator.bankofamerica.com. 2023120203 1800 900 604800 600
+2023-12-15 00:31:27,560 [DEBUG][check_domain] bankofamerica.org --found: A Record: 171.159.228.21, 171.161.148.21   SOA Record: ns10.bac.com. domain\.administrator.bankofamerica.com. 2023120203 1800 900 604800 600
+2023-12-15 00:31:29,647 [DEBUG][check_domain] bankofamerica.io --found: A Record: 171.161.148.21, 171.159.228.21   SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2014071506 28800 7200 604800 14400
+2023-12-15 00:31:30,099 [DEBUG][check_domain] bankofamerica.tv --found:    SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2018031604 28800 7200 604800 14400
+2023-12-15 00:31:30,481 [DEBUG][check_domain] bankofamerica.co --found:    SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2018051404 28800 7200 604800 14400
+2023-12-15 00:31:30,924 [DEBUG][check_domain] bankofamerica.biz --found: A Record: 165.160.15.20, 165.160.13.20   SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2014072905 28800 7200 604800 14400
+2023-12-15 00:31:31,518 [DEBUG][check_domain] 8ankofamerica.com --found: A Record: 66.96.161.153  MX Record: 30 mx.8ankofamerica.com. SOA Record: ns1.dotster.com. dnsadmin.dotster.com. 2017053002 10800 3600 604800 3600
+2023-12-15 00:31:40,364 [DEBUG][check_domain] bank0famerica.com --found: A Record: 171.159.228.21, 171.161.148.21   SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019012605 28800 7200 604800 14400
+2023-12-15 00:31:41,041 [DEBUG][check_domain] bank0famerica.net --found:    SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019012604 28800 7200 604800 14400
+2023-12-15 00:31:42,832 [DEBUG][check_domain] bank0famerica.org --found:    SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019012604 28800 7200 604800 14400
+2023-12-15 00:31:45,143 [DEBUG][check_domain] bank0famerica.biz --found:    SOA Record: dns1.cscdns.net. hostmaster.cscdns.net. 2019012604 28800 7200 604800 14400
+2023-12-15 00:32:02,543 [DEBUG][check_domain] bankofamer1ca.com --found:   MX Record: 10 alt3.aspmx.l.google.com., 5 alt1.aspmx.l.google.com., 10 alt4.aspmx.l.google.com., 5 alt2.aspmx.l.google.com., 1 aspmx.l.google.com. SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 3 21600 3600 259200 300
+2023-12-15 00:32:06,908 [DEBUG][check_domain] bankofamerlca.com --found: A Record: 3.33.130.190, 15.197.148.33   SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+2023-12-15 00:33:57,575 [DEBUG][check_domain] banksofamerica.com --found: A Record: 93.115.28.104  MX Record: 1 mail.h-email.net. SOA Record: ns1.rentondc.com. admin.banksofamerica.com. 2023121202 86400 10800 604800 300
+2023-12-15 00:33:58,150 [DEBUG][check_domain] banksofamerica.net --found: A Record: 199.59.243.225   SOA Record: connie.ns.cloudflare.com. dns.cloudflare.com. 2323918501 10000 2400 604800 1800
+2023-12-15 00:33:59,395 [DEBUG][check_domain] banksofamerica.org --found: A Record: 104.21.54.56, 172.67.168.23 AAAA Record: 2606:4700:3037::6815:3638, 2606:4700:3037::ac43:a817  SOA Record: jamie.ns.cloudflare.com. dns.cloudflare.com. 2327109328 10000 2400 604800 1800
+2023-12-15 00:34:14,270 [DEBUG][check_domain] bankzofamerica.com --found: A Record: 199.59.243.225   SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+2023-12-15 00:37:12,678 [INFO][__init__] 
+
+[33m /\/|   _                       _        ____ _                   ____ _               _            /\/|
+|/\/ __| | ___  _ __ ___   __ _(_)_ __  / ___| | ___  _ __   ___ / ___| |__   ___  ___| | _____ _ _|/\/ 
+    / _` |/ _ \| '_ ` _ \ / _` | | '_ \| |   | |/ _ \| '_ \ / _ \ |   | '_ \ / _ \/ __| |/ / _ \ '__|   
+   | (_| | (_) | | | | | | (_| | | | | | |___| | (_) | | | |  __/ |___| | | |  __/ (__|   <  __/ |      
+    \__,_|\___/|_| |_| |_|\__,_|_|_| |_|\____|_|\___/|_| |_|\___|\____|_| |_|\___|\___|_|\_\___|_|      
+                                                                                                        
+[0m
+2023-12-15 00:37:12,678 [INFO][run] Domain specified via command line: nike.com
+2023-12-15 00:37:12,679 [INFO][run] Root: nike
+2023-12-15 00:37:12,832 [INFO][run] Number of base strings to check: 1
+2023-12-15 00:37:12,832 [INFO][run] Number of char substitutions coded: 1
+2023-12-15 00:37:12,832 [INFO][run] Number of possibilities for char substitutions coded: 1
+2023-12-15 00:37:13,300 [DEBUG][check_domain] nike.com --found: A Record: 3.161.225.99, 3.161.225.57, 3.161.225.37, 3.161.225.84  MX Record: 10 mxb-001b6002.gslb.pphosted.com., 10 mxa-001b6002.gslb.pphosted.com. SOA Record: ns-n1.nike.com. hostmaster.nike.com. 2020101501 10800 3600 1814400 900
+2023-12-15 00:37:13,571 [DEBUG][check_domain] nike.net --found: A Record: 52.92.211.107, 52.92.147.99, 52.92.241.139, 52.92.144.147, 52.218.169.122, 52.92.210.83, 52.218.180.122, 52.92.149.123   SOA Record: ns-1656.awsdns-15.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-15 00:37:14,658 [DEBUG][check_domain] nike.org --found: A Record: 13.226.204.29, 13.226.204.78, 13.226.204.20, 13.226.204.14   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 3600 600 604800 3600
+2023-12-15 00:37:16,407 [DEBUG][check_domain] nike.io --found:    SOA Record: ns-1235.awsdns-26.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+2023-12-15 00:37:17,084 [DEBUG][check_domain] nike.tv --found: A Record: 65.254.227.240  MX Record: 30 mx.nike.tv. SOA Record: ns1.powweb.com. dnsadmin.powweb.com. 2010050628 10800 3600 604800 3600
+2023-12-15 00:37:17,516 [DEBUG][check_domain] nike.co --found: A Record: 18.161.156.60, 18.161.156.67, 18.161.156.51, 18.161.156.10   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 3600 600 604800 3600
+2023-12-15 00:37:17,903 [DEBUG][check_domain] nike.biz --found: A Record: 108.138.167.98, 108.138.167.114, 108.138.167.21, 108.138.167.41   SOA Record: ns-v1.nike.com. hostmaster.nike.com. 2020081300 28800 7200 604800 7200
+2023-12-15 00:37:19,434 [DEBUG][check_domain] n1ke.com --found: A Record: 106.53.196.82   SOA Record: baobab.dnspod.net. freednsadmin.dnspod.com. 1623727174 3600 180 1209600 180
+2023-12-15 00:37:23,883 [DEBUG][check_domain] nlke.com --found:    SOA Record: ns1.markmonitor.com. hostmaster.markmonitor.com. 2020040901 86400 3600 2592000 172800
+2023-12-15 00:37:27,943 [DEBUG][check_domain] nik3.com --found: A Record: 209.126.123.13   SOA Record: ns1.torresdns.com. admin.nik3.com. 2023112200 86400 10800 604800 300

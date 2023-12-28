@@ -1,0 +1,21 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 11:22:00.385109
+
+implantdent.com: A Record: 66.45.246.141,,,SOA Record: ns1.domainrecover.com. hostmaster.domainreover.com. 1623031840 3600 600 6048000 600
+
+implantdent.net: A Record: 81.88.57.68,,MX Record: 5 mail-fr.securemail.pro. 9 mail-fr.securemail.pro.,SOA Record: paris.amen.fr. root.amen.fr. 2018010302 86400 7200 2592000 300
+
+implantdent.org: A Record: 172.67.130.184 104.21.3.130,AAAA Record: 2606:4700:3037::6815:382 2606:4700:3037::ac43:82b8,,SOA Record: carlane.ns.cloudflare.com. dns.cloudflare.com. 2327241325 10000 2400 604800 1800
+
+implantdent.co: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 34.226.10.90 54.236.141.185,AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+
+implantsdent.com: A Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com. 54.209.32.212 52.71.57.184,AAAA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+
+Sites found: ['implantdent.com', 'implantdent.net', 'implantdent.org', 'implantdent.co', 'implantsdent.com']
+
+
+
+TimeStamp: 2023-12-20 11:33:11.118925
+############# END OF RUN #############

@@ -1,0 +1,33 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:24:36.669748
+
+dshs.com: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+dshs.net: A Record: expired.namebright.com. cdl-lb-1356093980.us-east-1.elb.amazonaws.com. 44.207.99.33 44.213.226.67,AAAA Record: expired.namebright.com. cdl-lb-1356093980.us-east-1.elb.amazonaws.com.,MX Record: 10 mail1.namebrightmail.com. 10 mail2.namebrightmail.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+dshs.org: A Record: 3.33.243.145 15.197.204.56,,MX Record: 0 .,SOA Record: ns01.cashparking.com. dns.jomax.net. 2023060100 28800 7200 604800 86400
+
+dshs.co: A Record: 64.190.63.111,,MX Record: 0 localhost.,SOA Record: ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400
+
+clshs.com: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.19.116.195 3.18.7.81,AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+clshs.org: A Record: 199.193.141.131,,MX Record: 70 aspmx5.googlemail.com. 50 aspmx3.googlemail.com. 20 alt1.aspmx.l.google.com. 60 aspmx4.googlemail.com. 10 aspmx.l.google.com. 30 alt2.aspmx.l.google.com. 40 aspmx2.googlemail.com.,SOA Record: ns05.domaincontrol.com. dns.jomax.net. 2019060409 28800 7200 604800 600
+
+dzhs.com: ,,,SOA Record: ns1.alidns.com. hostmaster.hichina.com. 2023122013 3600 1200 86400 600
+
+dzhs.net: A Record: 47.115.12.144,,,SOA Record: dns9.hichina.com. hostmaster.hichina.com. 2023121513 3600 1200 86400 600
+
+dsh5.com: A Record: 3xin4.zhanghonghong.com. 198.44.248.187,AAAA Record: 3xin4.zhanghonghong.com.,MX Record: 3xin4.zhanghonghong.com.,SOA Record: ns1.domainnamedns.com. support.namens.net. 1689505591 3600 1800 1209600 180
+
+dshz.com: ,,MX Record: 10 route1.mx.cloudflare.net. 75 route3.mx.cloudflare.net. 82 route2.mx.cloudflare.net.,SOA Record: christian.ns.cloudflare.com. dns.cloudflare.com. 2324124950 10000 2400 604800 1800
+
+dshz.net: A Record: 202.75.223.23,,MX Record: 2 mxn.mxhichina.com. 1 mxw.mxhichina.com.,SOA Record: dns15.hichina.com. hostmaster.hichina.com. 2023121109 3600 1200 86400 600
+
+
+Sites found: ['dshs.com', 'dshs.net', 'dshs.org', 'dshs.co', 'clshs.com', 'clshs.org', 'dzhs.com', 'dzhs.net', 'dsh5.com', 'dshz.com', 'dshz.net']
+
+
+
+TimeStamp: 2023-12-20 09:25:13.328191
+############# END OF RUN #############

@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:47:51.941070
+
+mindfulcounseling.com: A Record: 104.21.45.201 172.67.218.186,AAAA Record: 2606:4700:3037::ac43:daba 2606:4700:3035::6815:2dc9,MX Record: 75 route3.mx.cloudflare.net. 10 route2.mx.cloudflare.net. 66 route1.mx.cloudflare.net.,SOA Record: cleo.ns.cloudflare.com. dns.cloudflare.com. 2324317328 10000 2400 604800 1800
+
+mindfulcounseling.net: A Record: 185.230.63.171 185.230.63.186 185.230.63.107,,,SOA Record: ns10.wixdns.net. support.wix.com. 2016112901 10800 3600 604800 3600
+
+mindfulcounseling.org: A Record: 65.254.227.240,,MX Record: 1 ASPMX.L.GOOGLE.COM. 5 ALT1.ASPMX.L.GOOGLE.COM. 10 ALT3.ASPMX.L.GOOGLE.COM. 10 ALT4.ASPMX.L.GOOGLE.COM. 5 ALT2.ASPMX.L.GOOGLE.COM.,SOA Record: ns1.fatcow.com. dnsadmin.fatcow.com. 2009102773 10800 3600 604800 86400
+
+
+Sites found: ['mindfulcounseling.com', 'mindfulcounseling.net', 'mindfulcounseling.org']
+
+
+
+TimeStamp: 2023-12-20 12:59:02.300704
+############# END OF RUN #############

@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:08:26.604327
+
+medexplore.com: A Record: 3.33.152.147 15.197.142.173,,,SOA Record: ns71.domaincontrol.com. dns.jomax.net. 2021103100 28800 7200 604800 600
+
+medexplore.net: A Record: 52.213.114.86,,MX Record: 0 localhost.,SOA Record: suspended.mydomainprovider.com. hostmaster.mydomainprovider.com. 2020010101 10800 3600 604800 38400
+
+medexplore.org: A Record: 52.213.114.86,,MX Record: 0 localhost.,SOA Record: suspended.mydomainprovider.com. hostmaster.mydomainprovider.com. 2020010101 10800 3600 604800 38400
+
+
+Sites found: ['medexplore.com', 'medexplore.net', 'medexplore.org']
+
+
+
+TimeStamp: 2023-12-20 12:09:15.847709
+############# END OF RUN #############

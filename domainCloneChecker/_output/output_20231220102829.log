@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 10:28:34.088036
+
+healthride.com: A Record: 15.197.148.33 3.33.130.190,,MX Record: 30 aspmx2.googlemail.com. 30 aspmx3.googlemail.com. 20 alt1.aspmx.l.google.com. 20 alt2.aspmx.l.google.com. 10 aspmx.l.google.com.,SOA Record: ns03.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+
+healthride.org: A Record: 142.44.138.206,,MX Record: 0 healthride.org.,SOA Record: ns1.directserver.net. support.securedwebserver.net. 2019123000 14400 3600 1209600 86400
+
+healthrides.com: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns3.afternic.com. dns.jomax.net. 2023042500 28800 7200 604800 300
+
+health-rides.com: A Record: 208.91.197.27,,,SOA Record: NS77.WORLDNIC.com. namehost.WORLDNIC.com. 117042622 10800 3600 604800 3600
+
+
+Sites found: ['healthride.com', 'healthride.org', 'healthrides.com', 'health-rides.com']
+
+
+
+TimeStamp: 2023-12-20 10:37:36.609442
+############# END OF RUN #############

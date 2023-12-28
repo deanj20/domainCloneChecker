@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 10:58:31.884746
+
+hearwell.com: A Record: 52.36.112.217 52.39.104.83 44.237.15.52 44.226.124.146,,,SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2023043000 28800 7200 604800 600
+
+hearwell.net: A Record: traff-5.hugedomains.com. hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com. 34.205.242.146 54.161.222.85,AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,MX Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+hearwell.org: A Record: 109.68.33.18,,MX Record: 1 mx.emailconfig.com.,SOA Record: ns1.domainmonster.com. hostmaster.hearwell.org. 0 7200 1800 1209600 7200
+
+hearwell.co: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 54.236.141.185 34.226.10.90,AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+
+hearwell.biz: A Record: 209.141.38.71 198.251.81.30 107.161.23.204,,MX Record: 20 mx5.emailowl.com. 30 mx6.emailowl.com. 10 mx4.emailowl.com.,SOA Record: ns1.dnsowl.com. hostmaster.dnsowl.com. 1703091288 7200 1800 1209600 600
+
+hearswell.com: A Record: 192.138.16.80,,MX Record: 0 hearswell.com.,SOA Record: ns100.ragesw.com. paul.ragesw.com. 2023102801 3600 1800 1209600 86400
+
+
+Sites found: ['hearwell.com', 'hearwell.net', 'hearwell.org', 'hearwell.co', 'hearwell.biz', 'hearswell.com']
+
+
+
+TimeStamp: 2023-12-20 11:05:05.151454
+############# END OF RUN #############

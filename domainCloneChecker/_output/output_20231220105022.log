@@ -1,0 +1,31 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 10:50:26.715274
+
+healthybite.com: A Record: 52.20.84.62,,MX Record: 10 mx2-forward.squadhelp.com. 10 mx1-forward.squadhelp.com.,SOA Record: ns1.squadhelp.com. admin.squadhelp.com. 2008080300 1800 3600 604800 3600
+
+healthybite.net: A Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com. 3.94.41.167 52.86.6.113,AAAA Record: traff-2.hugedomains.com. hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.,MX Record: traff-4.hugedomains.com. hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+healthybite.org: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+healthybite.co: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+healthybites.com: A Record: 13.248.213.45 76.223.67.189,,,SOA Record: ns21.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+
+healthybites.net: A Record: 66.81.203.196,,,SOA Record: ns.buydomains.com. bd-operations.namemedia.com. 2023091212 86400 7200 604800 300
+
+healthybites.org: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+healthybites.co: A Record: 161.97.64.22,,MX Record: 10 mx.yandex.net. 10 mail.healthybites.co.,SOA Record: ns1.contabo.net. hostmaster.contabo.de. 2021030803 3600 7200 2419200 10800
+
+healthybitez.com: A Record: 23.227.38.32,,,SOA Record: ns35.domaincontrol.com. dns.jomax.net. 2020111302 28800 7200 604800 600
+
+healthy-bites.com: A Record: 162.241.218.97,,MX Record: 0 mail.healthy-bites.com.,SOA Record: ns1.bluehost.com. root.box5553.bluehost.com. 2023102300 86400 7200 3600000 300
+
+
+Sites found: ['healthybite.com', 'healthybite.net', 'healthybite.org', 'healthybite.co', 'healthybites.com', 'healthybites.net', 'healthybites.org', 'healthybites.co', 'healthybitez.com', 'healthy-bites.com']
+
+
+
+TimeStamp: 2023-12-20 10:58:05.693010
+############# END OF RUN #############

@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:04:48.073406
+
+dentacare.com: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+dentacare.net: A Record: 66.96.149.1,,MX Record: 30 mx.dentacare.net.,SOA Record: ns1.ipower.com. dnsadmin.ipower.com. 2008011156 10800 3600 604800 3600
+
+dentacare.org: A Record: 66.96.149.1,,MX Record: 30 mx.dentacare.org.,SOA Record: ns1.ipower.com. dnsadmin.ipower.com. 2008011156 10800 3600 604800 3600
+
+dentacare.biz: A Record: 3.33.152.147 15.197.142.173,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns65.domaincontrol.com. dns.jomax.net. 2022070800 28800 7200 604800 600
+
+
+Sites found: ['dentacare.com', 'dentacare.net', 'dentacare.org', 'dentacare.biz']
+
+
+
+TimeStamp: 2023-12-20 09:08:25.788274
+############# END OF RUN #############

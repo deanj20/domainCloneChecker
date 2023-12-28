@@ -1,0 +1,41 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:23:21.851217
+
+cleansweep.com: A Record: 86.105.245.69,,,SOA Record: ns1.eftydns.com. hostmaster.cleansweep.com. 2023121401 10800 3600 604800 3600
+
+cleansweep.net: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+cleansweep.org: A Record: 45.56.79.23 45.33.23.183 45.33.18.44 45.33.2.79 72.14.185.43 173.255.194.134 45.33.30.197 198.58.118.167 72.14.178.174 45.33.20.235 45.79.19.196 96.126.123.244,,MX Record: 1 mail.mailerhost.net.,SOA Record: ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600
+
+cleansweep.io: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: pdns01.domaincontrol.com. dns.jomax.net. 2023091800 28800 7200 604800 600
+
+cleansweep.co: A Record: 74.220.219.195,,MX Record: 20 eforward5.registrar-servers.com. 15 eforward4.registrar-servers.com. 10 eforward1.registrar-servers.com. 10 eforward2.registrar-servers.com. 10 eforward3.registrar-servers.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1698631062 43200 3600 604800 3601
+
+cleansweep.biz: A Record: 54.164.57.121,,MX Record: 10 ALT4.ASPMX.L.GOOGLE.COM. 10 ALT3.ASPMX.L.GOOGLE.COM. 5 ALT2.ASPMX.L.GOOGLE.COM. 5 ALT1.ASPMX.L.GOOGLE.COM. 1 ASPMX.L.GOOGLE.COM.,SOA Record: ns1.mywahosting.com. admin.mywahosting.com. 1 14400 120 1814400 600
+
+cleanzweep.com: A Record: 205.235.26.22,,MX Record: 5 park01.gkg.net.,SOA Record: ns3.gkg.net. root.cleanzweep.com. 1322592687 28800 7200 604800 7200
+
+cleanssweep.com: A Record: 162.241.216.155,,MX Record: 0 mail.cleanssweep.com.,SOA Record: ns1.bluehost.com. root.box5413.bluehost.com. 2023112000 86400 7200 3600000 300
+
+cleansweeps.com: A Record: 104.196.196.12,,MX Record: 20 mx2.emailsrvr.com. 10 mx1.emailsrvr.com.,SOA Record: ivy.ns.cloudflare.com. dns.cloudflare.com. 2325728243 10000 2400 604800 1800
+
+cleansweeps.net: A Record: 15.197.148.33 3.33.130.190,,MX Record: 0 cleansweeps-net.mail.protection.outlook.com.,SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+cleansweeps.org: A Record: 208.43.88.227,,MX Record: 10 mailserver.cleansweeps.org.,SOA Record: ns1.livedns.co.uk. admin.cleansweeps.org. 1523031000 10800 3600 604800 3600
+
+cleansweeps.co: A Record: 23.227.38.32,,MX Record: 1 mx.cleansweeps.co.cust.b.hostedemail.com.,SOA Record: ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+cleansweepz.com: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195,AAAA Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+clean-sweeps.com: A Record: 85.92.91.22,,,SOA Record: ns57.domaincontrol.com. dns.jomax.net. 2023012307 28800 7200 604800 600
+
+cleanssweeps.com: A Record: 23.227.38.32,,MX Record: 10 mx00.ionos.com. 10 mx01.ionos.com.,SOA Record: ns1080.ui-dns.biz. hostmaster.1und1.com. 2017060116 28800 7200 604800 600
+
+
+Sites found: ['cleansweep.com', 'cleansweep.net', 'cleansweep.org', 'cleansweep.io', 'cleansweep.co', 'cleansweep.biz', 'cleanzweep.com', 'cleanssweep.com', 'cleansweeps.com', 'cleansweeps.net', 'cleansweeps.org', 'cleansweeps.co', 'cleansweepz.com', 'clean-sweeps.com', 'cleanssweeps.com']
+
+
+
+TimeStamp: 2023-12-20 08:31:23.603126
+############# END OF RUN #############

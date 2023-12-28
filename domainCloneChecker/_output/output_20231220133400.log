@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:34:05.893180
+
+thechildrensclinic.com: A Record: 206.188.192.117,,MX Record: 0 mx1-us1.ppe-hosted.com. 20 mx2-us1.ppe-hosted.com.,SOA Record: NS93.WORLDNIC.com. namehost.WORLDNIC.com. 123062100 10800 3600 604800 3600
+
+thechildrensclinic.net: A Record: 216.251.43.96,,MX Record: 10 mx2c2soho.megamailservers.com. 5 mx1c2soho.megamailservers.com. 15 mx3c2soho.megamailservers.com.,SOA Record: ns1.meganameservers.com. postmaster.meganameservers.com. 22 86400 3600 3600000 86400
+
+thechildrensclinic.org: A Record: 47.44.173.222,,MX Record: 20 d223978b.ess.barracudanetworks.com. 1 d223978a.ess.barracudanetworks.com.,SOA Record: NS21.WORLDNIC.COM. namehost.WORLDNIC.COM. 123112815 10800 3600 604800 3600
+
+
+Sites found: ['thechildrensclinic.com', 'thechildrensclinic.net', 'thechildrensclinic.org']
+
+
+
+TimeStamp: 2023-12-20 13:35:30.156402
+############# END OF RUN #############

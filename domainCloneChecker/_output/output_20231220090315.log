@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:03:19.766605
+
+cushmanwakefield.com: A Record: 52.237.134.214,,,SOA Record: pdns67.ultradns.net. dnsadmin.cushwake.com. 2007011224 3600 1800 1209600 900
+
+cushmanwakefield.org: A Record: 217.19.248.132,,,SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2022083101 28800 1800 604800 3600
+
+cushmanwakefield.tv: A Record: 217.19.248.132,,MX Record: 10 mail.idp365.net.,SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2016082403 28800 1800 604800 3600
+
+cushmanwakefield.co: A Record: 217.19.248.132,,MX Record: 10 mail.idp365.net.,SOA Record: dns1.safenames.com. hostmaster.safenames.net. 2016082403 28800 1800 604800 3600
+
+
+Sites found: ['cushmanwakefield.com', 'cushmanwakefield.org', 'cushmanwakefield.tv', 'cushmanwakefield.co']
+
+
+
+TimeStamp: 2023-12-20 09:04:42.611620
+############# END OF RUN #############

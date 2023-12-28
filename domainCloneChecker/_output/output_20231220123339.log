@@ -1,0 +1,33 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:33:39.987758
+
+medtech.com: A Record: 208.91.197.27,,MX Record: 10 mx004.netsol.xion.oxcs.net. 10 mx003.netsol.xion.oxcs.net. 10 mx001.netsol.xion.oxcs.net. 10 mx002.netsol.xion.oxcs.net.,SOA Record: NS25.WORLDNIC.com. namehost.WORLDNIC.com. 123091604 10800 3600 604800 3600
+
+medtech.net: A Record: 217.160.0.130,AAAA Record: 2001:8d8:100f:f000::2c3,MX Record: 10 mx01.kundenserver.de. 10 mx00.kundenserver.de.,SOA Record: ns1023.ui-dns.com. hostmaster.kundenserver.de. 2016071905 28800 7200 604800 300
+
+medtech.org: A Record: 67.43.0.155,,MX Record: 10 medtech-org.mail.protection.outlook.com.,SOA Record: aragorn.ns.cloudflare.com. dns.cloudflare.com. 2325648953 10000 2400 604800 1800
+
+medtech.edu: A Record: 192.185.52.125,,MX Record: 0 medtech-edu.mail.protection.outlook.com.,SOA Record: ns8281.hostgator.com. dnsadmin.gator4141.hostgator.com. 2023121400 86400 7200 3600000 86400
+
+medtech.io: A Record: 91.195.240.82,,,SOA Record: ns1.name.com. hostmaster.nsone.net. 1578434004 7200 3600 604800 300
+
+medtech.co: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+medtech.biz: A Record: 199.188.201.173,,MX Record: 20 mx3-hosting.jellyfish.systems. 10 mx2-hosting.jellyfish.systems. 5 mx1-hosting.jellyfish.systems.,SOA Record: dns1.namecheaphosting.com. cpanel.tech.namecheap.com. 1700467346 86400 7200 3600000 86400
+
+m3dtech.com: A Record: 66.96.149.22,,MX Record: 30 mx.m3dtech.com.,SOA Record: ns1.mydomain.com. dnsadmin.mydomain.com. 2012072758 10800 3600 604800 3600
+
+m3dtech.net: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+m3dtech.io: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+m3dtech.co: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns01.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+
+Sites found: ['medtech.com', 'medtech.net', 'medtech.org', 'medtech.edu', 'medtech.io', 'medtech.co', 'medtech.biz', 'm3dtech.com', 'm3dtech.net', 'm3dtech.io', 'm3dtech.co']
+
+
+
+TimeStamp: 2023-12-20 12:34:12.414186
+############# END OF RUN #############

@@ -1,0 +1,19 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 12:07:42.018033
+
+medequip.com: A Record: 159.203.124.37,,MX Record: 0 medequip.com.,SOA Record: ns4.corecommhosting.com. kennysay.gmail.com. 2023120201 3600 1800 1209600 86400
+
+medequip.net: A Record: 70.32.23.49 208.91.197.27,,,SOA Record: NS83.WORLDNIC.COM. namehost.WORLDNIC.COM. 120092312 10800 3600 604800 3600
+
+medequip.org: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+medequip.co: A Record: 43.245.52.70,,,SOA Record: ns.freeparking.co.nz. hostmaster.freeparking.co.nz. 170037990 86400 7200 3600000 28800
+
+
+Sites found: ['medequip.com', 'medequip.net', 'medequip.org', 'medequip.co']
+
+
+
+TimeStamp: 2023-12-20 12:08:24.285446
+############# END OF RUN #############

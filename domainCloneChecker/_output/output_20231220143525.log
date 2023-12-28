@@ -1,0 +1,21 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 14:35:30.101210
+
+spinealign.com: A Record: 23.227.38.32,,MX Record: 0 spinealign-com.mail.protection.outlook.com.,SOA Record: ns37.domaincontrol.com. dns.jomax.net. 2023092605 28800 7200 604800 600
+
+spinealign.net: A Record: 76.223.54.146 13.248.169.48,,MX Record: 0 .,SOA Record: ns5.afternic.com. dns.jomax.net. 2023042600 28800 7200 604800 300
+
+spinealign.io: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+
+spinealign.co: A Record: 15.197.148.33 3.33.130.190,,MX Record: 10 mailstore1.secureserver.net. 0 smtp.secureserver.net.,SOA Record: ns67.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 3600
+
+spinealigns.com: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns07.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+
+Sites found: ['spinealign.com', 'spinealign.net', 'spinealign.io', 'spinealign.co', 'spinealigns.com']
+
+
+
+TimeStamp: 2023-12-20 14:47:46.966935
+############# END OF RUN #############

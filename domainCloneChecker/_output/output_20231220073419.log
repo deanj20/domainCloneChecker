@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 07:34:23.870107
+
+alliedwell.com: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195,AAAA Record: traff-6.hugedomains.com. hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.,MX Record: traff-1.hugedomains.com. hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122001 28800 5000 1209600 10800
+
+alliedwell.net: A Record: 59.188.3.132,,MX Record: 10 mail.alliedwell.net. 0 alliedwell-net.mail.protection.outlook.com.,SOA Record: ns1.hkbn.net. sysadm.ns1.hkbn.net. 2200602163 3600 1800 1209600 3600
+
+alliedwells.com: A Record: 75.2.70.75 99.83.190.102,,MX Record: 5 alt1.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com.,SOA Record: ns37.domaincontrol.com. dns.jomax.net. 2021042806 28800 7200 604800 600
+
+
+Sites found: ['alliedwell.com', 'alliedwell.net', 'alliedwells.com']
+
+
+
+TimeStamp: 2023-12-20 07:38:36.790272
+############# END OF RUN #############

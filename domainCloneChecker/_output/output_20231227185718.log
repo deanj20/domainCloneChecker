@@ -1,0 +1,55 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-27 18:57:19.972886
+
+github.com: A Record: 140.82.112.3,,MX Record: 1 aspmx.l.google.com. 10 alt3.aspmx.l.google.com. 10 alt4.aspmx.l.google.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com.,SOA Record: dns1.p08.nsone.net. hostmaster.nsone.net. 1656468023 43200 7200 1209600 3600
+
+github.net: ,,,SOA Record: dns1.p05.nsone.net. hostmaster.nsone.net. 1648626696 43200 7200 1209600 3600
+
+github.org: A Record: 140.82.113.18,,,SOA Record: dns1.p09.nsone.net. hostmaster.nsone.net. 1646323670 43200 7200 1209600 3600
+
+github.io: A Record: 185.199.109.153 185.199.110.153 185.199.111.153 185.199.108.153,,,SOA Record: dns1.p05.nsone.net. hostmaster.nsone.net. 1647625169 43200 7200 1209600 3600
+
+github.tv: A Record: 140.82.113.18,,,SOA Record: dns1.p06.nsone.net. hostmaster.nsone.net. 1646323672 43200 7200 1209600 3600
+
+github.co: A Record: 40.71.11.169 104.43.221.31,,,SOA Record: ns1-37.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+
+github.biz: A Record: 140.82.113.18,,,SOA Record: dns1.p03.nsone.net. hostmaster.nsone.net. 1646323667 43200 7200 1209600 3600
+
+9ithub.com: A Record: 172.234.25.151,,,SOA Record: dns101.registrar-servers.com. hostmaster.parklogic.com. 2021051901 7200 2400 604800 600
+
+g1thub.com: ,,,SOA Record: ns1.namebrightdns.com. dns.namebright.com. 2023122701 28800 5000 1209600 10800
+
+glthub.com: A Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com. 3.18.7.81 3.19.116.195,AAAA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,MX Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.,SOA Record: traff-3.hugedomains.com. hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
+
+glthub.net: A Record: 162.255.119.211,,MX Record: 1 52.34.63.42.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573453977 43200 3600 604800 3601
+
+glthub.org: A Record: 13.248.213.45 76.223.67.189,,,SOA Record: ns51.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600
+
+glthub.io: A Record: 3.210.34.100,,,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573456471 43200 3600 604800 3601
+
+glthub.co: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 44.208.74.239 44.198.230.4,AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+
+gitshub.com: A Record: 121.199.56.162,,,SOA Record: dns17.hichina.com. hostmaster.hichina.com. 2023122610 3600 1200 86400 600
+
+git5hub.com: A Record: 46.166.189.98,,,SOA Record: ns-canada.topdns.com. hostmaster.topdns.com. 2023021302 14400 7200 950400 7200
+
+gitzhub.com: ,,,SOA Record: aarav.ns.cloudflare.com. dns.cloudflare.com. 2302605125 10000 2400 604800 3600
+
+githubs.com: A Record: 154.23.134.53,,,
+
+githubs.net: A Record: 107.178.223.183 104.155.138.21,AAAA Record: 2600:1900:4000:ea00:8000:64:: 2600:1900:4000:ea00:8000:63::,MX Record: 14 mx2.csof.net. 14 mx1.csof.net.,SOA Record: ns1.csof.net. hostmaster.csof.net. 1703725814 16384 2048 1048576 2560
+
+githubs.org: A Record: 199.249.170.147,,,SOA Record: hal.ns.cloudflare.com. dns.cloudflare.com. 2326389578 10000 2400 604800 1800
+
+github5.com: A Record: 47.95.219.249,,,SOA Record: dns29.hichina.com. hostmaster.hichina.com. 2023122517 3600 1200 86400 600
+
+gitshubs.com: A Record: 160.124.65.4,,,SOA Record: conrad.ns.cloudflare.com. dns.cloudflare.com. 2324857467 10000 2400 604800 1800
+
+
+Sites found: ['github.com', 'github.net', 'github.org', 'github.io', 'github.tv', 'github.co', 'github.biz', '9ithub.com', 'g1thub.com', 'glthub.com', 'glthub.net', 'glthub.org', 'glthub.io', 'glthub.co', 'gitshub.com', 'git5hub.com', 'gitzhub.com', 'githubs.com', 'githubs.net', 'githubs.org', 'github5.com', 'gitshubs.com']
+
+
+
+TimeStamp: 2023-12-27 19:33:56.980264
+############# END OF RUN #############

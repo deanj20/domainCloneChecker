@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 07:38:43.322838
+
+asthmaandallergy.com: A Record: 208.43.88.227,,MX Record: 20 mx2-us1.ppe-hosted.com. 10 mx1-us1.ppe-hosted.com.,SOA Record: NS47.WORLDNIC.com. namehost.WORLDNIC.com. 123092512 10800 3600 604800 3600
+
+asthmaandallergy.org: A Record: 172.67.220.167 104.21.62.63,,,SOA Record: boyd.ns.cloudflare.com. dns.cloudflare.com. 2324845962 10000 2400 604800 1800
+
+
+Sites found: ['asthmaandallergy.com', 'asthmaandallergy.org']
+
+
+
+TimeStamp: 2023-12-20 07:43:17.292615
+############# END OF RUN #############

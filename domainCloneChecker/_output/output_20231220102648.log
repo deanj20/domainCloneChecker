@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 10:26:48.929324
+
+cbcil.com: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+cbcil.org: A Record: 107.180.25.236,,MX Record: 0 cbcil-org.mail.protection.outlook.com.,SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2020021902 28800 7200 604800 600
+
+cbcii.com: A Record: 38.26.140.249,,,SOA Record: ns1.gname.net. admin.gname.net. 1679476617 7200 3600 1209600 1800
+
+
+Sites found: ['cbcil.com', 'cbcil.org', 'cbcii.com']
+
+
+
+TimeStamp: 2023-12-20 10:27:19.468757
+############# END OF RUN #############

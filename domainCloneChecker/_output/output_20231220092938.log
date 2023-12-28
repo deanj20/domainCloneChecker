@@ -1,0 +1,27 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:29:42.232846
+
+eyeview.com: A Record: 104.21.89.42 172.67.156.88,AAAA Record: 2606:4700:3036::6815:592a 2606:4700:3032::ac43:9c58,,SOA Record: augustus.ns.cloudflare.com. dns.cloudflare.com. 2327878537 10000 2400 604800 1800
+
+eyeview.net: A Record: 185.53.178.54,,MX Record: 5 mail.h-email.net.,SOA Record: ns1.parkingcrew.net. hostmaster.eyeview.net. 1703086000 28800 7200 604800 86400
+
+eyeview.org: A Record: 207.148.248.143,,,
+
+eyeview.tv: A Record: 35.241.18.84,,,SOA Record: 208.91.197.91. hostmaster.eyeview.tv. 1703086189 10800 3600 604800 3600
+
+eyeview.co: A Record: 206.188.193.191,,,SOA Record: NS25.WORLDNIC.COM. namehost.WORLDNIC.COM. 120042012 10800 3600 604800 3600
+
+eyeview.biz: A Record: 208.91.197.27,,,SOA Record: NS29.WORLDNIC.COM. namehost.WORLDNIC.COM. 112021822 10800 3600 604800 3600
+
+eyesview.com: A Record: 3.33.130.190 15.197.148.33,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns13.domaincontrol.com. dns.jomax.net. 2023091802 28800 7200 604800 3600
+
+eyeviews.com: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+
+Sites found: ['eyeview.com', 'eyeview.net', 'eyeview.org', 'eyeview.tv', 'eyeview.co', 'eyeview.biz', 'eyesview.com', 'eyeviews.com']
+
+
+
+TimeStamp: 2023-12-20 09:35:15.160946
+############# END OF RUN #############

@@ -1,0 +1,23 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 09:45:28.389526
+
+fertilehope.com: A Record: 64.37.120.101,,,SOA Record: dns018.a.register.com. root.register.com. 2006080308 28800 7200 604800 14400
+
+fertilehope.org: A Record: 3.33.152.147 15.197.142.173,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2021102000 28800 7200 604800 600
+
+fertilehopes.com: A Record: 3.33.130.190 15.197.148.33,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns27.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 3600
+
+fertilehopes.net: A Record: 15.197.148.33 3.33.130.190,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+fertilehopes.org: A Record: 162.144.18.93,,MX Record: 0 mail.fertilehopes.org.,SOA Record: cns2065.hostgator.com. root.cloud1033.hostgator.com. 2023111701 86400 7200 3600000 86400
+
+fertilehopes.biz: A Record: 15.197.148.33 3.33.130.190,,MX Record: 0 smtp.secureserver.net. 10 mailstore1.secureserver.net.,SOA Record: ns47.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+
+Sites found: ['fertilehope.com', 'fertilehope.org', 'fertilehopes.com', 'fertilehopes.net', 'fertilehopes.org', 'fertilehopes.biz']
+
+
+
+TimeStamp: 2023-12-20 09:48:31.168305
+############# END OF RUN #############

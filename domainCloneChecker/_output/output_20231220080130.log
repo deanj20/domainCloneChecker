@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:01:34.719649
+
+rogerspharmacy.com: A Record: 45.33.25.192,,MX Record: 10 aspmx3.googlemail.com. 1 aspmx.l.google.com. 10 aspmx2.googlemail.com. 5 alt2.aspmx.l.google.com. 5 alt1.aspmx.l.google.com.,SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2021011103 28800 7200 604800 600
+
+rogerspharmacy.net: A Record: 208.147.67.115,,,SOA Record: ndh1-nmgt-ins.mckesson.com. noreply.mckesson.com. 2006103027 3600 900 2592000 60
+
+
+Sites found: ['rogerspharmacy.com', 'rogerspharmacy.net']
+
+
+
+TimeStamp: 2023-12-20 08:04:40.120938
+############# END OF RUN #############

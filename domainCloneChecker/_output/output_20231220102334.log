@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 10:23:38.507247
+
+geripsych.com: A Record: 208.91.197.27,,MX Record: 50 aspmx3.googlemail.com. 40 aspmx2.googlemail.com. 30 alt2.aspmx.l.google.com. 10 aspmx.l.google.com. 20 alt1.aspmx.l.google.com.,SOA Record: NS23.WORLDNIC.com. namehost.WORLDNIC.com. 111071713 10800 3600 604800 3600
+
+geripsych.net: A Record: 208.91.197.27,,,SOA Record: NS67.WORLDNIC.COM. namehost.WORLDNIC.COM. 120032922 10800 3600 604800 3600
+
+geripsych.org: A Record: 208.91.197.23,,,SOA Record: NS23.WORLDNIC.COM. namehost.WORLDNIC.COM. 107112903 10800 3600 604800 3600
+
+
+Sites found: ['geripsych.com', 'geripsych.net', 'geripsych.org']
+
+
+
+TimeStamp: 2023-12-20 10:24:26.136993
+############# END OF RUN #############

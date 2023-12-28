@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:57:31.018522
+
+rehabfit.com: A Record: 198.49.23.144 198.185.159.145 198.49.23.145 198.185.159.144,,MX Record: 1 aspmx.l.google.com. 10 aspmx2.googlemail.com. 10 aspmx3.googlemail.com. 5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com.,SOA Record: dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1660094505 43200 3600 604800 3601
+
+rehabfit.co: A Record: 23.227.38.71,,MX Record: 10 mx.zoho.com. 20 mx2.zoho.com. 50 mx3.zoho.com.,SOA Record: ns-cloud-c1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+
+Sites found: ['rehabfit.com', 'rehabfit.co']
+
+
+
+TimeStamp: 2023-12-20 13:58:06.415644
+############# END OF RUN #############

@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 08:20:16.172712
+
+abcpeds.com: A Record: 13.248.213.45 76.223.67.189,,,SOA Record: ns41.domaincontrol.com. dns.jomax.net. 2023121800 28800 7200 604800 3600
+
+abcpeds.net: A Record: 172.67.220.80 104.21.94.61,AAAA Record: 2606:4700:3036::6815:5e3d 2606:4700:3031::ac43:dc50,MX Record: 10 plsmtp2.hushmail.com. 10 plsmtp1.hushmail.com.,SOA Record: jim.ns.cloudflare.com. dns.cloudflare.com. 2300790877 10000 2400 604800 3600
+
+
+Sites found: ['abcpeds.com', 'abcpeds.net']
+
+
+
+TimeStamp: 2023-12-20 08:21:02.682321
+############# END OF RUN #############

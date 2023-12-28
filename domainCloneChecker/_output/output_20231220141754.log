@@ -1,0 +1,29 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 14:17:58.501334
+
+skinvibe.com: A Record: 207.148.248.143,,,SOA Record: ns.buydomains.com. hostmaster.buydomains.com. 2015071319 86400 7200 604800 300
+
+skinvibe.net: A Record: 86.105.245.69,,,SOA Record: ns1.eftydns.com. hostmaster.skinvibe.net. 2023121401 10800 3600 604800 3600
+
+skinvibes.com: A Record: 159.89.244.183 164.90.244.158,,,
+
+skinvibes.net: A Record: 185.230.63.107 185.230.63.186 185.230.63.171,,,SOA Record: ns10.wixdns.net. support.wix.com. 2019070918 10800 3600 604800 3600
+
+skinvibes.co: A Record: 185.230.63.186 185.230.63.107 185.230.63.171,,,SOA Record: ns2.wixdns.net. support.wix.com. 2023020203 10800 3600 604800 3600
+
+skinvibez.com: A Record: 23.236.62.147,,,SOA Record: ns-cloud-e1.googledomains.com. cloud-dns-hostmaster.google.com. 3 21600 3600 259200 300
+
+skinvibez.org: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns31.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+
+skin-vibes.com: A Record: 13.248.243.5 76.223.105.230,,MX Record: 0 skinvibes-com01b.mail.protection.outlook.com.,SOA Record: ns31.domaincontrol.com. dns.jomax.net. 2023121000 28800 7200 604800 600
+
+skinsvibes.com: A Record: 185.27.134.57,,,SOA Record: ns1.infinityfree.com. support.skinsvibes.com. 2006112402 28800 7200 604800 86400
+
+
+Sites found: ['skinvibe.com', 'skinvibe.net', 'skinvibes.com', 'skinvibes.net', 'skinvibes.co', 'skinvibez.com', 'skinvibez.org', 'skin-vibes.com', 'skinsvibes.com']
+
+
+
+TimeStamp: 2023-12-20 14:26:29.285613
+############# END OF RUN #############

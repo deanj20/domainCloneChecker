@@ -1,0 +1,15 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 13:58:08.351398
+
+aoccb.com: A Record: 52.2.180.68,,MX Record: 0 aoccb-com.mail.protection.outlook.com.,SOA Record: ns75.domaincontrol.com. dns.jomax.net. 2021121503 28800 7200 604800 600
+
+aoccb.org: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns75.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+
+Sites found: ['aoccb.com', 'aoccb.org']
+
+
+
+TimeStamp: 2023-12-20 13:58:28.434314
+############# END OF RUN #############

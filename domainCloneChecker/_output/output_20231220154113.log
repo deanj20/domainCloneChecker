@@ -1,0 +1,71 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 15:41:17.051549
+
+heart.com: A Record: 3.33.139.32,,,SOA Record: ns1.markmonitor.com. hostmaster.markmonitor.com. 2019051302 86400 3600 2592000 172800
+
+heart.net: A Record: 172.67.211.220 104.21.91.75,AAAA Record: 2606:4700:3037::ac43:d3dc 2606:4700:3030::6815:5b4b,MX Record: 100 heart-net.mail.protection.outlook.com.,SOA Record: ada.ns.cloudflare.com. dns.cloudflare.com. 2325829417 10000 2400 604800 1800
+
+heart.org: A Record: 104.18.27.158 104.18.26.158,,MX Record: 10 mxa-004ad404.gslb.pphosted.com. 10 mxb-004ad404.gslb.pphosted.com.,SOA Record: ns1.heart.org. domainregistration.heart.org. 2023041576 10800 3600 2419200 900
+
+heart.tv: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+heart.biz: A Record: 14.45.111.82,,MX Record: 10 mail.pay.biz.,SOA Record: ns1.pay.biz. ns1.pay.biz. 2003061501 10800 1800 604800 86400
+
+h3art.com: A Record: 185.25.23.55,,MX Record: 40 mail2.h3art.com. 0 mail.h3art.com.,SOA Record: ns121.name-servers.gr. servers.pointer.gr. 2023112704 3600 1800 1209600 86400
+
+h3art.net: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns49.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+h3art.co: A Record: 15.197.148.33 3.33.130.190,,,SOA Record: ns17.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600
+
+he4rt.com: A Record: 3.64.163.50,,,SOA Record: ns1.dan.com. dns.jomax.net. 2023031300 28800 7200 604800 86400
+
+hear7.com: A Record: 15.197.162.184,,,SOA Record: launch1.spaceship.net. support.spaceship.com. 1701354691 43200 3600 604800 3600
+
+hearst.com: A Record: 152.195.19.97,AAAA Record: 2606:2800:11f:1cb7:261b:1f9c:2074:3c,MX Record: 10 mxb-0018d701.gslb.pphosted.com. 10 mxa-0018d701.gslb.pphosted.com.,SOA Record: pdns73.ultradns.com. hostmaster.hearst.com. 2017064588 10800 3600 2592000 3600
+
+hearst.net: A Record: 205.178.189.129,,,SOA Record: NS3.WORLDNIC.COM. namehost.WORLDNIC.COM. 113030914 10800 3600 604800 3600
+
+hearst.io: A Record: 52.92.138.155 52.218.176.42 52.92.176.51 52.92.153.91 52.92.180.59 52.92.178.195 52.92.208.195 52.218.220.122,,MX Record: 10 postman.hearst.io.,SOA Record: ns-1476.awsdns-56.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+
+hearst.co: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+hearts.com: A Record: 15.197.142.173 3.33.152.147,,,SOA Record: ns55.domaincontrol.com. dns.jomax.net. 2022121101 28800 7200 604800 600
+
+hearts.net: A Record: 99.83.176.46,,,SOA Record: ns1.markmonitor.com. hostmaster.markmonitor.com. 2021050303 86400 3600 2592000 172800
+
+hearts.org: A Record: 3.33.139.32,,,SOA Record: ns1.markmonitor.com. hostmaster.markmonitor.com. 2021050302 86400 3600 2592000 172800
+
+hearts.io: A Record: 44.230.85.241 52.33.207.7,,,SOA Record: curitiba.ns.porkbun.com. dns.cloudflare.com. 2328530308 10000 2400 604800 1800
+
+hearts.co: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+hearts.biz: A Record: 199.59.243.225,,,SOA Record: ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600
+
+h3arts.com: A Record: 185.25.20.100,,,SOA Record: freedns1.pointer.gr. thomas.pointer.gr. 1908281346 86400 7200 2419200 86400
+
+h3arts.org: A Record: 3.33.130.190 15.197.148.33,,,SOA Record: ns75.domaincontrol.com. dns.jomax.net. 2023092000 28800 7200 604800 600
+
+he4rts.com: A Record: 66.96.147.160,,MX Record: 30 mx.he4rts.com.,SOA Record: ns1.ipage.com. dnsadmin.ipage.com. 2022011239 10800 3600 604800 3600
+
+heart5.com: A Record: 164.90.244.158 159.89.244.183,,,
+
+heart5.net: A Record: 76.223.54.146 13.248.169.48,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+heart5.biz: A Record: 133.130.64.128,,MX Record: 10 mx19.gmoserver.jp.,SOA Record: dns01.gmoserver.jp. hostmaster.heart5.biz. 2018051112 28800 7200 604800 600
+
+heartz.com: A Record: 5.22.145.16 5.22.145.121,AAAA Record: 2a00:18e0:5:3:dfe2:c743:85aa:61bc 2a00:18e0:5:2:7577:4e4d:413b:f507,,SOA Record: ns1.brandshelter.com. tech.brandshelter.com. 2022030602 10800 3600 604800 300
+
+heartz.net: A Record: 5.22.145.16 5.22.145.121,AAAA Record: 2a00:18e0:5:3:dfe2:c743:85aa:61bc 2a00:18e0:5:2:7577:4e4d:413b:f507,,SOA Record: ns1.brandshelter.com. tech.brandshelter.com. 2021102800 86400 7200 3600000 300
+
+heartz.org: A Record: 69.16.231.82,,MX Record: 10 mx156.hostedmxserver.com.,SOA Record: ns1.parklogic.com. hostmaster.heartz.org. 2021080401 3600 7200 1209600 3600
+
+heartz.co: A Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com. 34.226.73.76 54.236.141.185,AAAA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,MX Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.,SOA Record: pr-suspensions.go.co. pr-suspensions-neuweb-biz.expedrion.biz. Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+
+
+Sites found: ['heart.com', 'heart.net', 'heart.org', 'heart.tv', 'heart.biz', 'h3art.com', 'h3art.net', 'h3art.co', 'he4rt.com', 'hear7.com', 'hearst.com', 'hearst.net', 'hearst.io', 'hearst.co', 'hearts.com', 'hearts.net', 'hearts.org', 'hearts.io', 'hearts.co', 'hearts.biz', 'h3arts.com', 'h3arts.org', 'he4rts.com', 'heart5.com', 'heart5.net', 'heart5.biz', 'heartz.com', 'heartz.net', 'heartz.org', 'heartz.co']
+
+
+
+TimeStamp: 2023-12-20 15:45:45.385436
+############# END OF RUN #############

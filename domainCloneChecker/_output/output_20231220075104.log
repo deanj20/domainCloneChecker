@@ -1,0 +1,17 @@
+
+############# START OF RUN #############
+TimeStamp: 2023-12-20 07:51:08.681997
+
+beautysculpt.com: A Record: 13.248.169.48 76.223.54.146,,,SOA Record: ns1.namefind.com. dns.jomax.net. 2023031500 28800 7200 604800 300
+
+beautysculpt.net: A Record: 35.212.68.15,,MX Record: 20 mx20.mailspamprotection.com. 30 mx30.mailspamprotection.com. 10 mx10.mailspamprotection.com.,SOA Record: ns1.siteground.net. admins.siteground.com. 93 86400 7200 3600000 86400
+
+beautysculpt.co: A Record: 23.227.38.71,,MX Record: 1 mx.beautysculpt.co.cust.b.hostedemail.com.,SOA Record: ns-cloud-a1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+
+
+Sites found: ['beautysculpt.com', 'beautysculpt.net', 'beautysculpt.co']
+
+
+
+TimeStamp: 2023-12-20 08:01:28.356573
+############# END OF RUN #############
