@@ -34,10 +34,13 @@ To save new packages:
  domainCloneChecker - this project began as a hobby / personal investigation Sprint 2023, then I re-purposed it for a 
  Computer Science Research Methods class I was taking for my masters Fall 2023.
  Along the way I discovered DNS Twist by Marcin Ulikowski which is lightyears beyond what I would have ever accomplished
- Current build of DNS Twist is available at: https://github.com/elceef/dnstwist
- However, I was still finding some sites that DNS Twist was not, so I left it in.
- The research paper will be added to this repo on completion.
- I am not much of a programmer, but I had an idea about what I wanted to do, and made it work
+ (Current build of DNS Twist is available at: https://github.com/elceef/dnstwist)
+ 
+However, I was still finding some sites with DCC that DNS Twist was not, so I left it in.
+ 
+The research paper will be added to this repo on completion.
+ 
+I am not much of a programmer, but I had an idea about what I wanted to do, and made it work
  This code needs an overhaul which I may take on someday - see Future Improvements in Research Paper on attached
  Hopefully it will be helpful for someone curious like me.
  -JRD
