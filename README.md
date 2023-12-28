@@ -41,7 +41,7 @@ To save new packages:
  This code needs an overhaul which I may take on someday - see Future Improvements in Research Paper on attached
  Hopefully it will be helpful for someone curious like me.
  -JRD
-# Standalone:
+**Standalone:**
 Any of these tools can be used stand alone. The walktrhough below is only for someone wanting to repeat the steps I completed
 for my research paper - to build a sqlite database and export to CSV
 **dntwist**
@@ -64,7 +64,7 @@ for my research paper - to build a sqlite database and export to CSV
 *   #end of file     access_token = "??????????????????????????????????????????????????????????"
 
 
-# Walkthrough
+** Walkthrough**
 These are the steps I followed for my research paper, 
 "Proactive Detection of Impostor Domains for Improved Protection Against Spear Phishing Attacks"
 
