@@ -1,4 +1,4 @@
 .venv
 logs
-_output
+_output/*
 services/__pycache__
