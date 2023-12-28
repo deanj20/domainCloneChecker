@@ -10,6 +10,8 @@
 * `python -m venv .venv`
 * `.venv\scripts\activate `
 * `pip3 install -r requirements.txt`
+* `git submodule init`
+* `git submodule update`
 
 
 * --LINUX--
@@ -19,6 +21,9 @@
 * `python3 -m venv .venv`
 * `. .venv/bin/activate`
 * `pip3 install -r requirements.txt`
+*  `git submodule init`
+* `git submodule update`
+
 
 
 To save new packages:
