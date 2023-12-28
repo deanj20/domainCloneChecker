@@ -45,7 +45,7 @@ I am not much of a programmer, but I had an idea about what I wanted to do, and 
  Hopefully it will be helpful for someone curious like me.
  -JRD
 
-##Standalone:
+## Standalone:
 
 Any of these tools can be used stand alone. The walktrhough below is only for someone wanting to repeat the steps I completed
 for my research paper - to build a sqlite database and export to CSV
