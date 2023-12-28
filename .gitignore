@@ -1,4 +1,5 @@
-./domainCloneChecker/.venv
+./.venv
 ./domainCloneChecker/logs
 ./domainCloneChecker/_output/*
 ./domainCloneChecker/services/__pycache__
+
